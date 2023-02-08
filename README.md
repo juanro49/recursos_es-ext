@@ -20,6 +20,10 @@ En caso de no disponer de una gráfica compatible, se puede optar por un sistema
 
 Para el entrenamiento, habrá que unir todos los ficheros de cada idioma en uno (importante que se mantenga el orden de los contenidos linea a línea) o usar los denominados contenido-completo. Para ello se puede usar alguna de las muchas opciones disponibles, como por ejemplo [FilesMerge](https://www.filesmerge.com/sp/merge-text-files).
 
+### Fuentes de datos usadas
+- Contribuciones de voluntarios, especialmente socios de [OscecEstremaura](https://oscecestremaura.wordpress.com/)
+- Cadenas de traducciones de [FeedTV](https://github.com/juanro49/FeedTV) (Traducción realizada por [OscecEstremaura](https://oscecestremaura.wordpress.com/)) --> [https://hosted.weblate.org/projects/feedtv/feedtv/ext/](https://hosted.weblate.org/projects/feedtv/feedtv/ext/)
+
 ### Agradecimientos
 Este proyecto surgió por la idea de [Wikimedia España](https://ext.wikipedia.org/wiki/Hundaci%C3%B3n_Wikimedia) de reactivar e impulsar la [Güiquipedia](https://ext.wikipedia.org/), edición de la Wikipedia en la lengua extremeña.
 Los recursos de traducción son proporcionados por:
