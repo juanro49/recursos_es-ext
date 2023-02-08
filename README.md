@@ -4,7 +4,7 @@
 Este repositorio almacena pares de frases y palabras en Español y Extremeño línea a línea en diferentes ficheros por idioma para entrenar modelos de traducción que puedan ser usados en traductores como por ejemplo [LibreTranslate](https://libretranslate.com/).
 
 ## Contribuir
-Si quieres contribuir a la recopilación de datos, puedes editar los ficheros añadiendo las partes nuevas y crear un Pull Request para añadirlo al repositorio. Si no sabes como crear PR, puedes crear una petición en [este enlace](link) adjuntando los ficheros actualizados para que los actualicemos en el repositorio tras una revisión de que las palabras son correctas.
+Si quieres contribuir a la recopilación de datos, puedes editar los ficheros añadiendo las partes nuevas y crear un Pull Request para añadirlo al repositorio. Si no sabes como crear PR, puedes crear una petición en [este enlace](https://github.com/juanro49/recursos_es-ext/issues) adjuntando los ficheros actualizados para que los actualicemos en el repositorio tras una revisión de que las palabras son correctas.
 
 Es recomendable que si un párrafo tiene varias frases que tienen sentido por si solas, cada frase vaya en una línea en lugar de una línea con el párrafo completo. En el caso de palabras, es recomendable (si disponen de ellas), añadir sus formas masculinas, femeninas, singular y plural. Si son verbos, se recomienda añadir a conjugación completa.
 
