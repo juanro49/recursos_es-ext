@@ -8,11 +8,11 @@ Si quieres contribuir a la recopilación de datos, puedes editar los ficheros a�
 
 Es recomendable que si un párrafo tiene varias frases que tienen sentido por si solas, cada frase vaya en una línea en lugar de una línea con el párrafo completo. En el caso de palabras, es recomendable (si disponen de ellas), añadir sus formas masculinas, femeninas, singular y plural. Si son verbos, se recomienda añadir a conjugación completa.
 
-Estos recursos sirven para la traducción de Español a Extremeño, pero también podría usarse para traducir de Extremeño a Español. El problema es que [Stanza](https://github.com/stanfordnlp/stanza), una dependencia que usa [argos-train](https://github.com/argosopentech/argos-train) para crear los modelos de traducción, no tiene modelos de la lengua extremeña, o que dificulta la traducción en ese sentido. Si eres lingüista y sabes crear vectores de palabras y tokenización, o tienes conocimientos sobre ello y quieres colaborar en esa parte, tienen una [guía sobre como añadir nuevas lenguas](https://stanfordnlp.github.io/stanza/new_language.html).
+Estos recursos sirven para la traducción de Español a Extremeño, pero también podría usarse para traducir de Extremeño a Español. El problema es que [Stanza](https://github.com/stanfordnlp/stanza), una dependencia que usa [argos-train](https://github.com/argosopentech/argos-train) para crear los modelos de traducción, no tiene modelos de la lengua extremeña, o que dificulta la traducción en ese sentido. Si eres lingüista o tienes experiencia en la creación de vectores de palabras y tokenización y quieres colaborar en esa parte, puedes echar un vistazo a la [guía sobre como añadir nuevas lenguas](https://stanfordnlp.github.io/stanza/new_language.html).
 
 Si tienes cuenta en github, es recomendable un voto positivo en [este comentario](https://github.com/argosopentech/argos-translate/discussions/91#discussioncomment-1953141) donde tenemos hecha la solicitud para añadir el extremeño a argos-translate y donde iremos adjuntando los modelos que consigamos funcionales para que los añadan a su base de datos y estén disponibles en [LibreTranslate](https://libretranslate.com/)
 
-#### Entrenar modelos
+### Entrenar modelos
 Para el entrenamiento, se puede usar [Argos Train](https://github.com/argosopentech/argos-train) (instrucciones en el enlace).
 Para ello necesitamos una gráfica Nvidia compatible con [CUDA](https://developer.nvidia.com/cuda-zone), o una gráfica AMD compatible con [Rocm](https://docs.amd.com/) (Para ésta ultima, es necesario en la instalación reemplazar la versión de pytorch por la [versión que integra Rocm](https://pytorch.org/get-started/locally/)). También es posible usando CPU, pero es mucho mas lento.
 
@@ -26,14 +26,14 @@ Para el entrenamiento, habrá que unir todos los ficheros de cada idioma en uno 
 - [El cantón estremeñu](https://elcanton.org/)
 - [Dizionariu Estremeñu](https://letterly.github.io/Dizionariu.html)
 
-### Agradecimientos
+## Agradecimientos
 Este proyecto surgió por la idea de [Wikimedia España](https://ext.wikipedia.org/wiki/Hundaci%C3%B3n_Wikimedia) de reactivar e impulsar la [Güiquipedia](https://ext.wikipedia.org/), edición de la Wikipedia en la lengua extremeña.
 Los recursos de traducción son proporcionados por:
 - [OSCEC Estremaura](https://oscecestremaura.wordpress.com/)
 - [Dizionariu Estremeñu](https://letterly.github.io/Dizionariu.html)
 - Voluntarios que aportan nuevas palabras y frases (como podrías ser tu 😀).
 
-Esto es un trabajo comunitario con el único propósito de avanzar culturalmente, en este caso promocionando la lengua extremeña y creando herramientas para facilitar su conocimiento. Por ello, todo el contenido aquí publicado se encontrará bajo licencia [CC0 1.0 de Dominio Público](https://creativecommons.org/publicdomain/zero/1.0/deed.es) para que cualquiera pueda usarlo para crear herramientas o cualquier cosa que sirva para promocionar la lengua extremeña.
+Esto es un trabajo comunitario con el único propósito de avanzar culturalmente, en este caso promocionando la lengua extremeña y creando herramientas para facilitar su conocimiento. Por ello, todo el contenido aquí publicado se encontrará bajo licencia [CC0 1.0 de Dominio Público](https://creativecommons.org/publicdomain/zero/1.0/deed.es) para que cualquiera pueda usarlo para crear herramientas o cualquier cosa que sirva para extender y ayudar al conocimiento de la lengua extremeña.
 
 ---
 
