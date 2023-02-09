@@ -18,7 +18,7 @@ Para ello necesitamos una gráfica Nvidia compatible con [CUDA](https://develope
 
 En caso de no disponer de una gráfica compatible, se puede optar por un sistema cloud, en mi caso he optado por [Vast.ai](http://console.vast.ai/?ref=57538) usando la imagen docker de [argos-train](https://hub.docker.com/r/argosopentech/argostrain/tags) que es bastante económico.
 
-Para el entrenamiento, habrá que unir todos los ficheros de cada idioma en uno (importante que se mantenga el orden de los contenidos linea a línea) o usar los denominados contenido-completo. Para ello se puede usar alguna de las muchas opciones disponibles, como por ejemplo [FilesMerge](https://www.filesmerge.com/sp/merge-text-files).
+Para el entrenamiento, habrá que unir todos los ficheros de cada idioma en uno (importante que se mantenga el orden de los contenidos linea a línea) o usar los denominados contenido-completo, los cuales tienen el contenido de todos los ficheros ya unidos. Para ello se puede usar alguna de las muchas opciones disponibles, como por ejemplo [FilesMerge](https://www.filesmerge.com/sp/merge-text-files).
 
 ### Fuentes de datos usadas
 - Contribuciones de voluntarios, especialmente socios de [OscecEstremaura](https://oscecestremaura.wordpress.com/)
@@ -34,3 +34,8 @@ Los recursos de traducción son proporcionados por:
 - Voluntarios que aportan nuevas palabras y frases (como podrías ser tu 😀).
 
 Esto es un trabajo comunitario con el único propósito de avanzar culturalmente, en este caso promocionando la lengua extremeña y creando herramientas para facilitar su conocimiento. Por ello, todo el contenido aquí publicado se encontrará bajo licencia [CC0 1.0 de Dominio Público](https://creativecommons.org/publicdomain/zero/1.0/deed.es) para que cualquiera pueda usarlo para crear herramientas o cualquier cosa que sirva para promocionar la lengua extremeña.
+
+---
+
+# N'Estremeñu
+pendiente de traducir readme al extremeño
