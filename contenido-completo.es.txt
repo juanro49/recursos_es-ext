@@ -1,0 +1,651 @@
+Añadir Feed
+Ver TV
+Ver radio
+TV libres
+Acerca de
+Imposible obtener datos.
+Compruebe su conexión.
+FeedTV es una aplicación que te permite leer noticias de cualquier medio mediante RSS además de poder ver canales públicos de TV en cualquier lugar.
+FeedTV es posible gracias a RSS Parser, M3U Parser, al repositorio de canales de TDTChannels y recopilación de radios libres de enjey.
+Creada por Juanro49 bajo licencia Apache 2.0
+Tema de la aplicación
+Utilizar reproductor externo
+Está usando un reproductor externo para reproducir los canales
+Está usando el reproductor interno para reproducir los canales
+No añadir
+Añadir noticias recientes
+No tiene feeds añadidos, ¿Desea añadir el feed de noticias recientes?
+Ambos campos son obligatorios
+Fuente añadida correctamente
+Fuente modificada correctamente
+Nombre de la fuente de noticias
+Introduce el nombre y la dirección del Feed RSS
+Enlaces disponibles
+Modificar fuente
+¿Qué acción desea realizar?
+Fuente eliminada
+No se han obtenido artículos
+La conexión a internet no está disponible
+Añade fuentes desde el menú lateral izquierdo para comenzar
+Artículos actualizados correctamente
+Ha ocurrido un error al obtener elementos del Feed.
+URL copiada al portapapeles
+Introduce el tema a seguir y su origen
+Marcar si Google News no está disponible en su país
+Idioma establecido
+Ver en Github
+Hoy en día es habitual poner el beneficio económico y los cambios tecnológico por encima de todo, es lo que llamamos la ideología del pogreso.
+Esta postura cultural, base del pensamiento europeo de los últimos siglos, ha sido una de las ideas fuertes de la época en la que vivimos.
+Desde la Conquista de América y la colonización del mundo —y con las revoluciones liberales, facistas y socialistas—, la Modernidad se establece como la edad clásica de nuestro tiempo.
+Durante mucho tiempo, el concepto del pogreso ha guiado el crecimiento de las ciudades y de las metrópolis en todo el mundo, la expansión de los valores liberales, el distanciamiento de la naturaleza, la sobreproducción industrial, la pérdida de las culturas tradicionales y una economía secuestrada por los Estados y apoyada en la moneda.
+Tras muchos años, este sistema nos ha dado a muchos más años de vida, cuartos de baño y papel higiénico... pero a cambio de esto hemos perdido la sencillez, no sabemos trabajar como la gente de antes ni subsistir en el monte, hemos causado desequilibrios graves en la naturaleza, hemos condenado a millones a la pobreza y el hambre, y la mayoría de las almas viven controladas por unos cuantos desalmados.
+El amor por el dinero es tan grande que ha arrasado con todo lo demás.
+La Libertad guiando al pueblo, Eugène Delacroix.
+La dama dela República, diosa del Estado liberal francés, llama a las masas a la guerra.
+Desde el extremeñismo hipócrita, liberal o socialdemócrata, se habla de la importancia de tener buenas comunicaciones y ser capaces de competir con economías más fuertes... no somos del todo intolerantes con esta postura porque parece la más lógica, pero... ¿acaso hemos pensado seriamente lo que ganamos con ello?
+Seamos sinceros: Extremadura es la huerta de Europa y el destino vacacional de las clases medias de las ciudades españolas y —cada vez más— europeas.
+En el engranaje del capitalismo mundial, e incluso en nuestro Estado, somos ciudadanos de segunda o tercera categoría: un territorio destinado a la producción de materias primas y energía para las capitales de fuera.
+Esto no va a cambiar porque tengamos más trenes o más aeropuertos, sólo serviría para acomodar y agravar la situación de subyugación en la que vivimos.
+Extremadura produce energía para el consumo de Madrid.
+El centro urbano de Castilla absorbe la producción del antiguo Reino de León.
+Que nuestra tierra es una colonia ya lo dudan pocos extremeños.
+Y es que al pueblo extremeño la globalización, más que ganancias, nos ha traído más emigración, los eucaliptos, el camalote del Guadiana, la seca de las encinas, el encarecimiento de los precios, el cierre de los pequeños comercios y la ruina de la agricultura y la ganadería... pero a cambio ni siquiera nos ha permitido desarrollar la industria, ni conservar nuestra cultura, ni mantener la población, ni ser referencia en aspecto alguno a alto nivel.
+¿No significa eso que la apertura de las fronteras no nos ha beneficiado tanto como nos gusta creer?
+¿No será que nos tienen engañados y que somos los perdedores de la globalización?
+Pues entoces... ¿para qué tanto tren?
+¿Para qué tanto turismo cuando el pueblo no tiene tierras ni Extremadura tiene un tejido productivo desarrollado?
+En momentos de necesidad como este nos damos cuenta.
+El futuro immediato parece que se dirige más hacia el proteccionismo y los cierres fronterizos que hacia la apertura de las sociedades o el desarrollo de un único polo geopolítico.
+Crisis ambiental: río Guadiana repleto de camalote, una planta tropical que adorna las peceras de las casas.
+La epidemia del coronavirus es la calma antes de la tormenta.
+Las noticias que nos han dado sobre la infección parece que son incompletas, pidiendo cautela muchos científicos por no conocerse todavía ni la fuente ni la antigüedad de la enfermedad.
+Sea como fuere, la campaña internacional de seguridad alrededor del virus predispone una transformación de la economía mundial en la que la soberanía va a tener una importancia mucho más grande que la que ha tenido hasta ahora.
+Las cuarentenas se usan también para concentrar poder y para que el rebaño no se descontrole.
+La globalización ya no da para más y la economía global va a dar paso a mercados continentales más fuertes y más conflictos internacionales.
+Las luchas por la soberanía y las riñas de poder entre gobiernos mundiales, estatales y regionales serán frecuentes.
+Debemos tener calma, sí, pero también debemos comprender que las cosas ya no van a ser como eran.
+Tenemos que luchar por lo nuestro.
+El Bronco es uno de estos pueblos que están asentados en un sitio de paso y, como es de paso, nadie lo tiene en cuenta.
+Yendo hacia Villanueva o hacia Moheda, lo atraviesas rápido, como si aquello fueran cuatro casitas.
+La verdad es que este pueblo está en un cruce de caminos (para Santa Cruz, para Cerezo, para Palomero, para Santibáñez, para La Higal, para Villanueva...), rodeado por dos arroyos (El Risco, Moñina) y la ribera del Bronco, que le da nombre.
+Todo eso no lo aprecia quien va por la carretera, pero antiguamente, cuando no quedaban más medios que ir a pie a los sitios, este pueblecito sí salía en los mapas.
+De hecho, fue municipio, hasta que después pasó a Santa Cruz como una alquería.
+Letrero según se viene de Villanueva.
+Actualmente es un pueblecito atravesado por la carretera, entre olivos, encinares, donde están de moda los caballos y el pastoreo de ovejas, para fachenda y para quesos.
+Algunas casitas nuevas se ven en obras, quizás de los hijos y nietos de los bronqueños que vivían ahí.
+El lugar del Bronco a orillas de la ribera homónima hacia los años 40-50, en la foto del Vuelo Americano.
+El caserío de ahora está rectificado y pocas casas quedan con la hechura de las casas del siglo XVIII o XIX, con los dinteles y las jambas graníticos, los marcos de las ventanas lo mismo y las alpoyatas de las ventanas.
+Las calles siguen el trazo antiguo de oeste a este, abocadas al norte, según el recodo de la ribera.
+Casi no se aprecian construcciones nuevas como en otros pueblos que se ensancharon... tal vez porque este pueblecito no cae cerca de ninguna capital y porque la gente fue emigrando con el paso de los años.
+Los nombres de las calles, salvo "Cervantes" y "Colón", que son los únicos antropónimos, los demás hacien referencia al lugar, es decir, conservan los nombres antiguos castellanizados: Real, Medio, Sol, Fragua, Plazuela...
+Este es el reportaje en fotografías que hemos hecho en este pueblo de las tierras de la Granada antigua, que en la actualidad a duras penas alcanza los 43 habitantes.
+Cara enjalbegada en la Plaza.
+Gato en una pared de la Plaza.
+Bancos de la Plaza entre plataneros y periquitos.
+Iglesia de la Magdalena desde el atrio.
+Ventanina dela calli "Real".
+Puerta de la calle "Colón".
+Travesío de la "Fragua".
+Gatos de la calle "Fragua".
+Extremadura, coto de caza.
+Cartucho en mitad de un camino en Valdelacalzada.
+En memoria de los animales asesinados en Portugal y de cada uno de los que fueron víctimas del entretenimiento demente e inmoral que es la caza hoy en día.
+Si eres un animal y por cuestiones climáticas acabas en Extremadura, pronto saldrás de este mundo porque un humano vestido de caqui y con una escopeta al hombro está deseando de pegarte un tiro.
+Si eres un perro de caza, vivirás en una choza todo el año, junto a docenas de perros más comiendo pan ablandado y húmedo y sobras, atado del cuello sin poder moverte del sitio ni siquiera para echarte a dormir, y ladrarás de rabia a todo el que pase por delante y aullarás dando alaridos escalofriantes cada noche, rompiendo el descanso de las demás especies.
+Si eres un pájaro y el ser humano estuvo a punto de extinguirte antes, con un poco de suerte pondrás el nido, criarás y emigrarás; si no, no tendrás árbol seguro, no habrá espadaña que te oculte, ni charca que proteja.
+Ningún zarzal será suficientemente profundo para taparte.
+Si corres a cuatro patas, ni madriguera, ni agujero, ni arbusto, ni roca alguna te cobijará.
+No sirven las cabriolas, ni las fintas, ni la velocidad para escabullirte: detrás de cada zarza, de cada esquina, de cada jara está acechándote con la paciencia ansiosa del psicópata, según la cual el tiempo se cuenta en sangre.
+Si eres un humano y no estás en el mundo dela caza sufrirás todos los daños colaterales posibles: no podrás salir al campo sin sentir las balas volando y los cañonazos estruendosos en los barrancos de las riberas, ni pasar a ninguna parte porque donde no hay animal explotado por la ganadería hay coto de caza.
+El camino del senderista, la vereda y el arroyo serán de plomo contaminante siguiendo la hilera de cartuchos y las latas de cerveza por todos lados.
+En esos mismos caminos verás la gota de sangre de a quién le vaciaron la vida, verás el perro inútil para el cazador desorientado, desenañado y deambulante buscando comida o colgando de una encina.
+Te encontrarás al jabalí estresado cruzando la carretera, huyendo de montería del día anterior y el ganso decapitado a orillas de una charca por abalanzarse un galgo en mal momento una tarde de entrenamiento.
+Con todo esto, el corazón se te encogerá cada vez que salgas al campo.
+¿Cómo puede ser un pasatiempo matar a otro ser vivo?
+No hay igualdad de condiciones ni necesidad, solamente afán de sentirse alguien encañonando a alguien porque quitarle la vida es mandar sobre él.
+Que te guste matar es reconocerse psicópata.
+Soltar la rabia diaria pegando tiros es remover más aún el ansia destructiva y vanidosa de igual manera que si uno quisiera beber agua clara de un manantial y la envarbasca primero y coge un vaso roto para bebérsela: envenena a los que beban después y se pone el hocico ensangrentado.
+Entretenerse matando es la cosa más miserable y rastrera en las personas.
+No es cuestión de que una ley interesada y envenenada, del todo inmoral y atrasada, sirva para tapar el vicio más ruin, vomitivo y bajo que se pueda tener, que es el de aficionarse al daño y a la matanza de otros animales.
+Una ley no puede tapar unas entrañas indignas y maliciosas.
+La tórtola a la que encañonas no tiene la culpa de que te echaran del trabajo.
+La jabalina que hoza al pie del alcornoque no puede pagar porque tu sufras bullying en el instituto.
+Que en casa padezcas una pareja manipuladora e hijos indeseados no quiere decir que tengas que desgraciar a una familia de ciervos.
+Nada de eso te va a solucionar ningún poblema, es más, hace que te hundas más en la miseria de ser un desgraciado que busca consuelo en la muerte ajena.
+Si te enfrentases al conflicto con la misma confianza con la que te enfrentas al jabalí peludo que se mueve trasponiéndose sujetando con buen pulso el arma que le quitará el juicio, no tendrías esas ansias de hacerle daño a nadie.
+Por fanfarronear entre las jaras con las botas de material, el chaleco de rombos y la escopeta que agasajas mejor que a tu familia no serás mejor que nadie, aunque así lo sienta tu ego diminuto.
+Ni el montón de cartuchos caídos entre los peñascales quiere decir que mandas en la naturaleza.
+Ni las fanfarronadas con las que ostentas en las tabernas mientras roes la carne de animales que otros asesinaron por ti asombran a nadie.
+Las muertes que recopilas en el corazón te pesarán, porque aunque no te duelas de ellas ahora, saldrán: todo acaba saliendo.
+Queréis imitar a los «grandes» reyes que antaño extinguieron a los osos en las sierras y los caballeros que arrinconaban jabalíes en los bosques oscuros: os confundís completamente de referentes.
+Ellos no eran héroes, tan sólo personas tristes, pretenciosas y aburridas con el pecho más oscuro que los bosques donde cazaban, gustosos siempre de darse importancia.
+Buscad referentes en los que aman, no en los que odian; en los que crean y no en los que destruyen; en los que viven de manera honesta y sencilla, sin necesidad de presunción.
+Esa gente no está pintada en ningún cuadro, ni saldrá en la tele, ni molestan a nadie: su único afán es vivir de manera tranquila, tal y como los animales que matáis.
+Ni los animales ni los humanos estamos seguros con vosotros en el campo.
+Extremadura no es el desfogue de frustraciones de nadie: esa guerra tiene que ser interna.
+Colegas, me parece que ya he averigüado el uso tradicional del pasado en extremeño.
+Colegas, al final hoy no voy a poder.
+Lo dejamos para el domingo que viene y así os mando el tema antes para poder preparar la clase.
+Disculpad, un asunto con las llaves de casa.
+Claro... es una forma literaria, así que en extremeño lo que podemos hacer es copiarla o coger una nuestra más tradicional.
+Mandad un enlace del Meet y nos metemos, por el móvil o por el ordenador, como quiera cada uno.
+Ni por ensoñación te voy a dejar hacer lo que te apetezca.
+A parte de esto, el domingo que viene tengo pensado de volver con los cursos de enseñanza para los que quieran empezar o seguir aprendiendo gramática y vocabulario.
+Sois todos bienvenidos, y es importante que estéis los que más sepáis para avanzar con ello y poder tener una enciclopedia decente de aquí a finales del año que viene.
+Colegas, por favor, los que queráis participar en el proyecto de la Wikipedia meteos en el grupo de Telegram, que es donde están los que saben de asuntos técnicos.
+Me casé con veintiséis años.
+Bueno, pues ya hemos acabado.
+La cosa es que quieren montar un grupo de trabajo para la Wikipedia, para editar y corregir artículos.
+Creo que algunus de los que estáis por aquí ya tenéis algo hecho.
+Pareces una reina con ese vestido.
+Me parece que mañana es fiesta.
+Dicho cuando una cosa está sentenciada, que no se puede hacer nada.
+Son dichos que sólo se usan en el habla, así que para mí no tiene mucho sentido buscarles corrección gramatical.
+Lo han puesto en el grupo principal, lo ha descubierto un socio que busca las cosas en la web de prensa histórica.
+La frontera con el leonés oriental de Salamanca es conforme a la aspiración de la ese, y las partes del 3 son áreas de transición (extremeño con seseo y rasgos mixtos).
+Las eses de las mujeres son más andaluzas, pero el hombre mezcla el sonido de la ese extremeña y la andaluza.
+Mirad qué mezcla tienen en Cazalla de la Sierra, que lo mismo sesean que distinguen.
+Está en la Sierra de Constantina (mal llamada Sierra Norte de Sevilla, ahora renombrada como Sierra Morena Sevillana), pegada a Extremadura también.
+Lo he visto esta mañana, a ver si resulta ser verdadero...
+Tu padre está zumbado.
+En Toledo hablan castellano occidental, con muchas palabras leonesas, lo mismo que en todas las provincias linderas con partes leonesas, o que eran leonesas antiguamente.
+Ten en cuenta que un tercio de la provincia es de habla extremeña, y hacia la otra parte hay mucho leonesismo.
+Hay alguna que no conozco, pero casi todas se oyen.
+Es muy normal, la apunto para que no se me olvide.
+En castellano es así, pero el caso es que en extremeño lo he oído al revés.
+A propósito de una palabra muy interesante que has dicho, ¿sabes que tenemos tres maneras de decirla? Esa misma, que es la culta -directamente del latín- y que coincide con la forma castellana, y luego una más extremeñizada que es con erre... pero resulta que en los documentos de Diego Sánchez encontramos una forma muy rara, que sería la voz tradicional perdida por la castellanización y la influencia del latín en la religión.
+Así que debe tener uso en el Mediterráneo.
+Habría que saber la etimología.
+Estoy preparando una tanda nueva de verbos con los descubrimientos que hemos hecho y algunas correcciones.
+Un pueblo de gente "humilde y sencilla" es un pueblo de esclavos. Los pueblos que hacen historia son de seres humanos valientes y completos, todo lo contrario de lo que busca este gobierno colonial.
+No es conmigo o contra mí, es que yo no voy a colaborar con la corrupción.
+También conozco alguno de Jerez y de Azuaga, lo que es que hace mucho tiempo que no hablo con ellos, no quiero quedar de interesado.
+Para que veas el poco honor que hay.
+No se lo endoses a nadie.
+Colegas, tenemos una socia nueva que trabaja en la Wikipedia, la familia de la Frontera.
+Ha propuesto para la Asamblea montar un grupo para corregir artículos de la Wikipedia extremeña y le he dicho de aprovechar esta y así ampliamos la labor que estamos haciendo y la proyectamos para afuera.
+¿Qué os parece?
+No se puede entender que la preposición esté en otro sitio.
+Esa palabra debe ser manchega, yo no la he oído por aquí.
+Mira que eres antipático con las muchachas...
+Aún no se ha despertado y para colmo anoche me dijo que no tiene ganas de hacer nada.
+De primero, sopa con bastones de pan, sí, pero ¿qué hay de comer de segundo?
+No son palabras del cántabro ni del gallego, son tomadas de pronunciaciones diferentes de la misma palabra celta.
+Pasa a veces, pero no es algo continuo.
+Pero me imagino que también debe de ser un sitio donde hay cerdos.
+Yo creo que es la que deberíamos de coger para el extremeño por decirse en Huelva y ser semejante a la portuguesa.
+Buenas tardes, compañeros, quería hacer una propuesta para ver si pensáis que puede ser útil para la lucha por el extremeño.
+Os he compartido a través del correo los resultados de la primera encuesta sobre las hablas extremeñas.
+Seguiré con el diccionario y los trabajos que tenía en mente, pero en los próximos días voy a plantearme la relación que tendré con la Asamblea de Vecinos y si es necesario o no montar otra asociación con gente que tenga intenciones limpias.
+Cualquier cosa que le diga le molesta, es como si no quisiera oírlo.
+Más allá de la represión directa, al final se ha encontrado un procedimiento mucho más apropiado porque, de paso, libra de la culpa al opresor: los prejuicios lingüísticos.
+La estigmatizaciónn de la lengua con argumentos sin fundamento alguno como por ejemplo la supuesta pobreza, o la suposición de que estas lenguas obstaculizan el ascenso social, o que entorpece el acceso a la modernidad y, en definitiva, tantas otras, todo junto genera una inseguridad en los hablantes que los hace abandonar la lengua que han conseguido que los avergüence.
+Amigos, esta semana empiezo con lo del diccionario, os lo digo para que lo sepáis.
+Disculpad, que estoy ocupado con un sinfín de cosas.
+Tú pide lo que necesites, mejor eso que pagar tonterías a esos caprichosos.
+Hoy le mandaré otro aviso, no quiero denunciar, pero alguien tiene que enfrentarse a los delincuentes que nos oprimen.
+Le he pedido los estatutos un montón de veces, pero el cabrón no quiere enviarlos.
+Nadie te obliga a decir insultos, y menos aún en la situación en la que estamos.
+Si quieres pagar las cuotas para que otros se vayan de vacaciones, me alegro por ti, pero a mí no me da igual.
+Sólo te quejas cuando critican a tu patrón, a ver si usas esa energía para colaborar con los proyectos que tenemos empezados.
+Empezaremos con las clases dentro de un mes.
+Ahora que empiezas a entender todo esto, si tienes tiempo libre puedes leer gratuitamente las noticias que publico en el diario de mi pueblo.
+No podré acudir, estoy enfermo.
+Tu padre está en Cáceres, volverá para la cena.
+Vamos a bajar la calle para abajo porque este chaval nos está haciendo esperar demasiado.
+Extremadura siempre ha sido territorio fronterizo, desde que le pusieron ese nombre: antes los límites con lo que es ahora Portugal no existían.
+En verdad, las cuestiones de fronteras sólo las entienden las personas... y dentro de las personas, las que sienten los orgullos vacuos de las naciones.
+Hoy se han reunido en sitios reconocidos de Badajoz y de Elvas esos machos que gustan de abrir y cerrar según las conveniencias.
+Actualmente a causa de los virus, antaño por guerras que nadie entendió, pero que muchos tuvieron que sufrir.
+La alcazaba de Badajoz y el castillo de Elvas, sitios admirables que antes vigilaban y que eran de ensimismamientos lóbregos, hoy son llaves del turismo y del comercio, ajetreo de dinero.
+Junto a Mérida, la Emerita romana que tanta impresión hace al visitante, se extienden los cimientos de edificios, presas, cortijos, cementerios, puentes e incluso acueductos propios de la cultura romana.
+Pero están apagados a causa del brillo de la Emerita, ocultos, abandonados.
+Las zarzas dan cuenta de ellos.
+También las espadañas.
+La maquinaria dañina que arrasó las vegas y el arado de hierro malhirieron y enterraron para siempre la huella de una cultura que ahora nos parece tan lejana en el tiempo como interesante.
+En el pueblo de Esparragalejo, hacia el oeste de Mérida y no lejos de la calzada que iba de Olissipo (hoy en día Lisboa) a Emerita, todavía quedan vestigios de los romanos.
+Eso sí, camuflada, oculta, privada o directamente revestida de modernidad.
+Ver vas a ver poco, porque no hay nada hecho todavía.
+En Cáceres capital aún se dice bastante.
+Aún se dice bastante en Cáceres capital.
+Y vuelvo a repetir lo de la ortografía: paciencia, toda la que sea necesaria, ayuda para los que aún no sepan, toda la que se necesite, pero poner cosas como "juerça" y otras faltas de ortografía en una publicación oficial que encima es ideológica, eso no se puede permitir.
+No la voy a quitar por respeto a los compañeros, pero creo que con esto no se está dando importancia a la lengua y sí a otras cosas, y que no se está respetando el parecer de los compañeros que no somos feministas.
+Lo del conteo de Don Benito... raro, raro. Se ve que los calabazones han votado mal y hay que retocar un poquito la cosa...
+En el sur también se habla extremeño, aunque sea menos general y haya más influencia del castellano.
+Unión del Pueblo Leonés no es un partido provincial, es un partido leonés: de León, Zamora i Salamanca...
+Y será la excusa perfecta para la independencia de Cataluña y el País Vasco.
+Lo mismo puede decir uno de Coria o Plasencia de Cáceres, y tendrían más razón.
+Badajoz es la capital geopolítica de Extremadura: está al lado del río Guadiana y linda con Portugal.
+Cáceres es una villa atiborrada de millones y aún así los gobernantes no se preocupan por sacarla del aislamiento.
+Sin una Vía de la Plata viva y sin una autovía que la una a Badajoz...
+¿Cómo esperan los cacereños que crezca la ciudad?
+¿De verdad vale la pena tener Plasencia o Trujillo sin un duro para oxigenar una capital artificial instalada en la cultura de la subvención?
+Aprobada la autovía A-81 Badajoz-Granada.
+Vale... pero ¿Para cuándo la autovía entre Cáceres y Badajoz?
+Un presentimiento: al PSOE no le quedan ni diez años.
+Es el responsable de casi toda la corrupción del régimen del 78 y va por el mismo camino que la socialdemocracia europea, caso de Escocia, Grecia o Francia.
+No es del todo seca, pero si tuviéramos más monte natural en vez de tanta dehesa y tanto eucalipto, tendríamos clima atlántico y reduciríamos el calor en verano por lo menos cinco grados.
+Qué alegría que alguien que no tiene nada que ver con la pérdida de tu alma te la devuelva al cuerpo de un beso
+Los griegos en el siglo IV a. C. estaban asimilando la cultura compartida con Oriente después de la expansión propiciada por Alejandro el Grande.
+Los valores griegos, ya de por sí desvirtuados, desde la religión, la política o la economía, hasta las costumbres, la vestimenta o el comportamiento, enloquecieron al morir Alejandro.
+Tras esto, hay añadir las guerras de atenienses contra macedonios por recuperar la gloria anterior que acabaron siendo un desastre, destrozando la democracia y el orden social: los ricos se hacían más ricos, la pobreza se extendía entre las clases medias y bajas y los gobernantes se sucedían sin que el Estado sacara ningún provecho.
+Su conocimiento de la realidad, basado en lo sensible, permitió que elaborara un sistema científico y moral orientado a la felicidad. Fijado en el pensamiento material, defendió el atomismo, completando las teorías de Demócrito con ideas propias y orientándolas a la busca de la felicidad cotidiana, escasa en aquellos tiempos turbios.
+Desarrolló el concepto de la ἡδνλή, asentando sus principios y acabando con las divagaciones que estresan e inquietan: el miedo a la muerte, si los dioses existen o no, las cosas importantes de la vida, etc.
+Al contrario de estoicos, platónicos o aristotélicos, el pensamientu de Epicuro se aferra a la vida a través de los sentidos, deshaciéndose de preocupaciones inútiles que son producto de no pensar como es debido.
+Epicuro demostró que los placeres de la vida estaban al alcance: la amistad, mitigar el hambre y la sed y rechazar los lujos por los problemas que traen son partes de su pensamiento que se repiten cada dos por tres.
+La Carta a Meneceo es un prospecto para las enfermedades que sufre la gente continuamente.
+En él se señala brevemente qué angustia al hombre y qué pensamiento hay que aplicar a cada angustia, como si fuera un repertorio de ungüentos adecuados para cada herida.
+El estilo es claro a veces, otras revesado, aunque con una estructura y un estilo literario más trabajado y pulido que por ejemplo en la Carta a Heródoto.
+Comienza animando a filosofar a cualquier edad, después en las siguientes líneas va hablando de los distintos problemas hasta concluir con la valoración de la sensatez y la necesidad de tenerla a todas horas para ser feliz.
+La traducción de este texto se basa en la edición de Long sacada de las Vitae Philosophorum de Diógenes Laercio.
+Es un texto complicado de traducir por el léxico específico que usa.
+Que nadie esté sin filosofar por ser joven, ni se canse de filosofar cuando envejezca, pues nadie va a deshora por lo que respecta a la salud del alma.
+Quien dice que todavía no es hora de filosofar o que el momento ya ha pasado es igual que quien dice que ya no es momento de ser feliz.
+De modo que han de filosofear el joven y el viejo, uno para que, aun envejeciendo, se llene de nuevo de bondad por el agradecimiento al pasado y otro para que, aun siendo joven, sea a la vez viejo, pues no le tiene miedo al futuro.
+Así que es necesario hacerse una idea de las cosas que dan felicidad, pues si está ella presente, lo tenemos todo, pero si está ausente, hacemos de todo por tenerla.
+Las cosas que te aconsejaba continuamente, hazlas y practícalas, comprendiendo que los elementos que te harán vivir bien son estos: primero, cree que el dios es un ser que no se corrompe y dichoso, según se representaba la noción común del dios, no le atribuyas nada contrario a la incorruptibilidad, ni nada ajeno a la dicha, de modo que te parezca que todo lo que rodea al dios es dicha a la par que incorruptibilidad.
+Y los dioses existen, porque el conocimiento de ellos es evidente, pero no son como la gente se piensa.
+Acostumbrate a creer que la muerte no representa nada para nosotros porque todo lo bueno o todo lo malo está en la sensación y la privación de la sensación es la muerte.
+Por eso, el conocimiento correcto de que la muerte no es nada para nosotros hace que se disfrute lo mortal de la vida, sin añadirle un tiempo ilimitado, sino más bien acabando con las ansias de immortalidad.
+De manera que es estúpido quien dice que teme a la muerte, no porque vaya a sufrir estando ella presente, sino porque sufre cuando está por venir todavía.
+Lo que está presente no agobia, es en cuanto nos lo infundimos cuando provoca sufrimiento en vano.
+Así que el más escalofriante de los males, la muerte, no significa nada para nosotros, porque, si nosotros existimos, la muerte no está presente, y si la muerte se presenta, entonces nosotros no estamos.
+Pero la gente huye de la muerte, a veces como si fuera aquello el peor de los males, y, por contra, otros la toman como si fuera el fin de los males de la vida.
+Hay que insistir que, de los deseos, unos son naturales y otros vanos; de los naturales, unos son necesarios y otros solamente naturales; de los que son necesarios, unos lo son para la felicidad y otros para la tranquilidad del alma, incluso para el propio hecho de vivir.
+En cuanto lo alcanzamos, se deshace cualquier tormenta del alma, sin ir quien vive hacia lo que le falta, ni buscar otra cosa con la cual completar el bien del alma o del cuerpo.
+Dentro de poco meto el índice y la introducción, que ya toca.
+El hombre sabio escribe en un pliegue, sin salirse, sabiendo que lo que escribe es, por supuesto, cien veces más grande que mil pliegues juntos.
+Hace tres años, cuando me asaltó la idea de abandonar el castellano y abrazar sin pudor el extremeño para la creación poética, nunca creí que fuera capaz de sentirme tan a gusto escribiendo.
+Puedo decir que he encontrado el vehículo en el que mejor viajan mis pensamientos.
+Sin embargo, eso sería emperifollar vulgarmente el texto, infestándolo de parásitos lingüísticos que chuparan la sangre donde ha bebido la pluma.
+Este libro se os presenta aquí recio en mitad de un invierno huraño y muy duro, y busca un calentamiento familiar.
+Este libro no succiona de ningún pecho por no haber tenido nunca la necesidad de vivir sediento.
+Estás deseando de llegar a Montánchez y ver de nuevo a tus amigos.
+Tu novia me parece que hace tiempo se separó de su familia porque sus padres son insoportables.
+Bien sabes que compongo, aunque me hieran los ruidos de la noche, vestido únicamente con la música.
+Bien sabes que la tos es capaz de atragantarme los versos.
+¡Admirad el destrozo triunfal que sucedió en la arquitectura de las palabras!
+¡No voy a permitir que haya una falta de seriedad tan vergonzosa!
+Bienvenidos a la asociación, muchachos.
+Bienvenidos a la asociación, muchachos.
+¡Caminad, mozos!
+¡Avanzad hacia adelante reciamente!
+Haced ruido por la sierra, que os oigan los campesinos.
+Ayer caminamos en exceso y me duele mucho el pie ahora.
+Pues aunque ahora estemos tristes y todo sea oscuridad, yo sé que tú, querida mía, avanzas ya hacia la dicha futura, donde no encontrarás ningún sufrimiento, donde tu marido te está esperando.
+He encontrado la cola del ratón debajo del cajón y según me acerco al son mecánico del resuello, se va alejando.
+Ahora el calor me cae lejos, como lejos me cae la ciudad que se equivoca a medida que avanza el reflejo sobre los charcos, sobre los bodonales.
+Las flores no se huelen, no saben que son flores, pero nosotros, los borrachos, a veces podemos olerlas.
+Aunque estatuas llamamos a quienes son parecidos a nosotros, igual que marginados llamamos a quienes retorcemos el corazón como retorcemos un peñasco.
+Hablad, que yo os oigo en un tono bajo, aunque vuestros parloteos me resulten tan pesados como un rebaño de curianas que se deslizan por una amurca apestosa y negruzca.
+Es quizás por eso que aspiraciones y sonidos cerrados huyen a toda velocidad, se tropiezan con balagueros carcomidos por la pita y por el plomo al lado de los ríos y desaparecen para siempre.
+No hay chamán capaz de averiguarlo leyendo en la naturaleza.
+Cuanto más lejos vayan, se volverán más ilegibles.
+Entre miles de seres y lenguas de todo tipo voy abriéndome camino gracias a la guadaña y el hocino.
+¿Y dónde debieron sembrar composiciones en los mares?
+Y según vayamos llegando a esos mares de dehesas, iremos clavando la semilla para que nazca el árbol cuyas ramas indiquen el camino hacia las nubes.
+Somos en nuestra vida emprendedores y no nos echamos para atrás si se presenta de repente un anochecer y desprevenidos tenemos que escribir rezos.
+Sin embargo, sí nos acobardamos en el preciso instante en que tenemos que enfrentarnos contra la dama Soledad, tan pronto como nos clava en la raíz de sus oxidados pelos y nos abraza rodeándonos con ellos.
+Y en esta cárcel de espacio, de tiempo, de pensamientos, juegan con nosotros congojas y ansiedades, preocupaciones y pensamientos obsesivos, duendes y fantasmas, monstruos espantosos llenos de heridas putrefactas, que son capaces de enterrarnos en las oscuras hondonadas del ruin abismo, hondonadas de las que ni los amigos más cariñosos nos podrían sacar en siglos.
+Ni aunque fuera tan grande como las luces que cubren las sierras lo elegiría antes que a ti.
+Ni aunque fuera tan atrayente como el peligro a la ignorancia, aún peor, pues sería más oscuro que una plaza sin niños ni canicas, que un mundo sin la alegría que los animales nos traen.
+Que la quiero ver bailar, saltar y brincar por los aires, que estos son aspavientos de un fraile.
+Mi abuela tenía un peral que sacaba las peras finas y en lo alto de la copa cantaba una golondrina.
+¡Ostras! Qué alto es tu hijo.
+Las cerezas de por allí no tienen comparación con las del Jerte.
+Teníamos unos pagos pendientes y no paga desde enero de 2021.
+No dejes que se aprovechen de ti, que no tienen vergüenza ninguna.
+Siempre hemos cobrado, no creo que nos vayan a dejar de pagar ahora.
+Si mal no recuerdo, me debes 10 euros, que es una nimiedad, pero poco a poco se convierte en algo.
+Mañana te envío un mensaje, que no quiero calentarte la cabeza ahora, y ya juzgas tú.
+Sólo he necesitado poner "extremeño" para encontrar un montón de información sobre nuestra lengua.
+Es difícil que se den tantas casualidades.
+Luego no digas que no te traigo aventuras, pero cumpliendo las medidas de seguridad, con cinturones que dan buena sujeción.
+Para los adverbios es corriente, pero para los participios se usa la raíz latina a menudo.
+¿Qué narices llevas en la cabeza?
+¿Qué diantres llevas en la cabeza?
+¿Qué demonios llevas en la cabeza?
+Las palabras de los hombres son como las avellanas.
+Me da igual ir a Melilla, me da igual cruzar el estrecho, quien me importa es mi morena, que se queda de barbecho.
+Ahí lo tienes, despatarrado en la butaca, sin querer salir ni hacer caso a lo que le digo.
+Hay una piscina que cambia de sitio según le parece.
+Ya está el pájaro tonto plantado en la esquina, esperando a que salga la golondrina.
+Te voy a clavar una navaja en el pecho, a ver si tienes sangre dentro o más bien tienes horchata.
+Me gusta nadar en la piscina, me gusta sumergirme en ella y zigzaguear en las aguas hasta que se me ablanda la piel.
+Quiero comer garbanzos.
+Quiero comer garbanzos.
+Estoy en medio de un alboroto armado por coches y personas de todas partes.
+No sé cuándo será la próxima vez que disfrutaré de mi tierra, de una tierra de la que nunca debería de haber salido.
+En la Edad Media cuando se escribía en leonés se usaba una ortografía latinizada o medieval con características propias.
+Ando componiendo lo del diccionario, tarda mucho porque el archivo pesa y a veces no me deja ni subir ni bajar.
+Voy a encender la radio cada día, al amanecer.
+Al menos en Navalmoral de la Mata hablaban extremeño en el siglo XX.
+Tengo que montar también las clases para discípulos de fuera del Órgano, como no se convocan reuniones lo tengo que hacer solo.
+El sufijo -ina o -iña es muy común para crear sustantivos nuevos, incluso se coloca en el nombre de una persona para señalar algo propio de ella.
+Eso es cuestión de cómo lo mires, pero en cuanto a lo otro, siempre es respuesta a una oración.
+La entrada que indica la "interjección" no es la misma que tú dices. Hay que ser muy quisquilloso con estas cosas porque es fácil que nos equivoquemos.
+Qué de influencias tiene aquella parte, quién lo iba a decir... a ver si bajo un día para allí.
+Esto sería una diferencia que ya tenían los romances del sur y los del norte, pero que se generalizó en el castellano y en el leonés oriental por la influencia del sur antes ya de la Conquista, puesto que los mozárabes huían hacia el norte en las épocas más rigurosas.
+Es una pronunciación popular de la palabra culta, tened en cuenta que hay muchos cultismos en el asturiano por las elecciones que han hecho los de la Academia.
+No te preocupes, pero no estés tan seguro de lo que dice este hombre, que es un liante.
+Pero del tamborilero te lo digo porque me parece que tiene conocidos de Salamanca capital, Ciudad Rodrigo y Talavera de la Reina.
+Es uno de los más entendidos en la lengua de su comarca, trabaja de panadero y también hace de tamborilero cuando es necesario.
+Lo que habéis montado en La Codosera ha sido un éxito muy grande.
+Qué engreídos son los andaluces cuando salen de su pocilga, gastan unas ínfulas que uno no puede soportar.
+Croacia es un estado de Europa ubicado a orillas del Mar Adriático, que forma parte de la Unión Europea y que fue creado recientemente. Los croatas hacen frontera con los serbios, los eslovenos y los húngaros, y son muy narizones.
+Se ve que mi abuelo tenía la costumbre de llevar siempre un trozo de pan duro en el bolsillo, por si acaso se encontraba unas gallinitas por la calle.
+Ese chico es muy austero, siempre anda dándole vueltas al futuro y al dinero que le debe a la madre.
+En 2008, el Kosovo, provincia del sur del país donde la mayoría de la población es de origen albanés, se proclamó independiente de Serbia.
+No te preocupes, ahora me parece que todavía no estábais algunos por aquí.
+Comeos la tortilla, que van a cerrar la cocina dentro de poco.
+Cuando llegamos al pantano ya se habían vuelto a casa los demás amigos nuestros.
+La lluvia fuerte fue la de antes de ayer.
+¡De nada!
+Lo haremos, un placer conocerte.
+No me vengas con cuentos, quien se quiera ir de juerga, libre es.
+Ya os digo que no está todo escrito en la norma actual, pero hay cositas interesantes que podríamos leer mañana.
+Aquí hay unas cuantas lecturas en extremeño muy útiles para comenzar a acostumbrarse a la lengua.
+Compañeros, luego os pongo la primera lección, en cuanto se metan los nuevos.
+Compañeros, luego os pongo la primera lección, en cuanto se metan los jóvenes.
+Sería bueno que vengan todos para poder hablar como es debido sobre las leyes que nos afectan.
+Si estudiaras para este examen de mañana, yo creo que pasarías de curso.
+Si comenzáramos a trabajar de verdad, el jefe nos dejaría de fastidiar.
+Si felicitaran a sus hijos cuando hacen las cosas bien, los niños serían más felices.
+Oscurece, llega la noche.
+Sapos y búhos salen del hoyo.
+Cuervos, cerdos, salamanquesas, hechizados por duendas royendo castañas.
+Lechuzas y liebres corren por los prados, el aire se levanta, menuda polvareda se ha formado.
+En el Pico las lechuzas me han dicho que han visto a los muertos bajando hacia el pueblo, verás cuando lleguen, el jueves por la noche, su voluntad de destrozarlo todo.
+Así que cierra con cerrojo la puerta, no vaya a ser que se metan y te asusten.
+El maullar de los gatos ya me ha despertado.
+O el cantar de los gallos, ya no los distingo, he perdido el juicio.
+Estoy chiflado, loco como un preso americano, como un veterano de guerra que contempló el abismo de este mundo.
+A mí tampoco me convencía mucho, pero alguna cosa hay que hacer para los pueblos que están por ahí alejados de las capitales.
+La izquierda tiene secuestrados los sindicatos y así nos va.
+De todas formas, es verdad lo que dice: en cuanto gobierne VOX, los sindicatos, los movimientos progresistas y el independentismo saldrán a la calle y, en mi opinión, España como estado dejará de existir.
+Primer apagón en el centro de Badajoz.
+Ya están practicando para el año que viene... id sacando el brasero de picón y conseguid un buen generador, que si no os váis a quedar como una estalactita.
+He estado estudiando bastante las hablas extremeñas tradicionales y se dan diferencias como que en Villar del Rey se diga "dispersión" y en el Jerte "dispersión", que la entonación sea un poco distinta y que en el este haya leísmo y laísmo.
+Vamos, lo mismo que en cualquier idioma.
+De todas formas te pongo el enlace del mejor diccionario que hay hasta ahora, por si no lo conoces.
+Claro, mejor en singular y poniendo también "extremeño".
+Hasta que no cuaje el antiglobalismo en Extremadura, cualquier partido extremeñista está condenado a ser un títere del régimen, igual que las fuerzas políticas actuales.
+Lo más sano, el movimiento de la "España vaciada".
+Tres ambulancias he visto ya hoy, sólo de camino al trabajo.
+Se hacen estudios basados en las PCR, que fallan más que la escopeta de la feria, no hay informaciones serias.
+Está toda la información manipulada.
+¿Qué diantres es el covid-19?
+¿Una neumonía?
+Vale.
+¿Y el cáncer, los trombos, la desorientación...?
+¿La muerte súbita es covid?
+Ellos siguen con las PCR por tirar de algo, pero no hay virus, sólo veneno en todas las inyecciones que pone el Estado.
+Cada vez tengo más claro que tenemos que hacer algo contra la enfermedad progresista que pone patas arriba Extremadura.
+La dictadura de los reyes ha podrido nuestra sociedad, nos ha vuelto ridículos y poco naturales.
+Hace falta una matanza.
+Hay que acabar con ellos como si fueran una plaga de ratas.
+Hoy ha cundido la molienda.
+Hoy ha dado frutos la molienda.
+Aunque ahora esté de moda el aspecto más internacional y comercial de esta fiesta, aún conservamos las raíces de esta celebración tan antigua de comer los frutos del otoño y recordar a los difuntos.
+Me parece que Alemania tiene otros planes.
+Qué hartura vivir rodeado de propaganda...
+Si el leísmo fuera un rasgo burgalés, hubiera pasado hacia La Rioja o Soria (asimiladas a Castilla antes).
+Por cierto, un apunte interesante, no sabemos si el leísmo nació en la franja que era antiguamente de habla leonesa.
+A ver si nos dejamos de vivir en la candidez y en un eterno "por qué a mí", las cosas claras: el Estado madrileño subyuga Extremadura a propósito.
+Ten en cuenta que el leonés oriental también se hablaba en Palencia, Valladolid y Ávila (que son genéticamente leonesas todavía).
+Eso dicen los tópicos filológicos, pero no están demostrados.
+El leísmo también está en todas las hablas castellanas de transición al leonés, del mismo modo que no están en las de transición al aragonés.
+No es así: en Béjar, el Jerte, la Vera, el Campo de Arañuelo o Talavera de la Reina son leístas y hablan extremeño.
+El mundo en el que vivíamos está a punto de descalabrarse, empieza otra época para la humanidad.
+Las certezas ideológicas y la idea de la realidad que teníamos hasta hoy perderán todo fundamento.
+Volvemos a un tiempo arcaico, aún no nos hacemos una idea.
+Sed bárbaros, hermanos castúos.
+De cuando los clérigos del Imperio escribían en extremeño.
+No creí que fuera a molestarlo el uso de una lengua española, solamente quería recordarle que el ser español en tiempos del Imperio también era una cuestión de raza.
+Cada uno que lo entienda como se le antoje.
+Incluso en las comunidades que llaman matriarcales las mujeres se hacen más cargo de la casa y los hombres trabajan más fuera.
+Regresad del siglo XX.
+Aquí ya estamos con genocidios televisados para reducir la población, los soviéticos se han vuelto paganos y el bisonte campa por la dehesa.
+El futuro es antiguo.
+Algunas sí, pero todas no.
+He visto la ll- en documentos de León.
+A los mansos les legaron la tierra... y la malograron.
+Es hora de volver a experimentar lo salvaje.
+Lo que no tenemos de valentía lo tenemos de paciencia.
+Como buenos esclavos.
+La raza celta era una mezcla de poblaciones euroasiáticas y mediterráneas, con más aportaciones nórdicas en las Islas Británicas y la Galia, pero eran pueblos más morenos, castaños o pelirrojos que rubios.
+Como los ibéricos, los irlandeses o los franceses.
+Los galaicos y los lusitanos no tenían una sola etnia.
+Eran una mezcla de poblaciones indoeuropeas de aquí y colonos celtas que venían de Celtiberia (entre Castilla y Aragón hoy).
+La lengua de los lusitanos y los galaicos era similar, y no parece que fuera celta.
+Al principio, el sistema ofreció libertad a los homosexuales para señalarlos.
+Ahora que ya están todos marcados, el sistema cambia de pelaje y azuza a los musulmanes acérrimos para que los maten.
+Fases diferentes del proceso, pero el mismo plan eugenésico.
+Ofréceme tus regalos, mujer mía.
+Ofréceme tus regalos, mujer mía.
+¿Has soñado conmigo?
+Esta noche he soñado contigo.
+De todas maneras, en la guía que estoy haciendo voy a incluir las formas salmantinas.
+Os envío un artículo que escribí sobre la Guerra de Ucrania.
+Sé que el asunto es un poco polémico, pero creo que ayuda a mostrar que el extremeño también vale para hablar de todos los temas y para tener información del presente redactada en nuestra lengua.
+Si vieras lo que hizo cuando no estuviste por aquí...
+Todo lo demás está perfecto, y además, ¡el diseño es la leche!
+Anda que no aprendo inglés con usted, profesor.
+Eso y nada es lo mismo, tampoco vendamos la cosa como una victoria cuando son chorradas.
+Nosotros ahora a aprender a hablar bien —no sólo a escribir— y cuando seamos unos pocos ya montaremos academias y lo que sea necesario.
+O así lo veo yo.
+Padre nuestro, que estás en el cielo, santificado sea tu nombre, venga a nosotros tu reino, hágase tu voluntad.
+Perdona nuestras ofensas, así como nosotros hacemos con quienes nos ofenden.
+No nos dejes caer en la tentación y líbranos del mal.
+Los nuevos, poned los correos, para enviaros la invitación.
+Esas cosas tenéis que explicarlas antes, para que sepamos quién elabora los contenidos de la publicación y quién los revisa.
+Échale un poco de pimiento para suavizar el sabor
+No suavices tus palabras.
+Después de que la Junta de Extremadura permita la investigación, y ante la posible extracción y procesado de uranio en diferentes fincas, como la de Cabra Baja, con una extensión de 7.150 ha., que abarca a varios términos municipales (Zahínos, Oliva, Villanueva, Higuera y Jerez), hemos creado una plataforma ciudadana, con la intención de defender a la dehesa del expolio, a nuestros ciudadanos de la enfermedad y a nuestros cinco pueblos de la despoblación.
+La empresa minera Qbis Resources S.L. pretende extraer el uranio a cielo abierto, sin tener en cuenta la rica biodiversidad de la zona y la salud de quienes vivimos en ella.
+Lo mismo que hacen en África.
+Dicho sistema de extracción de uranio hace que se desprenda una gran cantidad de gas radón, un gas radiactivo.
+La radiactividad no huele, no se ve, pero permanece en el aire y en el agua durante siglos.
+Es una potencia de destrucción de un alcance y unos niveles insospechables.
+Vivimos en la zona más deprimida y humilde de Extremadura.
+Nuestra industria es básica.
+La vida en nuestros pueblos es una batalla titánica por la supervivencia.
+Aún y así, tenemos una buena vida y un plato en la mesa.
+De abrirse la mina, la situación va a ser insostenible.
+No es cierto que nos vayan a ofrecer puestos de trabajo.
+Las minas a cielo abierto no se hacen a pico y pala, sino con operarios y máquinas especiales.
+Con explosiones y barrenos.
+Como moneda de cambio, si no somos capaces de parar esto, nadie va a comprar los productos del cerdo ibérico, que pasan por ser los mejores del mundo, de España.
+Ni los buenísimos quesos de cabra.
+Ni la fruta.
+Ni los corderos.
+Ni los terneros.
+Ni el carbón.
+Ni el corcho.
+No querrán nada de esta tierra a la que dejarán atrapada en un agujero radiactivo.
+Seremos el Chernóbil de Extremadura, y no por culpa de un accidente, sino de una estafa.
+Como véis, tenemos mucho que perder.
+Nuestros montes y nuestro futuro a cambio de nada.
+Un timo de la estampita que puede afectar a toda la sierra del suroeste.
+Por eso, queremos que os suméis a esta lucha que hemos emprendido para defender lo nuestro y a los nuestros.
+Será una batalla titánica, nos hacemos cargo.
+En estas tierras nunca se nos dio nada gratis.
+Estamos acostumbrados a luchar.
+La supervivencia aquí es dura.
+Nuestros antepasados sudaron cada trozo de pan que arrancaron a esta dehesa.
+Pero es la herencia que nos dejaron.
+Esta naturaleza inigualable, agreste y hermosa.
+Árboles centenarios, en cuyas ramas, se sujeta una pobre economía de subsistencia.
+¿Qué patrimonio dejaremos a las generaciones venideras si arrasan la dehesa para abrir la mina de uranio?
+Uno o varios cráteres vacíos.
+Animales enfermos.
+Aire y agua contaminados.
+Y una ruleta rusa de cáncer.
+Tenemos que reaccionar, todos unidos, antes de que sea tarde.
+Tenemos que decir un NO, fuerte y rotundo, poco antes de que nos mutilen el futuro.
+Un NO que nos devuelva la dignidad.
+Un NO que salte la pared de ostracismo que nos rodea.
+Un NO que haga temblar a los muros de la Asamblea de Extremadura.
+Un NO que se escuche en toda España, en Portugal y, si hace falta, en el resto de Europa.
+Un NO que nos conceda el derecho a ver crecer a nuestros hijos, pobres pero sanos, trotando por la hermosa dehesa heredada de sus abuelos.
+Todos unidos nos haremos escuchar.
+Extremadura y Asturias son dos pueblos que experimentan un despertar tardío de su conciencia cultural si lo comparamos con otras zonas del Estado como Cataluña, Galicia o el País Vasco; pero casualmente ha querido el destino que el Estado español y la Iglesia Católica eligieran el mismo día para celebrar ambas tierras.
+El ocho de septiembre es una fecha que hace honor a la Virgen de Guadalupe en nuestro caso, y a la Virgen de Covadonga en el caso asturiano; pero ambas celebraciones salieron adelante por una decisión política.
+En la actualidad, algunos extremeñistas reivindican el veinticinco de marzo como día de Extremadura —fecha en que se levantaron los campesinos contra los señoritos en el 36—, mientras que otros tantos asturianistas reclaman el veinticinco de mayo —del 1808, cuando la Junta General de Asturias se declaró soberana y se rebeló contra las tropas de Napoleón—.
+Incluso en el día del mes coincidimos estos dos pueblos...
+No sacamos esta cuestión descuidadamente, pues la suerte parece que vuelve a unir de nuevo los dos extremos del reino leonés, hoy que hace tanto que se separaron.
+Asturias y Extremadura recorren ahora (como en otros tiempos) un camino unido por la Vía de la Plata, y este no es otro que la recuperación de la cultura tradicional mediante la lengua.
+Este sendero histórico contra la asimilación castellana viene de siempre, pero fue en los años 70 del siglo pasado cuando los asturianos comenzaron a moverse más seriamente por el idioma.
+Desde entonces, con altibajos, no han parado de aparecer grupos de todo tipo en defensa del asturiano como Conceyu Bable (años 70) Xunta pola Defensa de la Llingua Asturiana (años 80), Iniciativa pol Asturianu (2011) y otros grupos de personas similares.
+En el 1998, la Xunta Xeneral del Principáu d'Asturies aprobó la llamada Ley de uso y promoción del asturiano, que obliga al Estado a ofrecer a los hablantes una atención en su lengua.
+La lengua asturiana es hermana de sangre del extremeño, pues ambas son variedades derivadas del asturleonés medieval.
+Entre una y otra lengua las semejanzas fonéticas, morfosintácticas, ortográficas y de vocabulario son incontables, como explicamos hace tiempo en el artículo de Los sonidos del extremeño.
+Los logros del extremeño son más modestos que los del hermano del norte, pero aun así las reivindicaciones por el idioma avanzan y reúnen cada vez más gente en las ciudades y pueblos.
+Hoy son muchos los concejos que se atreven a rotular castúamente, y las actividades y charlas en torno a la lengua son ya comunes en muchas localidades.
+Contamos con una normativa escrita que va cogiendo fuerza entre los hablantes y estudiantes, que se usa en estampas, letreros, páginas web, televisión y prensa.
+El siguiente paso no puede ser otro sino el reconocimiento oficial y la enseñanza en las escuelas.
+Antes de llegar la sociedad de consumo a Extremadura a finales del siglo pasado, no se conocía en esta tierra otra celebración en estas fechas que no fueran los Carvotis o Carvochis, la Carvotá, la Carvochá, la Borrajá, la Chaquetía, la Chiquitía, la Cachetía, la Moragá o Mogará, la Magosta, el Magostu, Magustu, Magüestu o Amagüestu y otras denominaciones.
+Todos estos nombres —y algunos otros— se dan a la costumbre de que los niños vayan pidiendo por las casas frutos del tiempo y chucherías, y a las reuniones de los paisanos para comer y beber los productos que trae esta época.
+Estas meriendas de finales de octubre y primeros de noviembre, bañadas con vino de pitarra y aguardiente, incluyen castañas y bellotas asadas y sin asar, almendras, nueces, higos pasados, peros, peras, sandías, membrillos o zamboas, madroños, uvas y granadas, y también se hacen dulces del tiempo.
+Ahora mismo vengo de la huerta de arreglar una hoz que mi hermana tiró al suelo hace unos cuantos días, puesto que es muy torpe la pobrecilla.
+¡Qué torpeza tiene!
+Pedro al principio se pensaba que yo era un poco exagerado, ¿sabes? Pero es un tío al que no le gusta el conflicto, entonces por eso se ha quitado de en medio, para poder hacer un pepel de árbitro las veces que discutimos.
+No es una persona que haga ningún mal, pero se ha asustado un poco con esto de las discusiones, es que es muy desagradable todo esto.
+A parte del robo continuo, yo me caliento cada dos por tres y muestro unas maneras que no quería usar, porque este tío es un sinvergüenza y hasta que no os habéis dado cuenta vosotros he estado solo, como el Quijote.
+Enhorabuena, chavales, habéis cantado muy bien por la mañana.
+Me dan pena, me da pena verlos tan escuálidos.
+Me dan pena, me da pena verlos tan escuálidos.
+Me dan pena, me da pena verlos tan escuálidos.
+Eugenia y Antonio cortaron antes de ayer.
+Eugenia y Antonio rompieron antes de ayer.
+Mira qué bonitas esas romazas.
+Yo como mientras tú comes, pero él no come porque dice que ya se ha hartado.
+Nosotros comemos cocido.
+Nosotros comemos cocido.
+Vosotros coméis cocido.
+Cocido es lo que coméis.
+Tenéis dos cojines.
+Dos cojines tenéis.
+Ahora no llores.
+No llores ahora.
+Todavía no sé cocinar.
+Aún no sé cocinar.
+No sé cocinar todavía.
+No sé cocinar aún.
+Luego te lo digo.
+Te lo digo luego.
+¡Me cachis en la mar!
+¡Me cago en Dios!
+Solamente quiero besarte.
+Quiero besarte solamente.
+Cuando el año pasado me dijeron de participar otra vez en la revista, me decidí a acabar una de las tantas traducciones que tengo por ahí de textos en otros idiomas.
+Los textos de Fernando Pessoa, desde que estudiaba portugués en la carrera, siempre han sido una especie de espejo donde contemplar las soledades, los ánimos, las faltas propias y ajenas, y una inspiración para la creación literaria.
+De manera que le agradezco esas lecturas a Pessoa traduciendo al extremeño una de sus poesías más conocidas, que empezaba así.
+Quien quiera pasear a gusto por Extremadura, de andariego, de ciclista, de runner o incluso de paseador, no puede.
+En Extremadura todos son cotos de caza, fincas de ganado o las dos cosas a la vez.
+Con la excusa de tener vacas, ovejas o cerdos en cualquier parte el campo entero está cortado con vallas, paredes de piedra, alambres con pinchos, cancelas o angarillas y candados, muchos candados por doquier.
+Obrad siempre con cautela.
+Mi cuñado es cazador de pájaros, pero es muy sensato y no disfruta haciendo su trabajo.
+No desfallezcas, ya casi lo alcanzas.
+Ese muchacho sacha con demasiada brusquedad.
+Ayer sacudimos los sacos por si caía alguna avellana.
+Ayer sacudimos los sacos por si caía alguna avellana.
+Ayer sacudimos los sacos por si caía alguna avellana.
+Eres muy sagaz, te las sabes todas.
+Si pisas el agua salpicas.
+Si pisas el agua salpicas.
+Si pisas el agua salpicas.
+Jesús es nuestro salvador.
+María, su madre, estaba prometida con José, i aunque no se amancebaron, se percató de que estaba preñada gracias al Espíritu Santo.
+José, su marido, como era muy recatado, odiaba de pregonarlo.
+Su intención era repudiarla.
+Así nació Jesús en Belén de Judea, donde Herodes era rey.
+¿Dónde está el rey de los judíos, al que su madre parió hace muy poco?
+Y tú, Belén, tierra de Judá, no eres la más pequeña de las ciudades de Judá, pues criarás al líder que gobernará Israel, mi pueblo.
+Rápidamente Herodes llamó a los magos para que le contaran todos los detalles de cuando visionaron la estrella fugaz y los envió a Belén con una misión.
+Iros para allí e indagad a toda prisa sobre ese niño; así que lo encontréis, veníos de vuelta para decírmelo.
+En cuanto oyeron esto salieron afuera, y la estrella fugaz que vieron por el este iba enfrente por el sendero, hasta que se paró sobre la cuna del Mesías.
+En cuanto se encontraron al niño, se arrodillaron y lo adoraron, y poco después ofrecieron unos regalos a Jesús, que eran oro, incienso y mirla.
+Entonces se tumbaron en una posada, se adormecieron y soñaron con no volver adonde Herodes, de modo que avanzaron por otro camino.
+Despierta, coge al niño y a su madre, tirad para Egipto y quedaos quietos allí hasta que yo te avise, José, que Herodes está buscando al chiquillo y a su madre para cortarles el cuello.
+José se despertó, cogió al niño y a su madre en la oscuridad y partieron a Egipto.
+Por allí deambuló hasta que Herodes murió, cumpliéndose así el aviso del Señor a través del Profeta: «Desde Egipto llamé a mi hijo».
+Tras darse cuenta Herodes de la jugarreta que le hicieron los magos se enfadó muchísimo y ordenó que asesinaran a todos los niños de Belén y de los alrededores que aún no alcanzaran los dos años de edad.
+Así se cumplió el presentimiento del Profeta.
+Una voz se ha oído en Ramá: muchos lamentos y amargos sollozos.
+Una voz se ha oído en Ramá: muchos lamentos y sollozos de tristeza.
+Cuando salimos al campo de retamas y jaras, de cantuesos y lirios, de amapolas rojas, se entremezclan en las narices los olores del romero, del tomillo, de la hierbabuena o la magarza y por los montículos se retuercen las encinas haciendo formas de sombra y aire en nuestros ojos, nos sobrecogemos por la variedad.
+Si vamos a otro país, gozamos con los sabores de platos que no conocíamos, nos hacemos fotos delante de casas, puentes preciosos y palacios enormes que aquí no se ven y vamos como locos entre rocas o estatuas que no hay por aquí.
+Nos sorprendemos con las costumbres que los tiempos ido esculpiendo en la gente y, con la perspectiva de conocerlas, nos zambullimos en ellas y nos documentamos, aunque sea por horas o días, intentando adaptarnos.
+Ese carácter social de la gente nos permite compartir las experiencias de la vida y llenarnos de todo y de todos, percatándonos de que en el fondo encontramos los parecidos.
+Ya está otra vez con la obsesión de que se va a morir.
+Vete por ahí, bobo, que atajas más.
+¿Has preparado ya el desayuno?
+Le gusta comer a lo bestia.
+Presiento que el tiempo va a cambiar.
+Sospecho que el tiempo va a cambiar.
+Intuyo que el tiempo va a cambiar.
+Se pone hecho una furia con nada.
+¡Hostia!
+Qué piernas más robustas.
+Ese va a llevarte por mal camino, es un liante.
+Ese va a llevarte por mal camino, es un enredador.
+Debe haber bebido algo, va haciendo eses por la calle.
+Debe haber bebido algo, va haciendo zigzag por la calle.
+Ahora en todas las películas se desnudan.
+Menudas calamidades sufría yo en la mili.
+Este no suelta un duro, es un tacaño.
+Se me ha perdido el bastón.
+Se me ha extraviado el bastón.
+Se me ha perdido el bastón.
+Se me ha extraviado el bastón.
+Deja ya de hacer aspavientos, por favor.
+Vale ya de hacer aspavientos, por favor.
+Veo que te has restablecido después de tener el virus, cabrón.
+Veo que te has recobrado después de tener el virus, cabrón.
+Veo que te has recuperado después de tener el virus, cabrón.
+No le des dinero que lo malgasta rápido.
+No le des dinero que lo malrota rápido.
+No le des dinero que lo despilfarra rápido.
+Cuando los hombres tenemos mucho frío se nos engurra la pilila.
+Cuando los hombres tenemos mucho frío se nos encoge la pilila.
+Se te ha quedado el cuerpo encogido después de bañarte.
+Se te ha quedado el cuerpo encogido después de bañarte.
+Extremeño
+Italiano
+Noruego
+Polaco
+Ruso
+¡Atención!
+Ajustes
+Añadir
+Aplicación
+Automático
+Cerrar
+Claro
+Detalles
+Editar
+Ejemplo
+Eliminar
+Modificar
+Nombre
+Oscuro
+Seguir
+Título
+Video
+Buscar
+cantar
+Pretérito perfecto simple
+canté
+cantaste
+cantó
+cantamos
+cantasteis
+cantaron
+Pretérito imperfecto
+cantaba
+cantabas
+cantaba
+cantábamos
+cantábais
+cantaban

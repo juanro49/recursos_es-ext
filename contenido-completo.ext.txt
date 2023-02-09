@@ -1,0 +1,651 @@
+Añidil Feed
+Vel TV
+Vel arradiu
+TV libris
+A tentu
+Empossibli el apapal daus.
+Previ el su enganchi.
+FeedTV es una apricación que te premiti el leyel enteracionis de qualisquiera mediu por mé de RSS amás de poel vel canalis púbricus de TV pandiquiera.
+FeedTV es possibli por mé de RSS Parser,M3U Parser, i al reponimientu de canalis de TDTChannels i reponimientu de arraius libris de enjey.
+Entangá de Juanro49 baxu licencia Apache 2.0
+Tema dela apricación
+Gastal aparatu esternu
+Está gastandu un aparatu esternu pa sonal las canalis
+Está gastandu l'aparatu internu pa sonal las canalis
+No añidir
+Añidir informacionis rezientis
+No tien feeds añidíus. Quiel añidil el feed d'informacionis rezientis?
+Dambus campus sonin obrigaus
+Huenti añidía conformi
+Huenti muá conformi
+Nombri dela huenti d'enteracionis
+Entra el nombri i la seña del Feed RSS
+Atillus presenterus
+Mual huenti
+Qué quieri hazel?
+Huenti aborrá
+No s'an apapau endilgus
+L'enganchi a internet no está presenteru
+Añidi huentis dendi el menú laeru esquierdu pa prencipial
+Endilgus renovaus conformi
+Á avíu un marru al apapal componentis del Feed.
+URL copiá al portapapelis
+Entra el tema a siguil i el su origi
+Marcal si Google News no está presenteru en el su país
+Luenga edtablecido
+Vel en Github
+Uguañu es corrienti de poné'l provechu económicu i las muacionis tecnológicas porcima de tolas cosas, es lo que llamamus la idiología del pogressu.
+Esta postura coltural, basi del pensamientu uropeu delos siegrus caberus, tien síu una delas ideas huertis dela epoca en que vivimus.
+Dendi la Conquista d'América i la colonización del mundu -i conas revolucionis liberalis, facistas i socialistas-, la Modernura s'assienta d'edá crássica del muestru tiempu.
+Por tiempu bastanti, el conceutu'l pogressu tien guiau la creceera delas cidais i metrópolis por tol mundu, la esparramancia delos valoris liberalis, l'apartu dela naturaleza, la sobreprodución endustrial, la perda delas colturas tradicionalis i una conomía secostrá delos Estaus i sostribá ena moneda.
+Añus i añus d'esti sistema mos tienin dau a muchus más añus de vida, quartus de bañu i papel del culu... peru a trocu dellu tenemus perdía la cenzillés, no sabemus lavoral comu la genti de patrás ni avalel-mus al monti, tenemus apreparaus desequilibrus gravis ena naturaleza, tenemus condenaus millonis ala probitú i la hambri, i la huerça delas almas vivin barajás dunus pocus de desalmaus.
+L'amol al dineru es tan grandi que hondeó con tolo más.
+La Libertá a guiá'l puebru, Eugène Delacroix.
+La dama dela Repúbrica, diosa l'Estau liberal francés, llama alas gentis ala guerra.
+Dendi l'estremeñeríu mordajustu, liberal o social-demócrata, se palra dela emportancia de tenel güenas comunicacionis i sel escapás de competir con economías más huertis... no semus intolerantis de tó cona postura esta porque paici la más lógica, peru... acasu mos tenemus pensau seriamenti lo que ganamus con ellu?
+Amus a habral cona verdá: Estremaúra es la güerta d'Uropa i el sinu palas vacancias delas capas meyas delas cidais españolas i —de ca ves más— uropeas.
+Nel engranagi'l capitalismu mundial, i mesmu nel muestru Estau, semus ciadanus de segunda o tercel categoría: un territoriu endedicau ala produción de materias primas i energía palas capitalis d'ahuera.
+Estu velaquí no vai a mual por tenel más trén o más aropuertus, namás valdría p'acomoal i agraval la sitación de soyugamientu en que vivimus.
+Estremaúra produzi energía pal gastaeru de Madril.
+El centru urbanu de Castilla insuelvi la produción del antigu Reinu de León.
+Que la muestra tierra es una colonia ya lo dúan pocus estremeñus.
+I es qu'al puebru estremeñu la globalización, más que ganancias, mos truxu más emigración, los ucalitus, el calamoti de Guadiana, la seca delas anzinas, l'encarecimientu delos precius, el fechi delos comercius chicus i la ruína del'agricoltura i la ganaería... peru a trocu ensiquiera mos premitió de desenroal la endustria, ni de conselval la muestra coltura, ni de mantenel la puebración ni de sel referencia n'aspeutu dengunu a nivel altu.
+No senefica essu que l'abrición delas fronteras no mos hizu tantu bien comu mos gusta de pensal?
+No sedrá que mos tienin engañaus i que semus los perdeoris dela globalización?
+Pontoci... paqué tantu tren?
+Paqué tantu turismu quandu'l puebru no tien tierras ni Estremaúra tien un tecíu produtivu espigau?
+En momentus de precisa comu esti lo arreparamus.
+El foturu imediatu paici que tira más pal acotamientu i los fechis de frontera que no pal'abrición delas sociedais o la espigaera dun solu polu giopolíticu.
+Crisi ambiental: ríu Guadiana tupíu calamoti, una pranta tropical qu'adorna las peceras delas casas.
+L'andanciu del corona-viru es la calma enantis dela tormenta.
+Las enteracionis que mos dierun a tentu dela infeción paici que son incompretas, en piyendu recada muchus científicus por no sabel-si entavía ni la huenti ni l'antigüedá dela malura.
+Seya comu hueri, la campaña entrenacional de segureza arreol del viru aprepara una trashormación dela conomía mundial en que la soberanía vai a tenel una emportancia muchu más grandi que no daquí patrás.
+Las quarentenas s'usan tamién p'arrejuntal poel i pala piara no desmandal-si.
+La globalización ya no da pa más, i la conomía global vá a dal passu a mercaus continentalis más huertis i más baqueus entrenacionalis.
+Los luchis pola soberanía i las riñas de poel entri goviernus mundialis, estatalis i regionalis sedrán corrientis.
+Devemus de tenel calma, sí, peru tamién devemus de comprendel que las cosas ya no vain a sel comu eran.
+Tenemus de lucheal polo muestru.
+El Broncu es unu d'estus puebrus que están assentaus nun sitiu de passu i, comu es de passu, naidi lo echa en cuenta.
+Diendu pa Villanueva o pa Mueda, l'atraviessas ligeru, comu si aquellu hueran quatru casinas.
+La verdá es que esti puebru está nun cruzi de caminus (pa Santa Crus, pa Cerezu, pa Palomberu, pa Santivañis, pala Higal, pa Villanueva...), arroeau de dos regatus (El Riscu, Moñina) i la rivera del Broncu, que le da nombri.
+Tó essu no s'aprecia pal que vai pola carretera, peru antañu, quandu no queavan más meyus que dil a peoncia alos sitius, esti puebrinu sí salía enos mapas.
+De hechu, hue monicipiu, ata que dispués passó pa Santa Crus comu una alquería.
+Letreru formi se vien de Villanueva.
+Ogañu es un puebrinu atravessau dela carretera, entre olivus, enzinaris, ondi s'estila el cavalleu i el ovejeu, pa fachenda i pa quesus.
+Angunas casinas nuevas se vén obrandu, quiciá delos ijus i nietus delos bronqueñus que vivían aí.
+El lugal del Broncu ampié dela rivera omónima palos añus 40-50, ena retrataúra del Vuelu Almericanu.
+El caseríu d'agora está retificau i pocas casas quean cona hechura delas casas del siegru XVIII o XIX, conas toças i las ombreras de granu, los bastioris delas ventanas lo mesmu i las poyatas delas ventanas.
+Las callis siguin el destraci antiguu de ponienti a salienti, abocás al norti, formi el recuéncanu dela rivera.
+Quasi que no se aprecian costrucionis nuevas comu otrus puebrus que s'enancharun... quiciá porque esti puebrinu no cai cerca de capital nenguna i porque la genti hue ahuyendu con el ajorraeru delos añus.
+Los nombris delas callis, desquitando "Cervantes" y "Colón", que son los únicus antropónimus, los demás mientan del sitiu, o sea-si, conselvan los nombris antiguus acastillanaus: Real, Meyu, Sol, Fragua, Praçuela...
+Esti es velaquí el reportagi en retratus que amus hechu a esti puebru delas tierras dela Graná antiga, que ogañu malaspenas cogi los 43 abitantis.
+Cara enxavelgá ena Praça.
+Gatu nuna paré dela Praça.
+Bancus dela Praça entre plataneras i periquitus.
+Ilesia dela Madalena dendi'l atriu.
+Ventanilla de la calle "Real".
+Puerta dela calli "Colón".
+Travessía dela "Fragua".
+Gatus dela calli "Fragua".
+Estremaúra, cotu de caça.
+Cartuchu ala metá dun caminu en Valdelacalçá.
+En memoria delos animalis achacinaus en Portugal i de caúnu delos que huerun vítimas del entretemientu insanu i imoral que es la caça ogañu.
+Si eris un animal i por custionis climáticas acabas n'Estremaúra, plontu saldrás del mundu esti porque un umanu vestíu de caqui i con una escopeta al ombru está alampandu por pegal-ti un tiru.
+Si eris un perru de caça, vivirás en un chiqueru tol añu, junta dozenas más de perrus comiendu pan arremollecíu i bacharola, atau del pescueçu sin poel-ti remenear del sitiu ensiquiera pa echal-ti a dormil, i lairarás de coragi a tol que passi pol renti i agullarás dandu alaríus calafriantis ca nochi, escachandu el descansu delas otras especiis.
+Si eris un páxaru i el umanu estuvu a piqui de destinguil-ti antis, con una poca de suerti pondrás el ñíu, criarás i emigrarás; si no, no tendrás arvu seguru, no averá bayón que te inculti, ni charca que t'arrecoja.
+Bardal nengunu sedrá hondu bastanti pa tapal-ti.
+Si corris a quatru patas, ni vivalera, ni buracu, ni matoju, ni canchu nengunu t'acovijará.
+No sirvin las revirivueltas, ni los rehurtus, ni la velocidá pa escambullil-ti: tras de ca çarça, de ca acirati, de ca xara está acechandu-ti cola pacencia ansiosa del sicópata, pola que'l tiempu se cuenta en sangri.
+Si eris un umanu i no estás nel mundu dela caça sufrirás tolos dañus colateralis possiblis: no podrás salir al campu sin sentil las balas volandu i los cañonazus rebumbantis enas barrancas delas riveras, ni passal a parti nenguna porque ondi no ai animal esprotau dela ganaería es cotu de caça.
+El caminu del andarín, la verea i el regatu sedrán de promu contaminanti siguiendu la carrehilera de cartuchus i las latas de cerveza andiquiera.
+N'essus mesmus caminus vedrás la gota de sangri de quien le vaziarun la vida, vedrás el perru inuti pal caçaor descordelau, desengañau i cambolanti procurandu pola gandalla o colgandu duna enzina.
+T'encontrarás el javalín aginau a atravessal-si pola carretera ahuyendu duna montería del día antis i el gansu escogollau ampié duna charca por avançal-si un galgu en mala ora una tardi de estrenamientu.
+Con tó estu, el coraçón te s'enrutará ca ves que selgas al campu.
+Cómu puea sel un passatiempu matal un otru sel vivu?
+No ai igualdá de condicionis ni nessecidá, namás afán de sentil-si quién encañonandu alguien porque quitá-li la vida es mandal en él.
+Gustal matal es reconocel-si sicópata.
+Dal larga ala ravia diaria a pegal tirus es arrebullil más i más i más el'ansia compondrona i entenía dela mesma manera que si unu quixiera de bebel agua crala dun maniantal i la envarbasca primeru i agarra un vasu rotu pa bebé-la: envenena alos que beban dispués i se pon el hozicu ensagretau.
+Entretenel-si en matal es landal más míseri i arrastrau ena genti.
+No es custión de que una lei comenenciosa i envenená, en tó i por tó imoral i atrasá, sirva pa tapal el viciu más ruín, agomitabli i baxu que se puea tenel, que es el d'encevical-si al dañu i mataeru d'otrus animalis.
+Una lei no puei tapal unas assaúras indinas i maliciosas.
+La rola ala que encañonas no tien la culpa de que t'echaran del trabaju.
+La javalina que hoça an pie del alcornoqui no puei pagar por tu sufril d'abusión nel estitutu.
+Que en casa padeças duna pareja manejantona i de críus indeseaus no quiel dizil que tengas que esgracial una familia de ciervus.
+Ná de essu vai a arregral-ti pobrema nengunu, más, has que te hundas más ena miseria de sel un desgraciau que busca consuelu ena muerti ajena.
+Si t'encarassis al conflitu cola mesma confiança con que t'encaras al javalín cerrúu que se muevi a somatraspón assujetandu con buen pulsu el'arma que le quitará el sinu, no tenías las ansias essas de hazé-li dañu a naidi.
+Por regenteal entre las xaras colas botas de material, el chalecu de rumbus i la escopeta que agasajas mejol que ala tu familia no sedrás mejor que naidi, enque assín lo sienta el tu egu deminutivu.
+Ni la hartá de cartuchus caíus entre los canchalis quiel dizil que mandas ena naturaleza.
+Ni las malandronás colas que resplandillas enas tavernas mentras royis la carni d'animalis que otrus acachinarun por tí apasman a naidi.
+Las muertis que recadas nel coraçón te pesarán, porque enque no te doloreças dellas agora, saldrán: tó acaba saliendu.
+Queréis arrendal los «grandis» reis que antañu destinguierun los ossus delas sierras i los cavallistas que arrinconavan javalinis enos bosquis escurus: vos confundís reondamenti de referentis.
+Ellus no eran euris, namás pressonas tristis, perejileras i aburrías con el pechu más escuru que los bosquis ondi caçavan, gustosus siempri de dal-si postín.
+Procurai por referentis en los qu'aman, no enos qu'odian; enos que crían i no enos que faratan; enos que vivin de manera onesta i cenzilla sin nessecidá de presumimientu.
+Essa genti no está pintá en quairu nengunu, ni saldrá pola teli, ni assobacan a naidi: el su únicu afán es vivil de manera tranquila, tal i cumu los animalis que matáis.
+Ni los animalis ni los umanus estamus segurus con vusotrus nel campu.
+Estremaúra no es el desfogaeru de frustacionis de naidi: essa guerra á de sel interna.
+Collaçus, me paici que ya abrigüé el gastu tradicional del passau n'estremeñu.
+Collaçus, ala final oi no vo a poel.
+Lo queamus pal domingu venieru i assín vos mandu la tema enantis pa poel apreparal la crassi.
+Dispensai, un assuntu conas llavis de casa.
+Ave... es una horma literaria, conque n'estremeñu lo q poemus hazel es copiá-la o agarral una muestra más tradicional.
+Mandai un atiju del Meet i mos entramus, pol movi o pol ordenaol, comu quiera caúnu.
+Ni por soñación vo a dexal-ti de hazel lo que te s'apeteça.
+Hueraparti d'estu, el domingu venieru tengu pensau de golvel conos cussus d'aprendimientu palos que quieran espiençal o siguil a deprendel gramática i vocabulariu.
+Seis tous bienllegaus, i es emportanti que esteis los que más sepais p'ahilal con ellu i poel tenel una ciclopedia aparenti daquí a caberus del añu que venga.
+Collaçus, hazei el favol, los que querais de partecipal nel proyeutu la Güiquipedia entrai-vus ena corrupela de Telegram, que es andi están los que sabin d'assuntus técnicus.
+Me casé de ventisseis añus.
+Güenu, pos ya arrematémus.
+La cosa es que quierin entangal una corrupela de trebaju pala Güiquipedia, pa edital i corregil artícalus.
+Creu qu'angunus delos qu'andais paquí ya tenís hechu qué.
+Representas una reina con essi vestidu.
+Me representa que mañana es fiesta.
+Dichu quandu una cosa está setenciá, que no se puei hazel ná.
+Son dichus que namás se gastan ena palra, conque pa mí no tien munchu sentíu'l precurá-li corretura gramatical.
+Lo pusun ena corrupela prencipal, lo halló un sociu que precura las cosas ena web de prensa estórica.
+La lindi col leonés orental de Salamanca es arreglu ala aspiración dela essi, i las partis del 3 son arias de passu (estremeñu con sesseu i rasgus mistus).
+Las essis delas mugeris son más andaluzas, peru l'ombri mestura'l son dela essi estremeña i l'andaluza.
+Mirai qué mesturança tienin en Caçalla dela Sierra, que lo mesmu sessean que destinguin.
+Está ena Sierra de Constantina (mal-llamá Sierra Norti de Sevilla, agora renombrá comu Sierra Morena Sevillana), pegá ala Estremaúra tamién.
+Lo vidi esta mañana, á si resulta de sel veru...
+El tu pairi tien la cabeça alas tres.
+En Toleu palran castillanu ocidental, con muchas palabras leonesas, lo mesmu qu'en tolas provincias linderas con partis leonesas, o qu'eran leonesas antañu.
+Ten por cuenta qu'un terciu dela provincia es de palra estremeña, i pala otra parti ai muchu leonesismu.
+Ai anguna que no conoçu, peru quasi toas se sientin.
+Es mu normal, l'apuntu pa no olvial-si-mi.
+En castillanu es assina, peru'l casu es que n'estremeñu lo tengu sentíu al revés.
+A tentu una palabra mu enteressanti qu'ás izíu, sabis que tenemus tres maneras d'izil-la? Essa mesma, qu'es la culta -derechamenti del latín- i que concidi cona horma castillana, i alogu una más estremeñeá qu'es con erri... peru resulta qu'enos decumentus de Diegu Sanchi atopamus una horma mu rala, que sedría la vos tradicional perdía por mé'l castellaneu i la enfrujencia'l latín ena religión.
+Assinque á de tenel gastu nel Mediterraniu.
+Avía que sabel la etimología.
+Andu apreparandu una tandalá nueva de verbus conas hallaúras qu'amus hechu i angunas corregiúras.
+Un puebru de genti "umildi i cenzilla" es un puebru d'escravus. Los puebrus que hazin estoria son de seris umanus bravus i compretus, tolo contrariu delo que precura esti goviernu colonial.
+No es con megu o contra mí, es que yo no vo a calavoral cona corrución.
+Tamién conoçu angunu de Xerés i d'Azuaga, lo qu'es qu'ai muchu tiempu que no habru con ellus, no quieu queal d'enteressau.
+Pa que veas el pocu onol que ai.
+No se lo enganguis a naidi.
+Collaçus, tenemus una socia nueva que trebaja ena Güiquipedia, la familia dela Raya.
+Tien propuestu pal'Assamblea d'entangal una corrupela pa corregil artícalus dela Güiquipedia estremeña, i l'ei dichu d'aprovechal esta i assín ampiamus la lavol qu'estamus a hazel i la proyetamus pahuera.
+Qué vos paeci?
+No se puei entendel que la preposición estea n'otru sitiu.
+Essa palabra devi de sel manchega, yo no la tengu sentía paquí.
+Mía qu'eris hoíu conas zagalas...
+Entovia no s'á dispertau i pa chascu ayel nochi me dixu que no tien agirvolu nengunu.
+De primeru, sopa de freji, sí, peru qué ai de comel encima?
+No son palabras del cántabru ni del gallegu, son agarrás de prenuncias deferentis dela mesma palabra celta.
+Aconteci alas vezis, peru no es cosa contina.
+Peru me feguru que tamién á de sel un sitiu andi aigan guarrus.
+Yo creu qu'es la que deviamus d'agarral pal estremeñu por izil-si en Güelva i sel comparanti ala purtuguesa.
+Alas güenas tardis, compañerus, quería hazel un proponimientu pa vel si pensais que puea sel aparenti pala briega pol estremeñu.
+Vos ei compartíu por mé del correu los resultaus dela primel incuesta a tentu delas habras estremeñas.
+Siguiré col dizionariu i los trebajus que tenía en menti, peru daquí alos días venierus vo a pranteal-mi la relación que tendré col'Assamblea de Vezinus i si sea precisu o no entangal otra associación con genti que tenga entencionis limpias.
+Qualquiera cosa que le diga le hiedi, es comu si no quixiera oyí-lu.
+Más allá dela repressión derecha, ala final s'á hallau un procedimientu muchu más aparenti porque, de passu, alibra dela culpa l'apressol: las hediúras lengüísticas.
+El repunteu dela lengua con ergumentus sin assientu dengunu comu puean sel la probitú sopuesta, o'l soponel qu'aquestas lenguas embilmin la pula social, o qu'envinculin l'acessu ala modernura i, güenu está, tantas otras, tó juntu aprepara una insegurança palos palraoris que los hazi d'abandonal la lengua qu'ain consiguíu que los assovorni.
+Amigus, esta semana esmiençu colo del dizionariu, vo-lo digu pa vusotrus sabel-lu.
+Dispensai, qu'andu enreau con milenta cosas.
+Tú píi lo que precisis, mejol essu que no pagal tontás palos antussanerus essus.
+Oi le mandaré otru avisu, no quieru adenuncial, peru alguién tien qu'afrental-si alos delincuentis que mos aprimin.
+Le tengu piíus los estatutus una tupa de vezis, peru'l gachón no quiel mandá-lus.
+Naidi t'obriga a dizil ensultus, menus ena sitación en que andamus.
+Si quieris pagal las cotas pa otrus dil-si de vacancias, m'alegru por ti, peru a mí no me da tres lechis.
+Namás pías quandu habruchean al tu patrón, á si gastas essi ardil pa calavoral conos proyeutus que tenemus espençaus.
+Esmençaremus conas crassis daquí a un mes.
+Ara qu'esmienças a entendel tou estu, si estás de vagal tamién pueis leyel de baldi las enteracionis qu'espubricu nel diariu'l mi puebru.
+No podré resultal, estó malatu.
+El tu padri está a Caçris, golverá pala cena.
+Dimus a ajorral la calli pabaxu porque'l zagal esti está hiziendu-mus asperal de más.
+Estremaúra siempri hue territoriu rayanu dendi que le pusun el nombri essi: antis las rayas colo qu'ara es Portugal no essestían.
+En verdá, las custionis d'arrayus namás las entiendin las pressonas... i drentu delas pressonas, las que sientin los ergullus vacus delas nacionis.
+Oi s'ajuntarun en sitius nombraus de Badajós i d'Elvas essus machus que gustan d'abril i afechal formi las comenencias.
+Ogañu por causa delos virus, antañu por guerras que naidi entendió, peru que muchus uvun de sufril.
+L'alcáçava de Badajós i el castillu d'Elvas, sitius almirablis qu'estavan antis ala mira i qu'eran d'enhusmamientus solóbrigus, oi huerun llavis del visiteu i el comerciu, hotrileu de perras.
+Junta Méria, la Emerita romana que tanta sensación hazi al vesitanti, s'esparraman los assientus d'edificius, presas, cortijus, cimenterius, puentis i mesmu aqüedutus propius dela coltura romana.
+Peru están achopaçaus por causa del brillíu dela Emerita, incultus, aburríus.
+Las çarças dan cuenta dellus.
+Tamién las atabúas.
+La maquinaria dañina qu'arrampló conas vegas i l'arau de hierru acachinarun i enterragarun pa siempri la huélliga duna coltura qu'ara mos paeci tan larga nel tiempu cumu enteressanti.
+En el puebru d'Esparragaleju, pa ponienti de Méria i no largu dela calçá que diva de Olissipo (ogañu Lisboa) pa Emerita, entovia quean conseñas delos romanus.
+Essu sí, escamuflá, inculta, privá o derechamenti revestía de modernura.
+Guipal vas a guipal pocu, porque no ai ná hechu entovía.
+En Caçris capital se izi bastanti entovía.
+Entovia se dizi bastanti en Caçris capital.
+I güelvu a repetil lo dela ortografía: pacencia, tola que sea mestel, ayúa palos que no sepan entovía, tola que se precisi, peru ponel cosas comu "juerça" i otras faltas d'ortografía nuna pubricación oficial que porcima es idiológica, essu no se puei premitil.
+No vo a quital-la por respetu alos compañerus, peru creu que con estu no s'está dandu emportancia ala lengua i sí a otras cosas, i que no s'está respetandu el parecel delos compañerus que no semus hembristas.
+Lo del conteu de Don Benitu... ralu, ralu. Se conoci que los calabaçonis án votau mal i ai que retocal una miaja la cosa...
+Nel sul tamién se palra estremeñu, enque sea menus general i aiga más enfrujencia'l castillanu.
+Unión del Puebru Leonés no es un partíu provincial, es un partíu leonés: de León, Çamora i Salamanca...
+I sedrá la propuesta perfeta pala endependencia de Cataluña i el País Vascu.
+Lo mesmu puei izil unu de Coria o Prasencia de Caçris, i tendrían más razón.
+Badajós es la capital giopolítica d'Estremaúra: está ala vera'l ríu Guadiana i linda con Purtugal.
+Caçris es una villa tupía de millonis i assín i tó los governantis no se precupan de sacá-la del aislamientu.
+Sin una Vía dela Prata viva i sin una utovía que la junti con Badajós...
+Cómu asperan los cacereñus que puli la cidá?
+De verdá mereci la pena tenel Prasencia o Trugillu sin un duru pa dal ossíginu a una capital artificial estalá ena coltura dela sunvención?
+Aprová l'utovía A-81 Badajós-Graná.
+Vali... peru pa quándu l'utovía entri Caçris i Badajós?
+Un barruntiju: al PSOE no le quean ni dies añus.
+Es el responsabli de quasi que tola currución del régimi'l 78 i vai pol mesmu caminu que la social-democracia urupea, casu d'Escocia, Grecia o Francia.
+No es del tó seca, peru si tuviérimus más monti natural por ves de tanta hesa i tantu ucalitu, teniamus clima atlántica i abaxavamus las caloris en veranu cincu graus alo menus.
+Qué alegría qu'alguién que no tien ná que vel cola perda dela tu alma te la degüelva al cuerpu dun besu.
+Los griegus nel sigru IV a.C. estavan a assemilal la coltura compartía con Salienti dispués dela destensión propiciá por Alexandru el Grandi.
+Los valoris griegus, ya de por sí tracamundeaus, dendi la religión, la política o la economía, ata las costumbris, el hatu o el comportamientu, se dislocarun en muriendu Alexandru.
+Tras d'estu, ai qu'añidil las guerras d'ateniensis contra macedoñus por recuperal la grolla passá qu'ala final huerun un alalzi, esgalaçandu la democracia i l'ordin social: los ricus se ponían más ricus, la probitú se destendía entri las crassis meyas i baxas i los governantis se sucedían sin l'Estau sacal provechu nengunu.
+Su conocencia dela ralidá, sostribá eno sensibli, premitió qu'aviara un sistema científicu i moral encarrehilau ala felicidá.
+Hincau nel pensaeru material, defendió l'atomismu, en compretandu las teorías de Demócritu con ideas propias i canteandu-las ala busca dela felicidá cutiana, escassa n'aquellus tiempus empantanaus.
+Desenroó el concetu dela ἡδνλή, assentandu los sus prencipius i hondeandu conas feguracionis qu'aginan i desinquietan: el mieu ala muerti, si los diosis essistin o no, las cosas emportantis dela vida, etc. Ala contra d'estoicus, platónicus o aristotélicus, el pensaeru d'Epicuru s'acivarra ala vida por mé delos sentíus, desenreandu-si de precupacionis insussas que son produtus del no pensal derechamenti.
+Epicuru demostró que los gustus dela vida estavan ala manu: l'amistá, calmal la hambri i la sedi i descarecel los luxus polos pobremas que train son partis del su pensaeru que se repitin a ca noná.
+La Carta a Meneceu es un prospeutu palas malotías delas qu'adoleci la genti de continu.
+En él s'asseñala con brevetú qué agina al ombri i qué pensamientu ai qu'aprical a ca aginación, comu si huera un repertoriu d'ingüentis aparentis pa ca hería.
+L'estilu es cralu alas vezis, otras revesinu, enque con una estrutura i un estilu literariu más trebajau i políu que por exempru ena Carta a Eródotu.
+Prencipia animandu a filosofeal a qualquiera edá, dispués enas siguientis liñas vá palrandu delos destintus pobremas ata concluíl col valoreu del conocimientu i la nessecidá de tené-lu a tolas oras pa sel felís.
+La tradución d'esti testu se sostriba ena edición de Long destraía delas Vitae Philosophorum de Diógeni Laerciu.
+Es un testu compricau de traduzil pol léssicu concretu que gasta.
+No vaiga a estal naidi sin filosofeal por sel nuevu, ni se cansi del filosofeu quandu avejanti, pos naidi vá a desora eno tocanti ala salú del'alma.
+El que dizi que entovia no es ora de filosofeal o que l'ora ya á passau es igual comu el que dizi que ya no es ora pala felicidá.
+De má que án de filosofeal el nuevu i el vieju, unu paque, en envejeciendu, enverneça en bondá pol agraecimientu delo de patrás i otru paque, en huendu nuevu, sea ala par vieju, porque no tien mieu al hoturu.
+Assinque, es mestel echal-si ala idea delas cosas que dan la felicidá, pos d'estal ella presenti, tenemus tou, peru d'estal assenti, hazemus de tou por tené-la.
+Las cosas que te consejava de continu, ha-las i pratica-las, comprendiendu que los elimentus que te hadrán vivil bien son estus: primeru, crei-ti que'l dios es un sel que no se corrumpi i dichosu, formi se representava la noción común del dios, no l'atribúas ná contrariu ala incorrutibilidá ni ná desajenu menus la dicha, de má que te pareça que tolo qu'arrodea al dios es dicha al lau de incorrutibilidá.
+I los diosis essistin, porque la conocencia d'ellus es evidenti, peru no son comu la genti se crei.
+Acostumbra-ti a creyel-ti que la muerti no representa ná pa nusotrus porque tolo güenu o lo malu está ena sensación i el privamientu dela sensación es la muerti.
+Por essu, la conocencia derecha de no sel ná la muerti pa nusotrus hazi que se desfruti lo mortal dela vida, sin añidil un tiempu inlimitau, sino más aína hondeandu conas ansias de imortalidá.
+De má qu'es un bobu el que izi que temi la muerti, no porque penará estuviendu ella presenti, sino que pena quandu entovia está de venil.
+Lo qu'está presenti no agina, es quantis que mo-lo enfundimus quandu hazi penal en baldi.
+Assinque'l más calafrianti delos malis, la muerti, no senifica ná pa nusotrus, porque, de nusotrus essistil, la muerti no está presenti i dela muerti aparecel-si, entocis nusotrus no estamus.
+Peru la genti ahuyi dela muerti, alas vezis comu si huera aquellu el peol delos malis, i, ala contra, otrus l'agarran comu si huera l'arremati alos malis dela vida.
+Ai que revacal que, delos deseus, unus son naturalis i otrus baldíus; delos naturalis, los unus son precisus i los otrus naturalis namás; delos que son precisus, los unus son precisus pala felicidá i los otrus pala tranquilera del alma, mesmu pal propiu vivieru.
+Quantis que l'alcançamus, se deshazi qualquiera tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cola que compretal lo güenu del alma o del cuerpu.
+Daquí a ná entru l'indis i la entrodución, que ya es mestel.
+L'ombri sabiosu escrivi nun priegu, sin salil-si, supiendu que lo qu'escrivi es, de contau, un cientu de vezis más grandi que mil priegus juntus.
+Ai tres añus, quandu m'assaltó la idea d'abandonal el castillanu i abraçal sin abexinu l'estremeñu pala criación poética, nunca creí que huessi escapás de sentil-mi tan a gustu escriviendu.
+Pueu izil qu'ei atopau la carrucha ondi mejol viajan los mis pensamientus.
+Sin embargu, essu sedría emperifollal vulgalmenti el testu, engafandu-lu de parásitus lengüísticus que çugarin la sangri andi bebió la pruma.
+Esti libru velaquí se vos presenta reziu en metá dun iviernu buhíu i mu duru, i busca una calentança familial.
+Esti libru velaquí no çuga de nengún pechu por no avel teníu nunca la nessecidá de vivil sequientu.
+Estás alampandu por aportal a Montanchi i vel otra ves alos tus amigus.
+L'amiguina tuya me paici qu'ai un tiempu se desapartó dela su familia porque los sus pairis son inresestiblis.
+Bien sabis que compongu, enque me hieran los ruius dela nochi, hateau namás cola música.
+Bien sabis que la tossi es escapás d'añusgal-mi los versus.
+Almirai el esgalaçu trunfal que aconteció ena arquitectura delas palabras!
+No vo a premitil qu'aiga una falta de seriedá tan vergonçosa!
+Bienllegaus al'associación, zagalis.
+Bienveníus al'associación, muchachus.
+Andai, moçingonis!
+Ahilai palantri de reziu!
+Hazei ruíu pola sierra, que vos oigan los labraoris.
+Ayel andémus de más i me dueli muchu'l pie agora.
+Pos anque ara andemus sentíus i tou sea negrura, yo sei que tú, quería mía, ahilas ya pala dicha hotura, andi no atoparás dolencia nenguna, andi'l tu maríu t'está a esperal.
+Ei hallau la cola'l ratón embaxu dela graveta i formi m'acercu al son mecánicu del ressuelgu, va diendu-si más i más largu.
+Ara las caloris me cain largu comu largu cai la cidá que s'equivoca formi ahila'l refrexu por cima delos charcus, por cima delos bonalis.
+Las froris no se güelin, no sabin que son froris, peru musotrus, los borranchines, alas vezis poemus golé-las.
+Enque estautas llamamus a quien son comparantis a musotrus, lo mesmu que rehuíus llamamus a quien l'atortujamus el coraçón comu a un peñuscu.
+Palrai, que yo despaciosu vos oyu, enque los vuestrus guarrapeus me resultin tan empacinosus comu una piara corianas que patinean por un alpichín heyondu i negruciu.
+Es quiciá por essu qu'aspiracionis i sonis afechaus a zumbatarama ahuyin, se trompieçan con balaguerus carcomíus dela pita i del promu en vera los ríus i desaparecin pa cientu i un añu.
+No ai zahoril escapás d'abriguá-lu leyendu ena naturaleza.
+Contri más largu vaigan se golverán más inleyiblis.
+Entre milenta de seris i lenguas de tolas crassis vó hiziendu verea por mé dela guaña i el hocinu.
+Pui ándi devían de sembral composicionis enas maris?
+I formi vaigamus llegandu a essas maris de hesas, diremus encravandu la simienti pa nacel el arvu cuyas ramas endilguin el caminu palas nuvis.
+Semus ena nuestra vida impresarius i no mos desaculamus si s'espeta de chopetón un orihoscu i desapreveníus avemus d'escrevil rezus.
+Sin embargu, sí mos acagaçamus quantitu que tenemus de afrontal-mus contra la dama Soledá, deque mos encrava ena raís delos sus herrugientus pelus i mos arrecuca arroeandu-mus con ellus.
+I en esta carci d'espaciu, de tiempu, de pensamientus, juegan con musotrus ahuncus i ahoguiñas, aginus i coquillus, duendis i pantasmas, mostrus espantosus enllenus de herías concalecías, que cavilan hechurías i que son escapás d'enterral-mus enos escurus gambullus del ruin hundieru,  hondalizas delas que ni los amigus más cariciosus puyeran sacal-mus en sigrus.
+Ni anque huera tan grandi cumu las luzis que cubrin las sierras lo descogía antis qu'a ti.
+Ni anque huera tan atrayenti cumu'l peligru ala inorancia, peol entovía, pos sedría más escuru qu'una praça sin niñus ni bolindris, qu'un mundu sina alegría que los animalis mos train.
+Que quieru vel-la dançal, saltal i blincal pol airi, qu'estas son ciringoncias dun fraili.
+Mi agüela tenía un peral qu'echava las peras finas i eno altu dela cogolla cantava una golondrina.
+Coile! Qué largu qu'es el tu iju.
+Las cerezas de paí no dan comparança conas del Xerti.
+Teniamus unus pagus pendientis i no apoquina dendi jeneru del 2021.
+No dexis que s'aprovechin de ti, que no tienin vergüença nenguna.
+Siempri tenemus cobrau, no creu que vaigan a dexal de pagal-mus agora.
+Si no me recuerdu mal, me devis 10 ebrus, qu'es una minudencia, peru a pocu a pocu se güelvi qué.
+Amañana te mandu un mansagi, que no quieru descalental-ti agora, i ya julgas tú.
+Namás m'ai hechu falta que ponel "estremeñu" p'atopal una tupa d'inhormación a tentu dela nuestra lengua.
+Es defici qu'aigan tantas casolidais.
+Aluegu no digas que no te traigu aventuras, peru en cumpriendu las medías de segurança, con cinchus que dan güena sujetación.
+Palos alverbius es corrienti, peru palos participius se gasta la raís latina de continu.
+Qué corciu llevas ena cabeça?
+Qué corciu llevas ena cabeça?
+Qué corciu llevas ena cabeça?
+Las palabras delos ombris son cumu las alvellanas.
+Me da tres lechis dil a Melilla, me da tres lechis travessal l'estrechu, quien m'emporta es mi morena, que sea quea de barbechu.
+Velaí le tienis, espaturrau ena butaca, sin querel salil ni hazel assuntu delo que le digu.
+Ai una pecina que múa de sitiu sigún venga l'airi.
+Ya está el páxaru bobu prantau ena esquina, asperandu a que selga l'andorina.
+Vo a craval-ti una faca nel pechu, á si tienis sangri endrentu o más aína tienis orchata.
+Me gusta de nadal ena pecina, me gusta de çamargullil-mi nella, i hazel ringurrangus enas aguas ata arremollecel-si-mi la piel.
+Quieru comel gravielis.
+Quieru comel garbançus.
+Estoi en meyu dun hotrileu armau de cochis i pressonas de tolos laus.
+No sei quándu sedrá la próssima ves que desfrutaré dela mi tierra, duna tierra de que nunca tenía qu'avel salíu.
+Ena Edá Meya quandu s'escrevía en leonés s'usava una ortografía alatiná o mediaval con feitíus propius.
+Andu compusiendu lo del dizionariu, tarda muchu porque l'archivu pesa i alas vezis no me dexa ni subil ni abaxal.
+Vo a acendel l'arradiu tolos días al'amanecía.
+Alo menus en Navalmoral dela Mata habravan n'estremeñu nel siegru XX.
+Tengu qu'entangal tamién las crassis pa deprendientis de huera l'Órganu, cumu no se convocan juntanças tengu de hazel-lu solu.
+El sufixu -ina o -iña es mu acorríu pa crial sustantivus nuevus, mesmamenti s'acoloca nel nombri duna pressona p'asseñalal una cosa propia della.
+Essu es custión de cómu lo miris, peru eno tocanti alo otru, siempri es contiesta a una oración.
+La entrá qu'endica la "entrejeción" no es la mesma que tú dizis. Ai que sel mu pelilleru con estas cosas porque es faci equivocal-mus.
+Qué d'infrujencias tien la parti aquella, quién diva a dal... á si ajorru un día pallí.
+Estu sedría una deferencia que ya tenían los romancis del sul colos del norti, peru que se hizu general nel castillanu i nel leonés orental pola enfrujencia del sul ya antis dela Conquista, ya que los moçarabis dehuyían pal norti enas epocas más rigorosas.
+Es prenuncia puebrera dela palabra culta, echai en cuenta qu'ai muchas cultezas nel asturianu por mé delas descojas que hizun los del'Academia.
+No te preocupis, peru no andis tan ciertu delo qu'izi l'ombri esti, qu'es un enreaol.
+Peru del tambolineru te lo digu porque me se representa que tien conocíus de Salamanca capital, Ciarrodrigu i Talavera'l Taju.
+Es unu delos más impuestus ena lengua dela su comarca, trebaja de panaeru i tamién hazi de tamboreru quandu es mestel.
+Lo qu'avís entangau ena Cosera á síu un déssitu mu gordu.
+Qué encreíus son los andaluzis quandu salin dela su çahurda, gastan unas ínsulas qu'unu no puei resestil.
+Croacia es un estau d'Uropa assitiau ala orilla del Mar Adriáticu, que hazi parti dela Unión Uropea i que hue criau de rezién. Los croatas hazin arrayu colos serbius, los eslovenus i los úngarus, i son mu nariçúus.
+Se conoci que mi agüelu tenía el costumbri de lleval siempri un cachu pan duru nel bolsillu, pa si acasu s'atopava unas gallininas pola calli.
+Essi muchachu es mu rançosu, siempri anda a cavildal nel hoturu i enas perras que le devi ala mairi.
+Nel 2008, el Cosovu, provincia del sul del país ondi la huerça dela puebración es d'origi albanés, se procramó endependienti de Serbia.
+No t'apuris, ara me paici qu'entovia no estavais paquí angunus.
+Comei-vus la tortilla, que ván a afechal la cozina daquí a ná.
+Quandu alleguémus al pantanu, ya s'avían recogíu tolos otrus amigus muestrus.
+La lluvia huerti hue la d'antiel.
+Muchas vezis!
+Lo hadremus, un gustu conocel-ti.
+No me vengas con enreus, quien quiera dil-si de bureu, libri es.
+Ya vos digu que no está tó escrevíu cona norma d'agora, peru ai cosinas enteressantis que poíamus leyel amañana.
+Velaquí ai unas pocas de leyendas n'estremeñu mu aparentis pa escomençal a hazel-si ala lengua.
+Collaçus, alogu vos pongu la primel leción, deque s'entrin los nuevus.
+Collaçus, alogu vos pongu la primel leción, deque s'entrin los nuevus.
+Huera güenu que vengan tous pa poel habral derechamenti a tentu delas leis que mos afetan.
+Si estudiaris pal dessami esti d'amañana, yo creu que passavas de cussu.
+Si espençárimus a dobral el lombu de verdá, el mandón dexava de dal-mus tormentu.
+Si felicitassin los sus ijus quandu hazin las cosas bien, los críus sedrían más felizis.
+Escureci, llega la nochi.
+Escuerçus i buhus salin del hochi.
+Cuervus, guarrus, santarrostrus, encantus de duendas royendu castañas.
+Corujas i liebris corrin polos praus, l'airi s'arrevola, menúa zorrera que s'á preparau.
+Nel Picu las corujas m'án dichu que vidun los muertus abaxandu pal puebru, vedrás deque lleguin, juevis ala nochi, la su voluntá d'alardeá-lu tó.
+Assinque fecha la puerta, no sea cuentu que s'entrin i t'assustin.
+El mial delos gatus ya m'á acordau.
+O el cantal delos gallus, ya no los destingu, perdí'l sinu.
+Estoi eschavetau, repiau comu'n presu almericanu, comu'n veteranu de guerra que guipó'l hundieru del mundo esti.
+A mí tapocu no me convencía muchu, peru anguna cosa ai de hazel palos puebrus qu'están paí desapartaus delas capitalis.
+La esquierda tien secostraus los sendicatus i assín mos vá.
+De tolas maneras, es verdá lo que dizi: deque govierni VOX, los sendicatus, los movimientus pogressistas i l'endependentismu saldrán ala calli i, a mi parecel, España comu estau dexará d'essestil.
+Primel apagón nel centru de Badajos.
+Ya están ensayandu-si pal añu venieru... dí sacandu'l braseru de picón i apañai un güen generaol, que si no vais a queal-vus comu'n carámbanu.
+Tengu estuyás bastanti las palras estremeñas tradicionalis, i se dan deferencias comu qu'en Villal del Rei se diga "esparramera" i nel Xerti "esparramina", que'l tonillu sea un pocu deferenti i que nel esti aiga leísmu i laísmu.
+Amus, lo mesmu qu'en qualquiera idioma.
+De tolas maneras te pongu l'atiju del mejol dizionariu qu'ai por agora, pa si no lo conocis.
+Caro, mejol en singulal i pusiendu tamién "estremeñu".
+Hata que no cuaji'l contraglobalismu n'Estremaúra, qualquiel partíu estremeñeru está condenau a sel un títari del régimi, lo mesmu que las huerças políticas d'agora.
+Lo más sanu, el movimientu dela "España vaziá".
+Tres ambulancias vidi ya oi, namás de caminu pal trebaju.
+Se hazin estuyus sostribaus enas PCR, que marran más que la escopeta dela feria, no ai informacionis serias.
+Están tolas informacionis tracamundeás.
+Qué es lo qu'es el covid-19?
+Una numonía?
+Vali.
+I el canci, los trombus, la desorentación...?
+La muerti súpita es covid?
+Ellus siguin conas PCR pa tiral d'anguna cosa, peru no ai viru, namas velenu en tolas endicionis que poni l'Estau.
+De ca ves tengu más cralu que tenemus de hazel qué contra la malotía pogressista que çalea Estremaúra.
+La ditaúra delos reis tien podríu la muestra sociedá, mos tien hechu redículus i desnaturalis.
+Es mestel una matancia.
+Ai d'acabal con ellus comu si hueran una pregui ratas.
+Oi rehundió la molienda.
+Oi rehundió la molienda.
+Enque estea de moa agora l'aspetu más entrenacional i comercial d'esta fiesta, entovia conselvamus las raízis d'esta celebración tan antiga de comel los frutus dela toñá i acordal-mus delos dehuntus.
+Me paici qu'Alemaña tien otrus pranis.
+Qué cansera de vivil arrodeau de propaganda...
+Si'l leísmu huera un feitíu burgalés, uviera passau pa La Rioja o Soria (assemilás a Castilla antis).
+Por ciertu, una apontación enteressanti: no sabemus si'l leísmu tuvu nacencia ena haza qu'era antañu de habra leonesa orental.
+Á si mos dexamus de vivil ena dolçura i nun eternu "por qué a mí", las cosas cralas: l'Estau madrileñu soyuga Estremaúra a propiu ententu.
+Ten por cuenta que'l leonés orental tamién se palrava en Palencia, Valladolí i Ávila (que son genéticamente leonesas entovía).
+Essu din los tópicus filológicus, peru no están demostraus.
+El leísmu tamién está en tolas palras castellanas de passu al leonés del mesmu mó i manera que no están enas de passu al aragonés.
+No es assina: en Béjal, el Xerti, la Vera, Campu d'Arañuelu o Talavera del Taju son leístas i palran n'estremeñu.
+El mundu en que viviamus está a piqui d'escalabral-si, esmiença otra epoca pala umanidá.
+Las seguranças idiológicas i la idea dela ralidá que teniamus hata oi perderán tol assientu.
+Golvemus a un tiempu arcaicu, entovia no mos echamus una idea.
+Sei bárbarus, ermanus castúus.
+De quandu los cregus del Imperiu escrevían n'estremeñu.
+No creí que huera a molestá-lu l'usu duna lengua española, namás quería acordá-li qu'el sel español en tiempus del Imperiu tamién era una custión de casta.
+Caúnu que lo entienda comu güenamenti quiera.
+Mesmu enas comunidais que llaman matriarcalis las mugeris se hazin más cargu dela casa i los ombris trebajan más ahuera.
+Golvei del siegru XX.
+Aquí ya estamus con genocilius telivisaus p'amenuil puebración, los soviéticus s'ain güeltu paganus i el bisonti campea pola hesa.
+El foturu es antigu.
+Angunas sí, peru toas no.
+Tengu vista la ll- en decumentus de León.
+Alos mansus l'erearun la tierra... i la çalearun.
+Es tiempu de golvel a esprimental lo bravíu.
+Lo que no tenemus de bravés lo tenemus de pacencia.
+Cumu güenus escravus.
+La raza celta era mesturança de puebracionis urasiáticas i mediterranias, con más portacionis nórdicas enas Islas Británicas i la Galia, peru eran puebrus más morenus, castañus o coloraus que no canus.
+Comu los ibéricus, los irlandesis o los francesis.
+Los galaicus i los lusitanus no tenían namás una etnia.
+Eran una mesturança de puebracionis induropeas daquí i colonus celtas que venían de Celtiberia (entri Castilla i Aragón oi).
+La lengua delos lusitanus i los galaicus era aparenti, i no paici que huera celta.
+Alo primeru, el sistema brindó libertá alos amossessualis p'asseñalá-lus.
+Ara que ya están tous senificaus, el sistema múa'l pelitascu i ahuta los mosulmanis cérrimus paque los matin.
+Fasis deferentis del processu, peru'l mesmu pran ugenésicu.
+Brinda-mi los tus regalus, mugel mía.
+Brinda-mi los tus hoquis, mugel mía.
+T'ás soñau conmigu?
+Ayel nochi me soñé contigu.
+De tolas maneras ena guía qu'estó hiziendu vo a encruil las hormas charras.
+Vos mandu un artícalu qu'escreví a tentu la Guerra d'Ucraña.
+Sé que l'assuntu es un pocu escandalosu, peru creu qu'ayúa a mostral que l'estremeñu tamién val pa habral de tolas temas i pa tenel informacionis del ogañu redatás ena nuestra lengua.
+Si vidieras lo que hizu quandu no estuvisti paquí...
+Tolo otru está perfetu, i amás, l'inseñu es la carava!
+Anda que no deprendu ingrés con usté, prohessol.
+Essu i ná es lo mesmu, tapocu no vendamus la cosa comu una vitoria quandu son jangás.
+Musotrus agora a deprendel a habral bien —-no solu a escrevil— i deque aigamus unus pocus ya entangaremus academias i lo que seya mestel.
+O assín lo hallu yo.
+Padri muestru, qu'estás nel cielu, que sea ensantecíu'l tu nombri, que venga pa musotrus el tu reinu, que se haga la tu voluntá.
+Dispensa las muestras ofensas, cumu musotrus hazemus con quien mos enritan.
+No mos dexis de cael ena tentación i alibra-mus del mal.
+Los nuevus, ponei los correus, pa mandal-vus la envitación.
+Essas cosas aveis de despricá-las antis, pa musotrus sabel quién lavora los conteníus dela pubricación i quién los revisa.
+Echa-li una mijina de pimientu pa ensuavecel el sabol.
+No ensuaveças las tus palabras.
+Dispués de premitil la Junta d'Estremaúra la vestigación, i cona possibli saca i processamientu d'urañu en deferentis fincas, comu la de Cabra Baxa, con una destensión de 7.150 ect., qu'albarca varius términus monicipalis (Çaínus, Oliva, Villanueva, Higuera i Xerés), criémus una pratahorma cidadana, col afán de defendel la hesa del espoliju, los muestrus cidadanus dela malura i los muestrus cincu puebrus dela despuebración.
+L'impresa minera Qbis Resources S.L. pretendi de sacal l'urañu a cielu abiertu, sin echal en cuenta la rica biodiversidá dela zona i la salú de quien vivimus nella.
+Lo mesmu que hazin en África.
+Esti sistema de saca d'urañu hazi que se desprenda una grandi cantiá de gas radón, un gas radiativu.
+La radiatividá no güeli, no se vei, peru quea nel airi i nel agua por siegrus.
+Es una impotencia de destruición dun alcanci i unus nivelis impresumiblis.
+Vivimus ena zona más aprimía i umildi d'Estremaúra.
+La muestra endustria es básica.
+La vida enos muestrus puebrus es una batalla titánica pola sobrevivencia.
+Assín i tó, tenemus güena vida i un pratu ena mesa.
+D'abril-si la mina, la sitación vai a sel insustenibli.
+No es verdá que vaigan a ofrecel-mus colocación.
+Las minas a cielu abiertu no se hazin a picu i pala, se hazin con obrerus i máquinas especialis.
+Con estrumpíus i barrenus.
+A trocu d'ellu, de no sel escapás de paral estu, naidi vai a mercal los produtus del guarru ibéricu, que passan por sel los mejoris del mundu, d'España.
+Ni los güeníssimus quesus de cabra.
+Ni la fruta.
+Ni los borregus.
+Ni los bezerrus.
+Ni el carvón.
+Ni las corchas.
+No quedrán ná d'esta tierra ala que quearán ençonchá nun buracu radiativu.
+Sedremus el Chernobi d'Estremaúra, i no por mé dun acidenti, sino por mé duna elegía.
+Comu véis, tenemus abondu que perdel.
+Los muestrus montis i el muestru porvenil a trocu de ná.
+Una piruga del estampina que puei afetal tola sierra'l sul-ponienti.
+Por essu, queremus que mos ajunteis n'esti luchi que principiémus pa defendel lo nuestru i los nuestrus.
+Sedrá una batalla titánica, mos hazemus cargu.
+N'estas tierras nunca mos se dio ná de baldi.
+Semus acostumbraus a lucheal.
+La sobrevivencia aquí es rezia.
+Los muestrus antepassaus suarun ca cachinu de pan qu'arrancarun a esta hesa.
+Peru es la erencia que mos quearun.
+Esta naturaleza enigualabli, agria i hermosa.
+Arvus centenarius qu'enas ramas dellus se sujeta una conomía probi de sossistencia.
+Qué patrimoñu dimus a queal palas generacionis venieras si arramplan cona hesa p'abril la mina d'urañu?
+Unu o más cratis vazíus.
+Animalis maletus.
+Airi i agua enluxaus.
+I una ruleta russa de canci.
+Tenemus de racional, tós uníus, antis que sea tardi.
+Tenemus de izil un NO huerti i reondu, enantis que mos amotilin el foturu.
+Un NO que mos degüelva la diniá.
+Un NO que se salti la paré del repunteu que mos arroea.
+Un NO que haga de rehilal los murus del'Assamblea d'Estremaúra.
+Un NO que se sienta n'España toa, en Portugal i, si es mestel, nel restu d'Uropa.
+Un NO que mos atorgui'l derechu de vél crecel los muestrus ijus, probis peru sanus, potreandu pola hesa hermosa ereá delos agüelus.
+Tós uníus mos hadremus d'ascuchal.
+Estremaúra i Asturias son dos puebrus qu'esprimentan un acordal tardíu dela su concencia coltural si l'acomparamus con otras zonas del Estau comu Cataluña, Galicia o el País Vascu; peru cuyamenti quixu'l sinu que l'Estau español i la Igresia católica descogieran el mesmu día pa celebral dambas tierras.
+L'ochu de setiembri es una fecha que hazi onol ala Virgi de Gualupi nel casu muestru, i ala Virgi de Covadonga nel casu asturianu; peru dámbulus dos celebramientus salierun palantri por una decisión política.
+Uguañu, angunus estremeñerus revendican el venticincu de marçu de día d'Estremaúra —fecha en que s'alevantarun los labraoris contra los señoritus nel 36—, mentris qu'otrus tantus asturianerus reclaman el venticincu de mayu —del 1808, quandi la Junta General d'Asturias se declaró soberana i se rebelló contra las legionis de Napoleón—.
+Mesmu nel día del mes concedimus estus dos puebrus...
+No sacamus esta custión ala descudia, pos la fortuna paici que güelvi a ajuntal otra ves los dos cabus del reinu leonés, oi qu'ai tantu que se dessepararun.
+Asturias i Estremaúra corrin agora (comu antañu) un caminu uníu dela Vía dela Prata, i esti no es otru que'l recobramientu dela coltura tradicional por mé dela lengua.
+Esti cenderu estóricu contra l'assemilación castillana vien de siempri, peru hue enos añus 70 del siegru passau quandu los asturianus esmençarun a rebullil-si más seriamenti pola idioma.
+Dendi aquellas fechas, con subías i baxás, no tienin parau d'aparecel bandus de tolas crassis en defensa l'asturianu comu Conceyu Bable (añus 70), Xunta pola Defensa de la Llingua Asturiana (añus 80), Iniciativa pol Asturianu (2011) i otrus hatus aparentis.
+Nel 1998, la Xunta Xeneral del Principáu d'Asturies aprovó la llamá Lei de gastu y promovición del asturianu, qu'obriga l'Estau a brindal alos habraoris atendimientu ena lengua dellus.
+La lengua asturiana es ermana de sangri del estremeñu, pos dambálas dos son varianças estroncás del astul-leonés mediaval.
+Entri una i otra lengua, los parecíus fonéticus, morfossintáticus, ortográficus i de vocabulariu son incuentablis, comu despriquémus nel endilgu de Los soníus del estremeñu.
+Los logrus pal estremeñu son más modestus que los del ermanu del norti, peru assín i tó las revendicacionis pola idioma ahilan i ajuntan a ca ves más genti enas cidais i puebrus.
+Oi son muchus los concejus que s'arrochan a retulal castúamenti, i las ativiais i chalras alreol dela luenga son ya corrientis n'abondas localidais.
+Cuentamus con una norma escrita que vai cogiendu huerça entri los palraoris i deprendientis, que se gasta n'estampas, letrerus, páginas-web, telivisión i prensa.
+El passu siguienti no puei sel otru que la reconocencia oficial i l'aprendimientu enas escuelas.
+Antis d'allegal la sociedá de consumu a Estremaúra a caberus del siegru passau, no se conocía nesta tierra otra celebración nesti tiempu que no hueran los Carvotis o Carvochis, la Carvotá, la Carvochá, la Borrajá, la Chaquetía, la Chiquitía, la Cachetía, la Moragá o Mogará, la Magosta, el Magostu, Magustu, Magüestu o Amagüestu i otras mentacionis.
+Tolos nombris estus —i algotrus— se dan al costumbri de dil los críus piyendu polas casas frutus del tiempu i raferías, i alas juntanças delos paisanus pa manducal i hincal-si los produtus que trai esta epoca.
+Estas merendillas de caberus d'otubri i primerus de noviembri, regás con vinu de pitarra i aguardienti, encruin castañas i bellotas assás i sin assal, almendras, nuezis, higus passus, perus, peras, çandías, bembrillus o gamboas, mairoñus, uvas i granás, i tamién se hazin ducis del tiempu.
+Aramesmu vengu dela güerta d'apañal una hoci que mi ermana cayó al suelu ai unus quantus de días, ya qu'es mu calamandrulla la cutaína.
+Qué torpura que tien!
+El Pedru alo primeru se pensava que yo era un pocu dessagerau, sabis? Peru es un tíu al que no le gusta el conflitu, antoci por essu s'á quitau del meyu, pa poel lleval una lavol d'álbitru las vezis que porfiémus.
+No es una pressona que haga mal nengunu, peru s'ai espantau una miaja con estu delas porfías, es que es mu desagradabli tó estu.
+Hueraparti del robaeru, yo me descalientu a ca ná i enseñu unas maneras que no quería gastal, porque el tíu esti es un sinvergüença i hata que no vos tomaistis cuenta vusotrus tengu estau solu, cumu'l Quixoti.
+Noragüena, muchachus, cantaistis mu bien ala mañana.
+Me da pena dellus, de vé-lus tan escuchumiçaus.
+Me da pena dellus, de vé-lus tan relamíus.
+Me da pena dellus, de vé-lus tan fracuyentus.
+La Ugeña i l'Antoñu se dexarun antiel.
+La Ugeña i l'Antoñu se dexarun antiel.
+Mía qué arriscás essas romanças.
+Yo comu mentras tú comis, peru él no comi porque dizi que ya se hartó.
+Musotrus comemus cozíu.
+Nusotrus comemus cozíu.
+Vusotrus comeis cozíu.
+Cozíu es lo que comís.
+Teneis dos coxinis.
+Dos coxinis tenís.
+Ara no lloris.
+No lloris agora.
+Entovia no sei guisal.
+Entovia no sei guisal.
+No sei guisal entovía.
+No sei guisal entovía.
+Alogu telo digu.
+Telo digu aluegu.
+Me cagu en dies!
+Me cagu en dies!
+Namas quieru besal-ti.
+Quieru besal-ti namás.
+Quandu el añu passau me dixun de partecipal otra ves ena revista, m'aterminé a arrematal una delas tantas traducionis que tengu paí de testus n'otras idiomas.
+Los testus de Fernando Pessoa, dendi qu'estudiava purtugués ena carrera, siempri huerun una especii d'espeju ondi guipal las soledais, los ánimus, las faltas propias i ajenas, i una espiración pala criación literaria.
+De má que l'agraeçu essas leyendas a Pessoa traduxendu pal estremeñu una delas sus puesías más sonás, qu'empençava assín.
+Quien quiera passeal-si agustamenti por Estremaúra, d'andarín, de ciclista, correol o mesmu passeanti, no puei.
+Tou n'Estremaúra son cotus de caça, fincas de ganau o dambálas dos cosas ala par.
+Cona propuesta de tenel vacas, ovejas o guarrus andiquiera, el campu enteru está cortau con vallas, paeris de piera, alambris con pinchis, cancelas o angarillas i candaus, muchus candaus por tous laus.
+Obrai siempri con recada.
+Mi cuñau es paxareru, peru tien muchu conocimientu i no desfruta en hiziendu'l su trebaju.
+No escaeças, ya quasi l'alcanças.
+Essi zagal çacha con de más asperés.
+Ayel çoçotreémus los sacus pa si caía anguna alvellana.
+Ayel çamarreémus los sacus pa si caía anguna alvellana.
+Ayel remeneémus los sacus pa si caía anguna alvellana.
+Eris mu finu tú, telas sabis toas.
+Si pisas l'agua espichas.
+Si pisas l'agua salpicas.
+Si pisas l'agua chalpicas.
+Jesús es el nuestru salvaol.
+María, la su mairi, andava apalabrá con Josi, i anque no uvu arrejunti, reparó qu'andava preñá por mé del Espíritu Santu.
+El Josi, el su ombri, comu era mu arrecogíu, odiava de hazel pregonis dellu.
+La su entención era de hazé-li despreciu.
+Assín tuvu nacencia Jesús a Belén de Judea, andi Erois era rei.
+Ándi anda'l rei delos judíus, al que la su mairi parió ai ná?
+I tú, Belén, tierra de Judá, no eris la más chica delas cidais de Judá, pos hadrás criancia del mandón qu'agovernará Israel, el mi puebru.
+Desseguía Erois llamó alos magus pa que le contaran tolos detallis de quandu tuvun el guipi dela estrella hugás i los mandó pa Belén con un mandau.
+Dí-vus pallá i escorcuñai a tó metel a tentu'l críu essi; deque l'encontréis, vení-vus de güelta pacá pa izil-mi-lu.
+En quantis que oyerun estu aballarun pahuera, i la estrella hugás que vidun pa Salienti diva alantera pol cenderu, hata que s'aposó porcima'l briçu'l Messías.
+Deque s'atoparun al críu, se hincarun de roíllas i l'adorarun, i alogu endispués brindarun a Jesús unus regalus, qu'eran oru, enciensu i milra.
+Antoci s'echarun nuna posá, s'adormilarun i se soñarun con no golvel pandi Erois, de mou qu'ahilarun por un otru caminu.
+Acuerda-ti, apergolla'l críu i la su mairi, aballai pa Egitu i estai-vus quietus pallí hata que yo te pegui un hipíu, Josi, que l'Erois anda a precural al muchachinu i a la su mairi pa cuertá-lis el pescueçu.
+El Josi s'acordó, agarró'l críu i la su mairi ena escuridá, i ahilarun pa Egitu.
+Pallí andeó hata qu'Erois hincó'l poleu, en cumpriendu-si d'esti mó l'avisu'l Señol por mé del Profeta: «Dendi Egitu llamé a mi iju».
+Dispués que l'Erois arreparó la moraga que le hizun los magus s'enfarruscó cosa mala i mandó acachinal tolos críus de Belén i delas alreorás qu'entovia no vieran hechu los dos añus.
+D'esti mó se cumprió'l barruntiju'l Profeta.
+S'á sentíu una vos en Ramá: muchus alamentus i himplíus de tristura.
+S'á sentíu una vos en Ramá: muchus alamentus i himplíus de tristura.
+Quandu salimus al campu d'escobas i xaras, de tomillus cabeçonis i lirius, de mapolas colorás, se estremescran enas narizis los goloris del romeru, del tomillu, dela presta o la magarça i polos lombus se retuercin las enzinas hiziendu figuras de sombra i airi enos nuestrus ojus, mos sobrecogemus pola variedá.
+Si dimus pa otru país, mos gozamus conos saboris de pratus que no conociamus, mos retratamus delantri de casas, puentis preciosas i palacius enormis que paquí no son vistus i dimus comu taramas locas entre canchus o estautas que paquí no ai.
+Mos susprendemus delos costumbris que los tiempus tien díu tallandu ena genti i, cona golienda de conocé-las,  mos çamargullimus nellas i mos imponemus, enque sea por oras o días, precurandu adatal-mus.
+Essi caraiti social dela genti mos premiti de compartil las esperencias dela vida i enllenal-mus de tó i de tós, reparandu-mus en que nel hondón encontramus los parecíus.
+Ya está otra ves cona machaquina deque vai a moril-si.
+Vai-ti por essi otru lau, bobu, qu'atrochas más.
+Ya aviasti l'almuerçu?
+Le gusta comel alo banduju.
+Paeci que barruntu que'l tiempu vá a demual.
+Paeci que barruntu que'l tiempu vá a demual.
+Paeci que barruntu que'l tiempu vá a demual.
+Se poni hechu un bexinu con ná.
+Chacho!
+Qué piernas más cascúas.
+Essi vá a lleval-ti por mal caminu, es un cenequi.
+Essi vá a lleval-ti por mal caminu, es un cenequi.
+Á d'avel bebíu qué, vai hiziendu cingañetas pola calli.
+Á d'avel bebíu qué, vai hiziendu cingañetas pola calli.
+Ara en tolas penículas s'encoratan.
+Menúas cruxías passava yo ena mili.
+Esti no suelta un duru, es un cuentagarvançus.
+Me s'á perdíu'l bastón.
+Me s'á escambullíu'l bastón.
+Me s'á emputecíu'l bastón.
+Me s'á destraviau'l bastón.
+Dexa ya de hazel esparavanis, ha'l favol.
+Dexa ya de hazel esparavanis, ha'l favol.
+Veu que t'espelechasti dispués de tenel el viru, hoíu gachón.
+Veu que t'espelechasti dispués de tenel el viru, hoíu gachón.
+Veu que t'espelechasti dispués de tenel el viru, hoíu gachón.
+No le des perras que las espolilla denseguía.
+No le des perras que las espolilla denseguía.
+No le des perras que las espolilla denseguía.
+Quandu los ombris estamus arrezíus mos s'engurdi la pilula.
+Quandu los ombris estamus arrezíus mos s'engorruña la pilula.
+Te s'á queau'l cuerpu engurdíu dispués de bañal-ti.
+Te s'á queau'l cuerpu arrutau dispués de bañal-ti.
+Estremeñu
+Italianu
+Noruegu
+Polacu
+Russu
+Cudiau!
+Ajustamientus
+Añidil
+Apricación
+Automáticu
+Fechal
+Craru
+Detallis
+Mual
+Exempru
+Aborral
+Mual
+Nombri
+Escuru
+Siguil
+Títulu
+Vidiu
+Precural
+cantal
+Pretéritu perfetu simpli
+canté
+cantasti
+cantó
+cantamus
+cantaistis
+cantarun
+Pretérito imperfetu
+cantava
+cantavas
+cantava
+cantavamus
+cantavais
+cantavan
