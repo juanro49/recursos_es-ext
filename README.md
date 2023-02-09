@@ -23,6 +23,8 @@ Para el entrenamiento, habrá que unir todos los ficheros de cada idioma en uno 
 ### Fuentes de datos usadas
 - Contribuciones de voluntarios, especialmente socios de [OscecEstremaura](https://oscecestremaura.wordpress.com/)
 - Cadenas de traducciones de [FeedTV](https://github.com/juanro49/FeedTV) (Traducción realizada por [OscecEstremaura](https://oscecestremaura.wordpress.com/)) --> [https://hosted.weblate.org/projects/feedtv/feedtv/ext/](https://hosted.weblate.org/projects/feedtv/feedtv/ext/)
+- [El cantón estremeñu](https://elcanton.org/)
+- [Dizionariu Estremeñu](https://letterly.github.io/Dizionariu.html)
 
 ### Agradecimientos
 Este proyecto surgió por la idea de [Wikimedia España](https://ext.wikipedia.org/wiki/Hundaci%C3%B3n_Wikimedia) de reactivar e impulsar la [Güiquipedia](https://ext.wikipedia.org/), edición de la Wikipedia en la lengua extremeña.
