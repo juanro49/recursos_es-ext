@@ -1,6 +1,7 @@
 cantar
 Pretérito perfecto simple
 canté
+cantei
 cantaste
 cantó
 cantamos
