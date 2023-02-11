@@ -2,20 +2,20 @@ Añidil Feed
 Vel TV
 Vel arradiu
 TV libris
-A tentu
+A tentu de
 Empossibli el apapal daus.
 Previ el su enganchi.
-FeedTV es una apricación que te premiti el leyel enteracionis de qualisquiera mediu por mé de RSS amás de poel vel canalis púbricus de TV pandiquiera.
-FeedTV es possibli por mé de RSS Parser,M3U Parser, i al reponimientu de canalis de TDTChannels i reponimientu de arraius libris de enjey.
+FeedTV es una apricación que te premiti de leyel enteracionis de qualquiera mediu por mé de RSS amás de poel vel canalis púbricas de TV pandiquiera.
+FeedTV es possibli por mé de RSS Parser,M3U Parser, i al reponimientu de canalis de TDTChannels i reponimientu de arradius libris de enjey.
 Entangá de Juanro49 baxu licencia Apache 2.0
-Tema dela apricación
+Tema del'apricación
 Gastal aparatu esternu
 Está gastandu un aparatu esternu pa sonal las canalis
 Está gastandu l'aparatu internu pa sonal las canalis
-No añidir
-Añidir informacionis rezientis
+No añidil
+Añidil informacionis rezientis
 No tien feeds añidíus. Quiel añidil el feed d'informacionis rezientis?
-Dambus campus sonin obrigaus
+Dámbulus dos campus son obrigaus
 Huenti añidía conformi
 Huenti muá conformi
 Nombri dela huenti d'enteracionis
@@ -25,14 +25,14 @@ Mual huenti
 Qué quieri hazel?
 Huenti aborrá
 No s'an apapau endilgus
-L'enganchi a internet no está presenteru
-Añidi huentis dendi el menú laeru esquierdu pa prencipial
+L'enganchi a internet no está disponibli
+Añidi huentis dendi'l menú laeru esquierdu pa prencipial
 Endilgus renovaus conformi
 Á avíu un marru al apapal componentis del Feed.
 URL copiá al portapapelis
-Entra el tema a siguil i el su origi
-Marcal si Google News no está presenteru en el su país
-Luenga edtablecido
+Entra'l tema a siguil i el su origi
+Marcal si Google News no está disponibli nel su país
+Idioma assentá
 Vel en Github
 Uguañu es corrienti de poné'l provechu económicu i las muacionis tecnológicas porcima de tolas cosas, es lo que llamamus la idiología del pogressu.
 Esta postura coltural, basi del pensamientu uropeu delos siegrus caberus, tien síu una delas ideas huertis dela epoca en que vivimus.
@@ -253,6 +253,7 @@ Assinque'l más calafrianti delos malis, la muerti, no senifica ná pa nusotrus,
 Peru la genti ahuyi dela muerti, alas vezis comu si huera aquellu el peol delos malis, i, ala contra, otrus l'agarran comu si huera l'arremati alos malis dela vida.
 Ai que revacal que, delos deseus, unus son naturalis i otrus baldíus; delos naturalis, los unus son precisus i los otrus naturalis namás; delos que son precisus, los unus son precisus pala felicidá i los otrus pala tranquilera del alma, mesmu pal propiu vivieru.
 Quantis que l'alcançamus, se deshazi qualquiera tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cola que compretal lo güenu del alma o del cuerpu.
+Quantis que l'alcançamus, se deshazi qualquiel tormenta del alma, sin dil quien vivi palo que le falta ni precural otra cosa cola que compretal lo güenu del alma o del cuerpu.
 Daquí a ná entru l'indis i la entrodución, que ya es mestel.
 L'ombri sabiosu escrivi nun priegu, sin salil-si, supiendu que lo qu'escrivi es, de contau, un cientu de vezis más grandi que mil priegus juntus.
 Ai tres añus, quandu m'assaltó la idea d'abandonal el castillanu i abraçal sin abexinu l'estremeñu pala criación poética, nunca creí que huessi escapás de sentil-mi tan a gustu escriviendu.
@@ -370,6 +371,7 @@ Amus, lo mesmu qu'en qualquiera idioma.
 De tolas maneras te pongu l'atiju del mejol dizionariu qu'ai por agora, pa si no lo conocis.
 Caro, mejol en singulal i pusiendu tamién "estremeñu".
 Hata que no cuaji'l contraglobalismu n'Estremaúra, qualquiel partíu estremeñeru está condenau a sel un títari del régimi, lo mesmu que las huerças políticas d'agora.
+Hata que no cuaji'l contraglobalismu n'Estremaúra, qualquiera partíu estremeñeru está condenau a sel un títari del régimi, lo mesmu que las huerças políticas d'agora.
 Lo más sanu, el movimientu dela "España vaziá".
 Tres ambulancias vidi ya oi, namás de caminu pal trebaju.
 Se hazin estuyus sostribaus enas PCR, que marran más que la escopeta dela feria, no ai informacionis serias.
@@ -611,3 +613,24 @@ Quandu los ombris estamus arrezíus mos s'engurdi la pilula.
 Quandu los ombris estamus arrezíus mos s'engorruña la pilula.
 Te s'á queau'l cuerpu engurdíu dispués de bañal-ti.
 Te s'á queau'l cuerpu arrutau dispués de bañal-ti.
+Peru, señol jues, cudiaítu si angunu d’essus es osau de tocal essa cama ondi ella se murió!
+La camina ondi yo la quisi quandu dambus estavamus güenus, la camina ondi yo la cudié, la camina ondi estuvu’l su cuerpu quatru mesis vivu i una nochi muertu.
+Que no aiga una assinatura palos críus conocel las cosas d’Estremaúra es condenal la sociedá estremeña al olvíu i la perdición, descreví-la dela su propia tierra por passal la vida inoranti dela su estoria i dela su coltura.
+Es que la coltura anglosaxona es más emportanti que la estremeña?
+Ni siquiera tenemus la reconocencia del estremeñu comu lengua de parti del’Almenistración quandu associacionis i organismus entrenacionalis sí la reconocin.
+Ensiquiera tenemus la reconocencia del estremeñu comu lengua de parti del’Almenistración quandu associacionis i organismus entrenacionalis sí la reconocin.
+Dendi aquí, an pie dela estauta del Gravielinu, llamu los mis paisanus estremeñus paque sientan el hormiguillu que hormiguea i enverneçan los querelis por una tierra que, en dandu-mus de tó, tenemus l’ansia de buscá-lu n’otrus laus.
+Qualquiera movición corporal delos músculus escléticus que precisi gastu energéticu.
+Qualquiel movición corporal delos músculus escléticus que precisi gastu energéticu.
+Un susconjuntu d’atividá física estroncá, orentá pa ojetivus, competitiva i con sostribu en concussus.
+El juegu ativu puei emprical atividais o juegus simbólicus con o sin regras definías polo craru; l'atividá puei sel al rebullón, social o solitaria, peru siempri nun ambienti de reholgueu, combinau con una atividá qu’está bastanti por cima dela tassa metabólica de quietú.
+El trasporti ativu refieri a qualquiera horma de trasporti movíu d’umanus: camineal, andal en becicleta, gastal una silla de rueas, patineal o andal en patineti.
+El trasporti ativu refieri a qualquiel horma de trasporti movíu d’umanus: camineal, andal en becicleta, gastal una silla de rueas, patineal o andal en patineti.
+Qualquiera comportamientu de vegilia con un gastu d’energía ≤1,5 equivalentis metabólicus, nuna postura sentá, arrecostá o echá.
+Qualquiel comportamientu de vegilia con un gastu d’energía ≤1,5 equivalentis metabólicus, nuna postura sentá, arrecostá o echá.
+Qualquiera biembru dela familia que puea barajal o enfruíl enas ocasionis d’atividá física i el partecipamientu de críus, crías, moçus i moças n’esti ambienti.
+Qualquiel biembru dela familia que puea barajal o enfruíl enas ocasionis d’atividá física i el partecipamientu de críus, crías, moçus i moças n’esti ambienti.
+Qualquiera política, custión d’avíu o custionis d’estuyantis nel ambienti escolal que puea enfruíl enas ocasionis d’atividá física i ena partecipación de críus, crías, moçus i moças n’esti ambienti.
+Qualquiel política, custión d’avíu o custionis d’estuyantis nel ambienti escolal que puea enfruíl enas ocasionis d’atividá física i ena partecipación de críus, crías, moçus i moças n’esti ambienti.
+Qualquiera serviciu de goviernu con mayorança pa enfruíl enas ocasionis d’atividá física o el partecipamientu de críus, crías, moçus i moças por mé de políticas, leis o regramentus.
+Qualquiel serviciu de goviernu con mayorança pa enfruíl enas ocasionis d’atividá física o el partecipamientu de críus, crías, moçus i moças por mé de políticas, leyis o regramentus.
