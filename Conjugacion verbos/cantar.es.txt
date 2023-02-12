@@ -2,9 +2,11 @@ Infinitivo simple
 cantar
 Infinitivo compuesto
 haber cantado
+haber cantado
 Gerundio simple
 cantando
 Gerundio compuesto
+habiendo cantado
 habiendo cantado
 Participio
 cantado
@@ -19,9 +21,12 @@ Pretérito perfecto simple
 canté
 canté
 cantaste
+cantaste
 cantó
 cantamos
 cantasteis
+cantasteis
+cantaron
 cantaron
 Pretérito imperfecto
 cantaba
@@ -29,27 +34,46 @@ cantabas
 cantaba
 cantábamos
 cantabais
+cantabais
 cantaban
 Pasado continuo
 he cantado
 has cantado
 ha cantado
+ha cantado
 hemos cantado
+habéis cantado
 habéis cantado
 han cantado
 Pretérito perfecto compuesto
 he cantado
+he cantado
+he cantado
 has cantado
 ha cantado
+ha cantado
+hemos cantado
+hemos cantado
 hemos cantado
 habéis cantado
+habéis cantado
+habéis cantado
+habéis cantado
+habéis cantado
+han cantado
 han cantado
 Pretérito pluscuamperfecto
 había cantado
+había cantado
+habías cantado
 habías cantado
 había cantado
+había cantado
+habíamos cantado
 habíamos cantado
 habíais cantado
+habíais cantado
+habían cantado
 habían cantado
 Futuro simple
 cantaré
@@ -60,6 +84,8 @@ cantaremos
 cantaréis
 cantarán
 Futuro perfecto
+habré cantado
+habré cantado
 habré cantado
 habré cantado
 habrás cantado
@@ -141,32 +167,45 @@ cantaren
 Pretérito pluscuamperfecto de subjuntivo
 hubiera cantado
 hubiera cantado
+hubiera cantado
+hubiese cantado
 hubiese cantado
 hubiese cantado
 hubieras cantado
 hubieras cantado
+hubieras cantado
+hubieses cantado
 hubieses cantado
 hubieses cantado
 hubiera cantado
 hubiera cantado
-hubieses cantado
-hubieses cantado
+hubiera cantado
+hubiese cantado
+hubiese cantado
+hubiese cantado
+hubiéramos cantado
 hubiéramos cantado
 hubiéramos cantado
 hubiésemos cantado
 hubiésemos cantado
+hubiésemos cantado
+hubierais cantado
 hubierais cantado
 hubierais cantado
 hubieseis cantado
 hubieseis cantado
+hubieseis cantado
 hubieran cantado
 hubieran cantado
+hubieran cantado
+hubiesen cantado
 hubiesen cantado
 hubiesen cantado
 Imperativo afirmado
 -
 canta
 cante
+cantemos
 cantemos
 cantad
 canten
