@@ -1,8 +1,218 @@
-Hablar
-Presente simple de indicativo
-Hablo
-Hablas
-Habla
-Hablamos
-Habláis
-Hablan
+Infinitivo simple
+hablar
+Infinitivo compuesto
+haber hablado
+haber hablado
+Gerundio simple
+hablando
+Gerundio compuesto
+habiendo hablado
+habiendo hablado
+Participio
+hablado
+Presente simple
+hablo
+hablas
+habla
+hablamos
+habláis
+hablan
+Pretérito perfecto simple
+hablé
+hablé
+hablaste
+hablaste
+habló
+hablamos
+hablasteis
+hablasteis
+hablaron
+hablaron
+Pretérito imperfecto
+hablaba
+hablabas
+hablaba
+hablábamos
+hablabais
+hablabais
+hablaban
+Pasado continuo
+he hablado
+has hablado
+ha hablado
+ha hablado
+hemos hablado
+habéis hablado
+habéis hablado
+han hablado
+Pretérito perfecto compuesto
+he hablado
+he hablado
+he hablado
+has hablado
+ha hablado
+ha hablado
+hemos hablado
+hemos hablado
+hemos hablado
+habéis hablado
+habéis hablado
+habéis hablado
+habéis hablado
+habéis hablado
+han hablado
+han hablado
+Pretérito pluscuamperfecto
+había hablado
+había hablado
+habías hablado
+habías hablado
+había hablado
+había hablado
+habíamos hablado
+habíamos hablado
+habíais hablado
+habíais hablado
+habían hablado
+habían hablado
+Futuro simple
+hablaré
+hablaré
+hablarás
+hablará
+hablaremos
+hablaréis
+hablarán
+Futuro perfecto
+habré hablado
+habré hablado
+habré hablado
+habré hablado
+habrás hablado
+habrás hablado
+habrá hablado
+habrá hablado
+habremos hablado
+habremos hablado
+habréis hablado
+habréis hablado
+habrán hablado
+habrán hablado
+Condicional simple
+hablaría
+hablaría
+hablarías
+hablarías
+hablaría
+hablaría
+hablaríamos
+hablaríamos
+hablaríais
+hablaríais
+hablarían
+hablarían
+Condicional compuesto
+habría hablado
+habrías hablado
+habría hablado
+habríamos hablado
+habríais hablado
+habrían hablado
+Presente simple de subjuntivo
+hable
+hables
+hable
+hablemos
+habléis
+hablen
+Pretérito perfecto de subjuntivo
+haya hablado
+hayas hablado
+haya hablado
+hayamos hablado
+hayáis hablado
+hayan hablado
+Pretérito imperfecto de subjuntivo
+hablara
+hablara
+hablase
+hablase
+hablaras
+hablaras
+hablases
+hablases
+hablara
+hablara
+hablase
+hablase
+habláramos
+habláramos
+hablásemos
+hablásemos
+hablárais
+hablárais
+hablaseis
+hablaseis
+hablaran
+hablaran
+hablasen
+hablasen
+Futuro de subjuntivo
+hablare
+hablares
+hablare
+habláremos
+hablareis
+hablaren
+Pretérito pluscuamperfecto de subjuntivo
+hubiera hablado
+hubiera hablado
+hubiera hablado
+hubiese hablado
+hubiese hablado
+hubiese hablado
+hubieras hablado
+hubieras hablado
+hubieras hablado
+hubieses hablado
+hubieses hablado
+hubieses hablado
+hubiera hablado
+hubiera hablado
+hubiera hablado
+hubiese hablado
+hubiese hablado
+hubiese hablado
+hubiéramos hablado
+hubiéramos hablado
+hubiéramos hablado
+hubiésemos hablado
+hubiésemos hablado
+hubiésemos hablado
+hubierais hablado
+hubierais hablado
+hubierais hablado
+hubieseis hablado
+hubieseis hablado
+hubieseis hablado
+hubieran hablado
+hubieran hablado
+hubieran hablado
+hubiesen hablado
+hubiesen hablado
+hubiesen hablado
+Imperativo afirmado
+-
+habla
+hable
+hablemos
+hablemos
+hablad
+hablen
+Imperativo negado
+-
+no hables
+no hable
+no hablemos
+no habléis
+no hablen

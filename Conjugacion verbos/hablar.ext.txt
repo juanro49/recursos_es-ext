@@ -1,8 +1,219 @@
-Palral
-Presente simple de indicativo
-Palru
-Palras
-Palra
-Palramus
-Palrais
-Palran
+Enfinitivu simpli
+habral
+Enfinitivu compuestu
+avel habrau
+vel habrau
+Gerundiu simpli
+habrandu
+Gerundiu compuestu
+aviendu habrau
+viendu habrau
+Participiu
+habrau
+Presenti simpli
+habru
+habras
+habra
+habramus
+habrais
+habran
+Passau simpli
+habré
+habrei
+habrasti
+habresti
+habró
+habrémus
+habraistis
+habrestis
+habrarun
+habrorin
+Passau emperfetu
+habrava
+habravas
+habrava
+habravamus
+habravais
+habravis
+habravan
+Passau continu
+tengu habrau
+tienis habrau
+tien habrau
+tieni habrau
+tenemus habrau
+teneis habrau
+tenís habrau
+tienin habrau
+Passau perfetu
+ei habrau
+é habrau
+ai habrau
+ás habrau
+á habrau
+ai habrau
+avemus habrau
+vemus habrau
+amus habrau
+aveis habrau
+avís habrau
+veis habrau
+eis habrau
+ais habrau
+án habrau
+ain habrau
+Passau más-que-perfetu
+avía habrau
+vía habrau
+avías habrau
+vías habrau
+avía habrau
+vía habrau
+aviamus habrau
+viamus habrau
+aviais habrau
+viais habrau
+avían habrau
+vían habrau
+Hoturu simpli
+habraré
+habrarei
+habrarás
+habrará
+habraremus
+habrareis
+habrarán
+Hoturu perfetu
+averé habrau
+averei habrau
+abré habrau
+abrei habrau
+averás habrau
+abrá habrau
+averá habrau
+abrá habrau
+averemus habrau
+abremus habrau
+avereis habrau
+abreis habrau
+averán habrau
+abrán habrau
+Podencial simpli
+habraría
+habraríe
+habrarías
+habraríes
+habraría
+habraríe
+habrariamus
+habrariemus
+habrariais
+habrarieis
+habrarían
+habraríen
+Podencial compuestu
+huera habrau
+hueras habrau
+huera habrau
+huéramus habrau
+huérais habrau
+hueran habrau
+Presenti simpli de sojuntivu
+habri
+habris
+habri
+habremus
+habreis
+habrin
+Passau perfetu de sojuntivu
+aiga habrau
+aigas habrau
+aiga habrau
+aigamus habrau
+aigais habrau
+aigan habrau
+Passau imperfetu de sojuntivu
+habrara
+habrassi
+habrara
+habrassi
+habraras
+habrassis
+habraras
+habrassis
+habrara
+habrassi
+habrara
+habrassi
+habráramus
+habrássimus
+habráramus
+habrássimus
+habrárais
+habraissis
+habrárais
+habraissis
+habraran
+habrassin
+habraran
+habrassin
+Hoturu de sojuntivu
+habrari
+habraris
+habrari
+habrárimus
+habraris
+habrarin
+Passau más-que-perfetu de sojuntivu
+uviera habrau
+aviera habrau
+viera habrau
+uviera habrau
+aviera habrau
+viera habrau
+uvieras habrau
+avieras habrau
+vieras habrau
+uvieras habrau
+avieras habrau
+vieras habrau
+uviera habrau
+aviera habrau
+viera habrau
+uviera habrau
+aviera habrau
+viera habrau
+uviéramus habrau
+aviéramus habrau
+viéramus habrau
+uviéramus habrau
+aviéramus habrau
+viéramus habrau
+uvierais habrau
+avierais habrau
+vierais habrau
+uvierais habrau
+avierais habrau
+vierais habrau
+uvieran habrau
+avieran habrau
+vieran habrau
+uvieran habrau
+avieran habrau
+vieran habrau
+Imperativu afirmau
+-
+habra
+habri
+amus a habral
+dimus a habral
+habrai
+habrin
+Imperativu negau
+-
+no habris
+no habri
+no habremus
+no habreis
+no habrin
+
