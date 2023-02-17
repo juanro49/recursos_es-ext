@@ -3,9 +3,9 @@ cantal
 Enfinitivu compuestu
 avel cantau
 vel cantau
-Gerundio simple
+Gerundiu simpli
 cantandu
-Gerundiu compuesto
+Gerundiu compuestu
 aviendu cantau
 viendu cantau
 Participiu
@@ -26,7 +26,7 @@ cantó
 cantémus
 cantaistis
 cantestis
-cantaron
+cantarun
 cantorin
 Passau emperfetu
 cantava
@@ -44,7 +44,7 @@ tieni cantau
 tenemus cantau
 teneis cantau
 tenís cantau
-tienin cantado
+tienin cantau
 Passau perfetu
 ei cantau
 é cantau
@@ -105,8 +105,8 @@ cantarías
 cantaríes
 cantaría
 cantaríe
-cantariamos
-cantariemos
+cantariamus
+cantariemus
 cantariais
 cantarieis
 cantarían
@@ -155,7 +155,7 @@ cantárais
 cantaissis
 cantaran
 cantassin
-cantasen
+cantaran
 cantassin
 Hoturu de sojuntivu
 cantari
