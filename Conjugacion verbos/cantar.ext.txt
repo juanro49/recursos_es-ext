@@ -1,16 +1,218 @@
+Enfinitivu simpli
 cantal
-Pretéritu perfetu simpli
+Enfinitivu compuestu
+avel cantau
+vel cantau
+Gerundiu simpli
+cantandu
+Gerundiu compuestu
+aviendu cantau
+viendu cantau
+Participiu
+cantau
+Presenti simpli
+cantu
+cantas
+canta
+cantamus
+cantais
+cantan
+Passau simpli
 canté
 cantei
 cantasti
+cantesti
 cantó
-cantamus
+cantémus
 cantaistis
+cantestis
 cantarun
-Pretérito imperfetu
+cantorin
+Passau emperfetu
 cantava
 cantavas
 cantava
 cantavamus
 cantavais
+cantavis
 cantavan
+Passau continu
+tengu cantau
+tienis cantau
+tien cantau
+tieni cantau
+tenemus cantau
+teneis cantau
+tenís cantau
+tienin cantau
+Passau perfetu
+ei cantau
+é cantau
+ai cantau
+ás cantau
+á cantau
+ai cantau
+avemus cantau
+vemus cantau
+amus cantau
+aveis cantau
+avís cantau
+veis cantau
+eis cantau
+ais cantau
+án cantau
+ain cantau
+Passau más-que-perfetu
+avía cantau
+vía cantau
+avías cantau
+vías cantau
+avía cantau
+vía cantau
+aviamus cantau
+viamus cantau
+aviais cantau
+viais cantau
+avían cantau
+vían cantau
+Hoturu simpli
+cantaré
+cantarei
+cantarás
+cantará
+cantaremus
+cantareis
+cantarán
+Hoturu perfetu
+averé cantau
+averei cantau
+abré cantau
+abrei cantau
+averás cantau
+abrá cantau
+averá cantau
+abrá cantau
+averemus cantau
+abremus cantau
+avereis cantau
+abreis cantau
+averán cantau
+abrán cantau
+Podencial simpli
+cantaría
+cantaríe
+cantarías
+cantaríes
+cantaría
+cantaríe
+cantariamus
+cantariemus
+cantariais
+cantarieis
+cantarían
+cantaríen
+Podencial compuestu
+huera cantau
+hueras cantau
+huera cantau
+huéramus cantau
+huérais cantau
+hueran cantau
+Presenti simpli de sojuntivu
+canti
+cantis
+canti
+cantemus
+canteis
+cantin
+Passau perfetu de sojuntivu
+aiga cantau
+aigas cantau
+aiga cantau
+aigamus cantau
+aigais cantau
+aigan cantau
+Passau imperfetu de sojuntivu
+cantara
+cantassi
+cantara
+cantassi
+cantaras
+cantassis
+cantaras
+cantassis
+cantara
+cantassi
+cantara
+cantassi
+cantáramus
+cantássimus
+cantáramus
+cantássimus
+cantárais
+cantaissis
+cantárais
+cantaissis
+cantaran
+cantassin
+cantaran
+cantassin
+Hoturu de sojuntivu
+cantari
+cantaris
+cantari
+cantárimus
+cantaris
+cantarin
+Passau más-que-perfetu de sojuntivu
+uviera cantau
+aviera cantau
+viera cantau
+uviera cantau
+aviera cantau
+viera cantau
+uvieras cantau
+avieras cantau
+vieras cantau
+uvieras cantau
+avieras cantau
+vieras cantau
+uviera cantau
+aviera cantau
+viera cantau
+uviera cantau
+aviera cantau
+viera cantau
+uviéramus cantau
+aviéramus cantau
+viéramus cantau
+uviéramus cantau
+aviéramus cantau
+viéramus cantau
+uvierais cantau
+avierais cantau
+vierais cantau
+uvierais cantau
+avierais cantau
+vierais cantau
+uvieran cantau
+avieran cantau
+vieran cantau
+uvieran cantau
+avieran cantau
+vieran cantau
+Imperativu afirmau
+-
+canta
+canti
+amus a cantal
+dimus a cantal
+cantai
+cantin
+Imperativu negau
+-
+no cantis
+no canti
+no cantemus
+no canteis
+no cantin

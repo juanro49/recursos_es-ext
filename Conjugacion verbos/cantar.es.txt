@@ -1,16 +1,218 @@
+Infinitivo simple
 cantar
+Infinitivo compuesto
+haber cantado
+haber cantado
+Gerundio simple
+cantando
+Gerundio compuesto
+habiendo cantado
+habiendo cantado
+Participio
+cantado
+Presente simple
+canto
+cantas
+canta
+cantamos
+cantáis
+cantan
 Pretérito perfecto simple
 canté
 canté
 cantaste
+cantaste
 cantó
 cantamos
 cantasteis
+cantasteis
+cantaron
 cantaron
 Pretérito imperfecto
 cantaba
 cantabas
 cantaba
 cantábamos
-cantábais
+cantabais
+cantabais
 cantaban
+Pasado continuo
+he cantado
+has cantado
+ha cantado
+ha cantado
+hemos cantado
+habéis cantado
+habéis cantado
+han cantado
+Pretérito perfecto compuesto
+he cantado
+he cantado
+he cantado
+has cantado
+ha cantado
+ha cantado
+hemos cantado
+hemos cantado
+hemos cantado
+habéis cantado
+habéis cantado
+habéis cantado
+habéis cantado
+habéis cantado
+han cantado
+han cantado
+Pretérito pluscuamperfecto
+había cantado
+había cantado
+habías cantado
+habías cantado
+había cantado
+había cantado
+habíamos cantado
+habíamos cantado
+habíais cantado
+habíais cantado
+habían cantado
+habían cantado
+Futuro simple
+cantaré
+cantaré
+cantarás
+cantará
+cantaremos
+cantaréis
+cantarán
+Futuro perfecto
+habré cantado
+habré cantado
+habré cantado
+habré cantado
+habrás cantado
+habrás cantado
+habrá cantado
+habrá cantado
+habremos cantado
+habremos cantado
+habréis cantado
+habréis cantado
+habrán cantado
+habrán cantado
+Condicional simple
+cantaría
+cantaría
+cantarías
+cantarías
+cantaría
+cantaría
+cantaríamos
+cantaríamos
+cantaríais
+cantaríais
+cantarían
+cantarían
+Condicional compuesto
+habría cantado
+habrías cantado
+habría cantado
+habríamos cantado
+habríais cantado
+habrían cantado
+Presente simple de subjuntivo
+cante
+cantes
+cante
+cantemos
+cantéis
+canten
+Pretérito perfecto de subjuntivo
+haya cantado
+hayas cantado
+haya cantado
+hayamos cantado
+hayáis cantado
+hayan cantado
+Pretérito imperfecto de subjuntivo
+cantara
+cantara
+cantase
+cantase
+cantaras
+cantaras
+cantases
+cantases
+cantara
+cantara
+cantase
+cantase
+cantáramos
+cantáramos
+cantásemos
+cantásemos
+cantárais
+cantárais
+cantaseis
+cantaseis
+cantaran
+cantaran
+cantasen
+cantasen
+Futuro de subjuntivo
+cantare
+cantares
+cantare
+cantáremos
+cantareis
+cantaren
+Pretérito pluscuamperfecto de subjuntivo
+hubiera cantado
+hubiera cantado
+hubiera cantado
+hubiese cantado
+hubiese cantado
+hubiese cantado
+hubieras cantado
+hubieras cantado
+hubieras cantado
+hubieses cantado
+hubieses cantado
+hubieses cantado
+hubiera cantado
+hubiera cantado
+hubiera cantado
+hubiese cantado
+hubiese cantado
+hubiese cantado
+hubiéramos cantado
+hubiéramos cantado
+hubiéramos cantado
+hubiésemos cantado
+hubiésemos cantado
+hubiésemos cantado
+hubierais cantado
+hubierais cantado
+hubierais cantado
+hubieseis cantado
+hubieseis cantado
+hubieseis cantado
+hubieran cantado
+hubieran cantado
+hubieran cantado
+hubiesen cantado
+hubiesen cantado
+hubiesen cantado
+Imperativo afirmado
+-
+canta
+cante
+cantemos
+cantemos
+cantad
+canten
+Imperativo negado
+-
+no cantes
+no cante
+no cantemos
+no cantéis
+no canten
