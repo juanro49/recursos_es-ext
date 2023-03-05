@@ -12,14 +12,32 @@ Tema del'apricación
 Gastal aparatu esternu
 Está gastandu un aparatu esternu pa sonal las canalis
 Está gastandu l'aparatu internu pa sonal las canalis
+Está usandu un aparatu esternu pa sonal las canalis
+Está usandu l'aparatu internu pa sonal las canalis
+Está a gastal un aparatu esternu pa sonal las canalis
+Está a gastal l'aparatu internu pa sonal las canalis
+Está a usal un aparatu esternu pa sonal las canalis
+Está a usal l'aparatu internu pa sonal las canalis
 No añidil
-Añidil informacionis rezientis
-No tien feeds añidíus. Quiel añidil el feed d'informacionis rezientis?
+No añedil
+Añidil inhormacionis rezientis
+Añedil inhormacionis rezientis
+No tien feeds añidíus
+No tieni feeds añidíus
+No tien feeds añedíus
+No tieni feeds añedíus
+Quiel añidil el feed d'inhormacionis rezientis?
+Quieri añidil el feed d'inhormacionis rezientis?
+Quiel añedil el feed d'inhormacionis rezientis?
+Quieri añedil el feed d'inhormacionis rezientis?
 Dámbulus dos campus son obrigaus
+Dambos los dos campus son obrigaus
+Dambus a dos campus son obrigaus
 Huenti añidía conformi
+Huenti añedía conformi
 Huenti muá conformi
 Nombri dela huenti d'enteracionis
-Entra el nombri i la seña del Feed RSS
+Entra'l nombri i la seña del Feed RSS
 Atillus presenterus
 Mual huenti
 Qué quieri hazel?
@@ -35,9 +53,19 @@ Marcal si Google News no está disponibli nel su país
 Idioma assentá
 Vel en Github
 Uguañu es corrienti de poné'l provechu económicu i las muacionis tecnológicas porcima de tolas cosas, es lo que llamamus la idiología del pogressu.
+Ogañu es corrienti de poné'l provechu económicu i las muacionis tecnológicas porcima de tolas cosas, es lo que llamamus la idiología del pogressu.
+Uguañu es corrienti de poné'l provechu económicu i las muacionis tecnológicas por cima de tolas cosas, es lo que llamamus la idiología del pogressu.
+Ogañu es corrienti de poné'l provechu económicu i las muacionis tecnológicas por cima de tolas cosas, es lo que llamamus la idiología del pogressu.
 Esta postura coltural, basi del pensamientu uropeu delos siegrus caberus, tien síu una delas ideas huertis dela epoca en que vivimus.
-Dendi la Conquista d'América i la colonización del mundu -i conas revolucionis liberalis, facistas i socialistas-, la Modernura s'assienta d'edá crássica del muestru tiempu.
-Por tiempu bastanti, el conceutu'l pogressu tien guiau la creceera delas cidais i metrópolis por tol mundu, la esparramancia delos valoris liberalis, l'apartu dela naturaleza, la sobreprodución endustrial, la perda delas colturas tradicionalis i una conomía secostrá delos Estaus i sostribá ena moneda.
+Esta postura coltural, basi del pensamientu uropeu delos sigrus caberus, tien síu una delas ideas huertis dela epoca en que vivimus.
+Esta postura coltural, basi del pensamientu uropeu delos siegrus caberus, tieni síu una delas ideas huertis dela epoca en que vivimus.
+Esta postura coltural, basi del pensamientu uropeu delos sigrus caberus, tieni síu una delas ideas huertis dela epoca en que vivimus.
+Dendi la Conquista d'América i la colonización del mundu —i conas revolucionis liberalis, facistas i socialistas—, la Modernura s'assienta d'edá crássica del muestru tiempu.
+Dendi la Conquista d'América i la colonización del mundu —i colas revolucionis liberalis, facistas i socialistas—, la Modernura s'assienta d'edá crássica del muestru tiempu.
+Por tiempu bastanti, el conceutu'l pogressu tien guiau la creceera delas cidais i metrópolis por tol mundu, la esparramancia delos valoris liberalis, l'apartu dela naturaleza, la sobreprodución endustrial, la perda delas colturas tradicionalis i una economía secostrá delos Estaus i sostribá ena moneda.
+Por tiempu bastanti, el concetu'l pogressu tien guiau la creceera delas cidais i metrópolis por tol mundu, la esparramancia delos valoris liberalis, l'apartu dela naturaleza, la sobreprodución endustrial, la perda delas colturas tradicionalis i una economía secostrá delos Estaus i sostribá ena moneda.
+Por tiempu bastanti, el conceutu'l pogressu tieni guiau la creceera delas cidais i metrópolis por tol mundu, la esparramancia delos valoris liberalis, l'apartu dela naturaleza, la sobreprodución endustrial, la perda delas colturas tradicionalis i una economía secostrá delos Estaus i sostribá ena moneda.
+Por tiempu bastanti, el concetu'l pogressu tieni guiau la creceera delas cidais i metrópolis por tol mundu, la esparramancia delos valoris liberalis, l'apartu dela naturaleza, la sobreprodución endustrial, la perda delas colturas tradicionalis i una economía secostrá delos Estaus i sostribá ena moneda.
 Añus i añus d'esti sistema mos tienin dau a muchus más añus de vida, quartus de bañu i papel del culu... peru a trocu dellu tenemus perdía la cenzillés, no sabemus lavoral comu la genti de patrás ni avalel-mus al monti, tenemus apreparaus desequilibrus gravis ena naturaleza, tenemus condenaus millonis ala probitú i la hambri, i la huerça delas almas vivin barajás dunus pocus de desalmaus.
 L'amol al dineru es tan grandi que hondeó con tolo más.
 La Libertá a guiá'l puebru, de Eugène Delacroix.
