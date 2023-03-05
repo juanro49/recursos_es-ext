@@ -12,10 +12,28 @@ Tema de la aplicación
 Utilizar reproductor externo
 Está usando un reproductor externo para reproducir los canales
 Está usando el reproductor interno para reproducir los canales
+Está usando un reproductor externo para reproducir los canales
+Está usando el reproductor interno para reproducir los canales
+Está usando un reproductor externo para reproducir los canales
+Está usando el reproductor interno para reproducir los canales
+Está usando un reproductor externo para reproducir los canales
+Está usando el reproductor interno para reproducir los canales
+No añadir
 No añadir
 Añadir noticias recientes
-No tiene feeds añadidos, ¿Desea añadir el feed de noticias recientes?
+Añadir noticias recientes
+No tiene feeds añadidos
+No tiene feeds añadidos
+No tiene feeds añadidos
+No tiene feeds añadidos
+¿Desea añadir el feed de noticias recientes?
+¿Desea añadir el feed de noticias recientes?
+¿Desea añadir el feed de noticias recientes?
+¿Desea añadir el feed de noticias recientes?
 Ambos campos son obligatorios
+Ambos campos son obligatorios
+Ambos campos son obligatorios
+Fuente añadida correctamente
 Fuente añadida correctamente
 Fuente modificada correctamente
 Nombre de la fuente de noticias
@@ -35,8 +53,18 @@ Marcar si Google News no está disponible en su país
 Idioma establecido
 Ver en Github
 Hoy en día es habitual poner el beneficio económico y los cambios tecnológico por encima de todo, es lo que llamamos la ideología del pogreso.
+Hoy en día es habitual poner el beneficio económico y los cambios tecnológico por encima de todo, es lo que llamamos la ideología del pogreso.
+Hoy en día es habitual poner el beneficio económico y los cambios tecnológico por encima de todo, es lo que llamamos la ideología del pogreso.
+Hoy en día es habitual poner el beneficio económico y los cambios tecnológico por encima de todo, es lo que llamamos la ideología del pogreso.
+Esta postura cultural, base del pensamiento europeo de los últimos siglos, ha sido una de las ideas fuertes de la época en la que vivimos.
+Esta postura cultural, base del pensamiento europeo de los últimos siglos, ha sido una de las ideas fuertes de la época en la que vivimos.
+Esta postura cultural, base del pensamiento europeo de los últimos siglos, ha sido una de las ideas fuertes de la época en la que vivimos.
 Esta postura cultural, base del pensamiento europeo de los últimos siglos, ha sido una de las ideas fuertes de la época en la que vivimos.
 Desde la Conquista de América y la colonización del mundo —y con las revoluciones liberales, facistas y socialistas—, la Modernidad se establece como la edad clásica de nuestro tiempo.
+Desde la Conquista de América y la colonización del mundo —y con las revoluciones liberales, facistas y socialistas—, la Modernidad se establece como la edad clásica de nuestro tiempo.
+Durante mucho tiempo, el concepto del pogreso ha guiado el crecimiento de las ciudades y de las metrópolis en todo el mundo, la expansión de los valores liberales, el distanciamiento de la naturaleza, la sobreproducción industrial, la pérdida de las culturas tradicionales y una economía secuestrada por los Estados y apoyada en la moneda.
+Durante mucho tiempo, el concepto del pogreso ha guiado el crecimiento de las ciudades y de las metrópolis en todo el mundo, la expansión de los valores liberales, el distanciamiento de la naturaleza, la sobreproducción industrial, la pérdida de las culturas tradicionales y una economía secuestrada por los Estados y apoyada en la moneda.
+Durante mucho tiempo, el concepto del pogreso ha guiado el crecimiento de las ciudades y de las metrópolis en todo el mundo, la expansión de los valores liberales, el distanciamiento de la naturaleza, la sobreproducción industrial, la pérdida de las culturas tradicionales y una economía secuestrada por los Estados y apoyada en la moneda.
 Durante mucho tiempo, el concepto del pogreso ha guiado el crecimiento de las ciudades y de las metrópolis en todo el mundo, la expansión de los valores liberales, el distanciamiento de la naturaleza, la sobreproducción industrial, la pérdida de las culturas tradicionales y una economía secuestrada por los Estados y apoyada en la moneda.
 Tras muchos años, este sistema nos ha dado a muchos más años de vida, cuartos de baño y papel higiénico... pero a cambio de esto hemos perdido la sencillez, no sabemos trabajar como la gente de antes ni subsistir en el monte, hemos causado desequilibrios graves en la naturaleza, hemos condenado a millones a la pobreza y el hambre, y la mayoría de las almas viven controladas por unos cuantos desalmados.
 El amor por el dinero es tan grande que ha arrasado con todo lo demás.
