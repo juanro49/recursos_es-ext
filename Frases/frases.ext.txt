@@ -6,7 +6,7 @@ A tentu de
 Empossibli el apapal daus.
 Previ el su enganchi.
 FeedTV es una apricación que te premiti de leyel enteracionis de qualquiera mediu por mé de RSS amás de poel vel canalis púbricas de TV pandiquiera.
-FeedTV es possibli por mé de RSS Parser,M3U Parser, i al reponimientu de canalis de TDTChannels i reponimientu de arradius libris de enjey.
+FeedTV es possibli por mé de RSS Parser,M3U Parser, i al reponimientu de canalis de TDTChannels i reponimientu d'arradius libris d'enjey.
 Entangá de Juanro49 baxu licencia Apache 2.0
 Tema del'apricación
 Gastal aparatu esternu
@@ -68,8 +68,8 @@ Por tiempu bastanti, el conceutu'l pogressu tieni guiau la creceera delas cidais
 Por tiempu bastanti, el concetu'l pogressu tieni guiau la creceera delas cidais i metrópolis por tol mundu, la esparramancia delos valoris liberalis, l'apartu dela naturaleza, la sobreprodución endustrial, la perda delas colturas tradicionalis i una economía secostrá delos Estaus i sostribá ena moneda.
 Añus i añus d'esti sistema mos tienin dau a muchus más añus de vida, quartus de bañu i papel del culu... peru a trocu dellu tenemus perdía la cenzillés, no sabemus lavoral comu la genti de patrás ni avalel-mus al monti, tenemus apreparaus desequilibrus gravis ena naturaleza, tenemus condenaus millonis ala probitú i la hambri, i la huerça delas almas vivin barajás dunus pocus de desalmaus.
 L'amol al dineru es tan grandi que hondeó con tolo más.
-La Libertá a guiá'l puebru, de Eugène Delacroix.
-La Libertá guiandu'l puebru, de Eugène Delacroix.
+La Libertá a guiá'l puebru, d'Eugène Delacroix.
+La Libertá guiandu'l puebru, d'Eugène Delacroix.
 La dama dela Repúbrica, diosa del Estau liberal francés, llama alas gentis ala guerra.
 Dendi l'estremeñeríu mordajustu, liberal o social-demócrata, se palra dela emportancia de tenel güenas comunicacionis i sel escapás de competir con economías más huertis... no semus intolerantis de tó cona postura esta porque paici la más lógica, peru... acasu mos tenemus pensau seriamenti lo que ganamus con ellu?
 Amus a habral cona verdá: Estremaúra es la güerta d'Uropa i el sinu palas vacancias delas capas meyas delas cidais españolas i —de ca ves más— uropeas.
@@ -86,6 +86,9 @@ Pontoci... paqué tantu tren?
 Paqué tantu turismu quandu'l puebru no tien tierras ni Estremaúra tien un tecíu produtivu espigau?
 En momentus de precisa comu esti l'arreparamus.
 El foturu imediatu paici que tira más pal acotamientu i los fechis de frontera que no pal'abrición delas sociedais o la espigaera dun solu polu giopolíticu.
+El foturu imediatu paés que tira más pal acotamientu i los fechis de frontera que no pal'abrición delas sociedais o la espigaera dun solu polu giopolíticu.
+El hoturu imediatu paici que tira más pal acotamientu i los fechis de frontera que no pal'abrición delas sociedais o la espigaera dun solu polu giopolíticu.
+El hoturu imediatu paés que tira más pal acotamientu i los fechis de frontera que no pal'abrición delas sociedais o la espigaera dun solu polu giopolíticu.
 Crisi ambiental: ríu Guadiana tupíu calamoti, una pranta tropical qu'adorna las peceras delas casas.
 L'andanciu del corona-viru es la calma enantis dela tormenta.
 Las enteracionis que mos dierun a tentu dela infeción paici que son incompretas, en piyendu recada muchus científicus por no sabel-si entavía ni la huenti ni l'antigüedá dela malura.
@@ -97,9 +100,9 @@ La globalización ya no da pa más, i la economía global vá a dal passu a merc
 Los luchis pola soberanía i las riñas de poel entri goviernus mundialis, estatalis i regionalis sedrán corrientis.
 Devemus de tenel calma, sí, peru tamién devemus de comprendel que las cosas ya no vain a sel comu eran.
 Tenemus de lucheal polo muestru.
-El Broncu es unu d'estus puebrus que están assentaus nun sitiu de passu i, comu es de passu, naidi lo echa en cuenta.
+El Broncu es unu d'estus puebrus qu'están assentaus nun sitiu de passu i, comu es de passu, naidi lo echa en cuenta.
 Diendu pa Villanueva o pa Mueda, l'atraviessas ligeru, comu si aquellu hueran quatru casinas.
-La verdá es que esti puebru está nun cruzi de caminus (pa Santa Crus, pa Cerezu, pa Palomberu, pa Santivañis, pala Higal, pa Villanueva...), arroeau de dos regatus (El Riscu, Moñina) i la rivera del Broncu, que le da nombri.
+La verdá es qu'esti puebru está nun cruzi de caminus (pa Santa Crus, pa Cerezu, pa Palomberu, pa Santivañis, pala Higal, pa Villanueva...), arroeau de dos regatus (El Riscu, Moñina) i la rivera del Broncu, que le da nombri.
 Tó essu no s'aprecia pal que vai pola carretera, peru antañu, quandu no queavan más meyus que dil a peoncia alos sitius, esti puebrinu sí salía enos mapas.
 De hechu, hue monicipiu, ata que dispués passó pa Santa Crus comu una alquería.
 Letreru formi se vien de Villanueva.
@@ -109,9 +112,9 @@ Angunas casinas nuevas se vén obrandu, quiciá delos ijus i nietus delos bronqu
 El lugal del Broncu ampié dela rivera omónima palos añus 40-50, ena retrataúra del Vuelu Almericanu.
 El caseríu d'agora está retificau i pocas casas quean cona hechura delas casas del siegru XVIII o XIX, conas toças i las ombreras de granu, los bastioris delas ventanas lo mesmu i las poyatas delas ventanas.
 Las callis siguin el destraci antiguu de ponienti a salienti, abocás al norti, formi el recuéncanu dela rivera.
-Quasi que no se aprecian costrucionis nuevas comu otrus puebrus que s'enancharun... quiciá porque esti puebrinu no cai cerca de capital nenguna i porque la genti hue ahuyendu con el ajorraeru delos añus.
+Quasi que no se aprecian costrucionis nuevas comu otrus puebrus que s'enancharun... quiciá porque esti puebrinu no cai cerca de capital nenguna i porque la genti hue ahuyendu col ajorraeru delos añus.
 Los nombris delas callis, desquitando "Cervantes" y "Colón", que son los únicus antropónimus, los demás mientan del sitiu, o sea-si, conselvan los nombris antiguus acastillanaus: Real, Meyu, Sol, Fragua, Praçuela...
-Esti es velaquí el reportagi en retratus que amus hechu a esti puebru delas tierras dela Graná antiga, que ogañu malaspenas cogi los 43 abitantis.
+Esti es velaquí el reportagi en retratus qu'amus hechu a esti puebru delas tierras dela Graná antiga, qu'ogañu malaspenas cogi los 43 abitantis.
 Cara enxavelgá ena Praça.
 Gatu nuna paré dela Praça.
 Bancus dela Praça entre plataneras i periquitus.
@@ -133,26 +136,26 @@ No sirvin las revirivueltas, ni los rehurtus, ni la velocidá pa escambullil-ti:
 Si eris un umanu i no estás nel mundu dela caça sufrirás tolos dañus colateralis possiblis: no podrás salir al campu sin sentil las balas volandu i los cañonazus rebumbantis enas barrancas delas riveras, ni passal a parti nenguna porque ondi no ai animal esprotau dela ganaería es cotu de caça.
 El caminu del andarín, la verea i el regatu sedrán de promu contaminanti siguiendu la carrehilera de cartuchus i las latas de cerveza andiquiera.
 N'essus mesmus caminus vedrás la gota de sangri de quien le vaziarun la vida, vedrás el perru inuti pal caçaor descordelau, desengañau i cambolanti procurandu pola gandalla o colgandu duna enzina.
-T'encontrarás el javalín aginau a atravessal-si pola carretera ahuyendu duna montería del día antis i el gansu escogollau ampié duna charca por avançal-si un galgu en mala ora una tardi de estrenamientu.
+T'encontrarás el javalín aginau a atravessal-si pola carretera ahuyendu duna montería del día antis i el gansu escogollau ampié duna charca por avançal-si un galgu en mala ora una tardi d'estrenamientu.
 Con tó estu, el coraçón te s'enrutará ca ves que selgas al campu.
 Cómu puea sel un passatiempu matal un otru sel vivu?
 No ai igualdá de condicionis ni nessecidá, namás afán de sentil-si quién encañonandu alguien porque quitá-li la vida es mandal en él.
 Gustal matal es reconocel-si sicópata.
 Dal larga ala ravia diaria a pegal tirus es arrebullil más i más i más el'ansia compondrona i entenía dela mesma manera que si unu quixiera de bebel agua crala dun maniantal i la envarbasca primeru i agarra un vasu rotu pa bebé-la: envenena alos que beban dispués i se pon el hozicu ensagretau.
 Entretenel-si en matal es landal más míseri i arrastrau ena genti.
-No es custión de que una lei comenenciosa i envenená, en tó i por tó imoral i atrasá, sirva pa tapal el viciu más ruín, agomitabli i baxu que se puea tenel, que es el d'encevical-si al dañu i mataeru d'otrus animalis.
+No es custión de qu'una lei comenenciosa i envenená, en tó i por tó imoral i atrasá, sirva pa tapal el viciu más ruín, agomitabli i baxu que se puea tenel, qu'es el d'encevical-si al dañu i mataeru d'otrus animalis.
 Una lei no puei tapal unas assaúras indinas i maliciosas.
-La rola ala que encañonas no tien la culpa de que t'echaran del trabaju.
+La rola ala qu'encañonas no tien la culpa de que t'echaran del trabaju.
 La javalina que hoça an pie del alcornoqui no puei pagar por tu sufril d'abusión nel estitutu.
-Que en casa padeças duna pareja manejantona i de críus indeseaus no quiel dizil que tengas que esgracial una familia de ciervus.
-Ná de essu vai a arregral-ti pobrema nengunu, más, has que te hundas más ena miseria de sel un desgraciau que busca consuelu ena muerti ajena.
+Qu'en casa padeças duna pareja manejantona i de críus indeseaus no quiel dizil que tengas qu'esgracial una familia de ciervus.
+Ná d'essu vai a arregral-ti pobrema nengunu, más, has que te hundas más ena miseria de sel un desgraciau que busca consuelu ena muerti ajena.
 Si t'encarassis al conflitu cola mesma confiança con que t'encaras al javalín cerrúu que se muevi a somatraspón assujetandu con buen pulsu el'arma que le quitará el sinu, no tenías las ansias essas de hazé-li dañu a naidi.
-Por regenteal entre las xaras colas botas de material, el chalecu de rumbus i la escopeta que agasajas mejol que ala tu familia no sedrás mejor que naidi, enque assín lo sienta el tu egu deminutivu.
+Por regenteal entre las xaras colas botas de material, el chalecu de rumbus i la escopeta qu'agasajas mejol qu'ala tu familia no sedrás mejor que naidi, enque assín lo sienta el tu egu deminutivu.
 Ni la hartá de cartuchus caíus entre los canchalis quiel dizil que mandas ena naturaleza.
-Ni las malandronás colas que resplandillas enas tavernas mentras royis la carni d'animalis que otrus acachinarun por tí apasman a naidi.
+Ni las malandronás colas que resplandillas enas tavernas mentras royis la carni d'animalis qu'otrus acachinarun por tí apasman a naidi.
 Las muertis que recadas nel coraçón te pesarán, porque enque no te doloreças dellas agora, saldrán: tó acaba saliendu.
-Queréis arrendal los «grandis» reis que antañu destinguierun los ossus delas sierras i los cavallistas que arrinconavan javalinis enos bosquis escurus: vos confundís reondamenti de referentis.
-Ellus no eran euris, namás pressonas tristis, perejileras i aburrías con el pechu más escuru que los bosquis ondi caçavan, gustosus siempri de dal-si postín.
+Quereis arrendal los «grandis» reis qu'antañu destinguierun los ossus delas sierras i los cavallistas qu'arrinconavan javalinis enos bosquis escurus: vos confundís reondamenti de referentis.
+Ellus no eran euris, namás pressonas tristis, perejileras i aburrías col pechu más escuru que los bosquis ondi caçavan, gustosus siempri de dal-si postín.
 Procurai por referentis en los qu'aman, no enos qu'odian; enos que crían i no enos que faratan; enos que vivin de manera onesta i cenzilla sin nessecidá de presumimientu.
 Essa genti no está pintá en quairu nengunu, ni saldrá pola teli, ni assobacan a naidi: el su únicu afán es vivil de manera tranquila, tal i cumu los animalis que matáis.
 Ni los animalis ni los umanus estamus segurus con vusotrus nel campu.
@@ -169,11 +172,11 @@ Mandai un atiju del Meet i mos entramus, pol movi o pol ordenaol, comu quiera ca
 Ni por soñación vo a dexal-ti de hazel lo que te s'apeteça.
 Hueraparti d'estu, el domingu venieru tengu pensau de golvel conos cussus d'aprendimientu palos que quieran espiençal o siguil a deprendel gramática i vocabulariu.
 Hueraparti d'estu, el domingu venieru tengu pensau de golvel colos cussus d'aprendimientu palos que quieran espiençal o siguil a deprendel gramática i vocabulariu.
-Seis tous bienllegaus, i es emportanti que esteis los que más sepais p'ahilal con ellu i poel tenel una ciclopedia aparenti daquí a caberus del añu que venga.
-Collaçus, hazei el favol, los que querais de partecipal nel proyeutu dela Güiquipedia entrai-vus ena corrupela de Telegram, que es andi están los que sabin d'assuntus técnicus.
-Collaçus, hazei el favol, los que querais de partecipal nel proyetu dela Güiquipedia entrai-vus ena corrupela de Telegram, que es andi están los que sabin d'assuntus técnicus.
-Collaçus, hazei el favol, los que querais de partecipal nel proyeutu dela Güiquipedia entrai-vus ena corrupela de Telegram, que es ondi están los que sabin d'assuntus técnicus.
-Collaçus, hazei el favol, los que querais de partecipal nel proyetu dela Güiquipedia entrai-vus ena corrupela de Telegram, que es ondi están los que sabin d'assuntus técnicus.
+Seis tous bienllegaus, i es emportanti qu'esteis los que más sepais p'ahilal con ellu i poel tenel una ciclopedia aparenti daquí a caberus del añu que venga.
+Collaçus, hazei el favol, los que querais de partecipal nel proyeutu dela Güiquipedia entrai-vus ena corrupela de Telegram, qu'es andi están los que sabin d'assuntus técnicus.
+Collaçus, hazei el favol, los que querais de partecipal nel proyetu dela Güiquipedia entrai-vus ena corrupela de Telegram, qu'es andi están los que sabin d'assuntus técnicus.
+Collaçus, hazei el favol, los que querais de partecipal nel proyeutu dela Güiquipedia entrai-vus ena corrupela de Telegram, qu'es ondi están los que sabin d'assuntus técnicus.
+Collaçus, hazei el favol, los que querais de partecipal nel proyetu dela Güiquipedia entrai-vus ena corrupela de Telegram, qu'es ondi están los que sabin d'assuntus técnicus.
 Me casé de ventisseis añus.
 Güenu, pos ya arrematémus.
 Güenu, pos ya acabémus.
@@ -327,8 +330,8 @@ La maquinaria dañina qu'arrampló conas vegas i l'arau de hierru acachinarun i 
 La maquinaria dañina qu'arrampló colas vegas i l'arau de hierru acachinarun i enterragarun pa siempri la huélliga duna coltura qu'ara mos paés tan larga nel tiempu cumu enteressanti.
 La maquinaria dañina qu'arrampló conas vegas i l'arau de hierru achacinarun  i enterragarun pa siempri la huélliga duna coltura qu'ara mos paés tan larga nel tiempu cumu enteressanti.
 La maquinaria dañina qu'arrampló conas vegas i l'arau de hierru achacinarun i enterragarun pa siempri la huélliga duna coltura qu'ara mos paés tan larga nel tiempu cumu enteressanti.
-Nel puebru d'Esparragaleju, pa ponienti de Méria i no largu dela calçá que diva de Olissipo (ogañu Lisboa) pa Emerita, entovia quean conseñas delos romanus.
-Nel puebru d'Esparragaleju, pa ponienti de Méria i no largu dela calçá que diva de Olissipo (ogañu Lisboa) pa Emerita, entavia quean conseñas delos romanus.
+Nel puebru d'Esparragaleju, pa ponienti de Méria i no largu dela calçá que diva d'Olissipo (ogañu Lisboa) pa Emerita, entovia quean conseñas delos romanus.
+Nel puebru d'Esparragaleju, pa ponienti de Méria i no largu dela calçá que diva d'Olissipo (ogañu Lisboa) pa Emerita, entavia quean conseñas delos romanus.
 Essu sí, escamuflá, inculta, privá o derechamenti revestía de modernura.
 Guipal vas a guipal pocu, porque no ai ná hechu entovía.
 En Caçris capital s'izi bastanti entovía.
@@ -386,6 +389,12 @@ Los valoris griegus, ya de por sí tracamundeaus, dendi la religión, la políti
 Los valoris griegus, ya de por sí tracamundeaus, dendi la religión, la política o la economía, hata las costumbris, el hatu o el comportamientu, se dislocarun en muriendu Alexandru.
 Tras d'estu, ai qu'añidil las guerras d'ateniensis contra macedoñus por recuperal la grolla passá qu'ala final huerun un alalzi, esgalaçandu la democracia i l'ordin social: los ricus se ponían más ricus, la probitú se destendía entri las crassis meyas i baxas i los governantis se sucedían sin l'Estau sacal provechu nengunu.
 Tras d'estu, ai qu'añidil las guerras d'ateniensis contra macedoñus por recuperal la groria passá qu'ala final huerun un alalzi, esgalaçandu la democracia i l'ordin social: los ricus se ponían más ricus, la probitú se destendía entri las crassis meyas i baxas i los governantis se sucedían sin l'Estau sacal provechu nengunu.
+Tras d'estu, ai qu'añedil las guerras d'ateniensis contra macedoñus por recuperal la grolla passá qu'ala final huerun un alalzi, esgalaçandu la democracia i l'ordin social: los ricus se ponían más ricus, la probitú se destendía entri las crassis meyas i baxas i los governantis se sucedían sin l'Estau sacal provechu nengunu.
+Tras d'estu, ai qu'añedil las guerras d'ateniensis contra macedoñus por recuperal la groria passá qu'ala final huerun un alalzi, esgalaçandu la democracia i l'ordin social: los ricus se ponían más ricus, la probitú se destendía entri las crassis meyas i baxas i los governantis se sucedían sin l'Estau sacal provechu nengunu.
+Tras d'estu, ai d'añidil las guerras d'ateniensis contra macedoñus por recuperal la grolla passá qu'ala final huerun un alalzi, esgalaçandu la democracia i l'ordin social: los ricus se ponían más ricus, la probitú se destendía entri las crassis meyas i baxas i los governantis se sucedían sin l'Estau sacal provechu nengunu.
+Tras d'estu, ai d'añidil las guerras d'ateniensis contra macedoñus por recuperal la groria passá qu'ala final huerun un alalzi, esgalaçandu la democracia i l'ordin social: los ricus se ponían más ricus, la probitú se destendía entri las crassis meyas i baxas i los governantis se sucedían sin l'Estau sacal provechu nengunu.
+Tras d'estu, ai d'añedil las guerras d'ateniensis contra macedoñus por recuperal la grolla passá qu'ala final huerun un alalzi, esgalaçandu la democracia i l'ordin social: los ricus se ponían más ricus, la probitú se destendía entri las crassis meyas i baxas i los governantis se sucedían sin l'Estau sacal provechu nengunu.
+Tras d'estu, ai d'añedil las guerras d'ateniensis contra macedoñus por recuperal la groria passá qu'ala final huerun un alalzi, esgalaçandu la democracia i l'ordin social: los ricus se ponían más ricus, la probitú se destendía entri las crassis meyas i baxas i los governantis se sucedían sin l'Estau sacal provechu nengunu.
 La su conocencia dela ralidá, sostribá eno sensibli, premitió qu'aviara un sistema científicu i moral encarrehilau ala felicidá.
 Hincau nel pensaeru material, defendió l'atomismu, en compretandu las teorías de Demócritu con ideas propias i canteandu-las ala busca dela felicidá cutiana, escassa n'aquellus tiempus empantanaus.
 Desenroó el concetu dela ἡδνλή, assentandu los sus prencipius i hondeandu conas feguracionis qu'aginan i desinquietan: el mieu ala muerti, si los diosis essistin o no, las cosas emportantis dela vida, etc. 
@@ -428,7 +437,7 @@ Assinque es mestel echal-si ala idea delas cosas que dan la felicidá, pos d'est
 Assinque es mestel echal-si ala idea delas cosas que dan la felicidá, pos d'estal ella presenti, tenemus tó, peru d'estal assenti, hazemus de tó por tené-la.
 Assinque es mestel echal-si ala idea delas cosas que dan la felicidá, pos d'estal ella presenti, tenemus tou, peru d'estal assenti, hazemus de tou por tenel-la.
 Assinque es mestel echal-si ala idea delas cosas que dan la felicidá, pos d'estal ella presenti, tenemus tó, peru d'estal assenti, hazemus de tó por tenel-la.
-Las cosas que te consejava de continu, ha-las i pratica-las, comprendiendu que los elimentus que te hadrán vivil bien son estus: primeru, crei-ti que'l dios es un sel que no se corrumpi i dichosu, formi se representava la noción común del dios, no l'atribúas ná contrariu ala incorrutibilidá ni ná desajenu menus la dicha, de má que te paeça que tolo qu'arrodea al dios es dicha al lau de incorrutibilidá.
+Las cosas que te consejava de continu, ha-las i pratica-las, comprendiendu que los elimentus que te hadrán vivil bien son estus: primeru, crei-ti que'l dios es un sel que no se corrumpi i dichosu, formi se representava la noción común del dios, no l'atribúas ná contrariu ala incorrutibilidá ni ná desajenu menus la dicha, de má que te paeça que tolo qu'arrodea al dios es dicha al lau d'incorrutibilidá.
 I los diosis essistin, porque la conocencia dellus es evidenti, peru no son comu la genti se crei.
 I los diosis essistin, porque la conocencia dellus es evidenti, peru no son cumu la genti se crei.
 I los diosis essistin, porque la conocencia dellus es evidenti, peru no sonin comu la genti se crei.
@@ -439,14 +448,20 @@ Acostumbra-ti a creyel-ti que la muerti no representa ná pa musotrus porque tol
 Acostumbra-ti a hazel fé en que la muerti no representa ná pa nusotrus porque tolo güenu o lo malu está ena sensación i el privamientu dela sensación es la muerti.
 Acostumbra-ti a creyel-tia hazel fé en que la muerti no representa ná pa nogu porque tolo güenu o lo malu está ena sensación i el privamientu dela sensación es la muerti.
 Acostumbra-ti a hazel fé en que la muerti no representa ná pa musotrus porque tolo güenu o lo malu está ena sensación i el privamientu dela sensación es la muerti.
-Por essu, la conocencia derecha de no sel ná la muerti pa nusotrus hazi que se desfruti lo mortal dela vida, sin añidil un tiempu inlimitau, sino más aína hondeandu conas ansias de imortalidá.
-Por essu, la conocencia derecha de no sel ná la muerti pa nusotrus hazi que se desfruti lo mortal dela vida, sin añidil un tiempu inlimitau, sino más aína hondeandu colas ansias de imortalidá.
-Por essu, la conocencia derecha de no sel ná la muerti pa musotrus hazi que se desfruti lo mortal dela vida, sin añidil un tiempu inlimitau, sino más aína hondeandu conas ansias de imortalidá.
-Por essu, la conocencia derecha de no sel ná la muerti pa musotrus hazi que se desfruti lo mortal dela vida, sin añidil un tiempu inlimitau, sino más aína hondeandu colas ansias de imortalidá.
-Por essu, la conocencia derecha de no sel ná la muerti pa nogu hazi que se desfruti lo mortal dela vida, sin añidil un tiempu inlimitau, sino más aína hondeandu conas ansias de imortalidá.
-Por essu, la conocencia derecha de no sel ná la muerti pa nogu hazi que se desfruti lo mortal dela vida, sin añidil un tiempu inlimitau, sino más aína hondeandu colas ansias de imortalidá.
-De má qu'es un bobu'l que izi que temi la muerti, no porque penará estuviendu ella presenti, sino que pena quandu entovia está de venil.
-De má qu'es un bobu'l que izi que temi la muerti, no porque penará estuviendu ella presenti, sino que pena quandu entavia está de venil.
+Por essu, la conocencia derecha de no sel ná la muerti pa nusotrus hazi que se desfruti lo mortal dela vida, sin añidil un tiempu inlimitau, sino más aína hondeandu conas ansias d'imortalidá.
+Por essu, la conocencia derecha de no sel ná la muerti pa nusotrus hazi que se desfruti lo mortal dela vida, sin añidil un tiempu inlimitau, sino más aína hondeandu colas ansias d'imortalidá.
+Por essu, la conocencia derecha de no sel ná la muerti pa musotrus hazi que se desfruti lo mortal dela vida, sin añidil un tiempu inlimitau, sino más aína hondeandu conas ansias d'imortalidá.
+Por essu, la conocencia derecha de no sel ná la muerti pa musotrus hazi que se desfruti lo mortal dela vida, sin añidil un tiempu inlimitau, sino más aína hondeandu colas ansias d'imortalidá.
+Por essu, la conocencia derecha de no sel ná la muerti pa nogu hazi que se desfruti lo mortal dela vida, sin añidil un tiempu inlimitau, sino más aína hondeandu conas ansias d'imortalidá.
+Por essu, la conocencia derecha de no sel ná la muerti pa nogu hazi que se desfruti lo mortal dela vida, sin añidil un tiempu inlimitau, sino más aína hondeandu colas ansias d'imortalidá.
+Por essu, la conocencia derecha de no sel ná la muerti pa nusotrus hazi que se desfruti lo mortal dela vida, sin añedil un tiempu inlimitau, sino más aína hondeandu conas ansias d'imortalidá.
+Por essu, la conocencia derecha de no sel ná la muerti pa nusotrus hazi que se desfruti lo mortal dela vida, sin añedil un tiempu inlimitau, sino más aína hondeandu colas ansias d'imortalidá.
+Por essu, la conocencia derecha de no sel ná la muerti pa musotrus hazi que se desfruti lo mortal dela vida, sin añedil un tiempu inlimitau, sino más aína hondeandu conas ansias d'imortalidá.
+Por essu, la conocencia derecha de no sel ná la muerti pa musotrus hazi que se desfruti lo mortal dela vida, sin añedil un tiempu inlimitau, sino más aína hondeandu colas ansias d'imortalidá.
+Por essu, la conocencia derecha de no sel ná la muerti pa nogu hazi que se desfruti lo mortal dela vida, sin añedil un tiempu inlimitau, sino más aína hondeandu conas ansias d'imortalidá.
+Por essu, la conocencia derecha de no sel ná la muerti pa nogu hazi que se desfruti lo mortal dela vida, sin añedil un tiempu inlimitau, sino más aína hondeandu colas ansias d'imortalidá.
+De má qu'es un bobu'l qu'izi que temi la muerti, no porque penará estuviendu ella presenti, sino que pena quandu entovia está de venil.
+De má qu'es un bobu'l qu'izi que temi la muerti, no porque penará estuviendu ella presenti, sino que pena quandu entavia está de venil.
 Lo qu'está presenti no agina, es quantis que mo-lo enfundimus quandu hazi penal en baldi.
 Lo qu'está presenti no agina, es deque mo-lo enfundimus quandu hazi penal en baldi.
 Assinque'l más calafrianti delos malis, la muerti, no senifica ná pa nusotrus, porque, de nusotrus essistil, la muerti no está presenti i dela muerti aparecel-si, entoci nusotrus no estamus.
@@ -981,12 +996,12 @@ Tenemus de racional, tous uníus, antis que sea tardi.
 Tenemus que racional, tous uníus, antis que sea tardi.
 Avemus de racional, tous uníus, antis que sea tardi.
 Vemus de racional, tous uníus, antis que sea tardi.
-Tenemus de izil un NO huerti i reondu, enantis que mos amotilin el foturu.
-Tenemus de izil un NO huerti i reondu, enantis que mos amotilin el hoturu.
+Tenemus d'izil un NO huerti i reondu, enantis que mos amotilin el foturu.
+Tenemus d'izil un NO huerti i reondu, enantis que mos amotilin el hoturu.
 Tenemus de dizil un NO huerti i reondu, enantis que mos amotilin el foturu.
 Tenemus de dizil un NO huerti i reondu, enantis que mos amotilin el hoturu.
-Tenemus que izil un NO huerti i reondu, enantis que mos amotilin el foturu.
-Tenemus que izil un NO huerti i reondu, enantis que mos amotilin el hoturu.
+Tenemus qu'izil un NO huerti i reondu, enantis que mos amotilin el foturu.
+Tenemus qu'izil un NO huerti i reondu, enantis que mos amotilin el hoturu.
 Tenemus que dizil un NO huerti i reondu, enantis que mos amotilin el foturu.
 Tenemus que dizil un NO huerti i reondu, enantis que mos amotilin el hoturu.
 Un NO que mos degüelva la dinidá.
@@ -1073,10 +1088,10 @@ Qué torpura que tieni!
 El Pedru alo primeru se pensava que yo era un pocu dessagerau, sabis? 
 Peru es un tíu al que no le gusta el conflitu, antoci por essu se quitó del meyu, pa poel lleval una lavol d'álbitru las vezis que porfiémus.
 Peru es un tíu al que no le gusta el conflitu, entoci por essu se quitó del meyu, pa poel lleval una lavol d'álbitru las vezis que porfiémus.
-No es una pressona que haga mal nengunu, peru s'ai espantau una miaja con estu delas porfías, es que es mu desagradabli tó estu.
-No es una pressona que haga mal nengunu, peru s'á espantau una miaja con estu delas porfías, es que es mu desagradabli tó estu.
-No es una pressona que haga mal nengunu, peru s'ai espantau una miaja con estu delas porfías, es que es mu desagradabli tou estu.
-No es una pressona que haga mal nengunu, peru s'á espantau una miaja con estu delas porfías, es que es mu desagradabli tou estu.
+No es una pressona que haga mal nengunu, peru s'ai espantau una miaja con estu delas porfías, es qu'es mu desagradabli tó estu.
+No es una pressona que haga mal nengunu, peru s'á espantau una miaja con estu delas porfías, es qu'es mu desagradabli tó estu.
+No es una pressona que haga mal nengunu, peru s'ai espantau una miaja con estu delas porfías, es qu'es mu desagradabli tou estu.
+No es una pressona que haga mal nengunu, peru s'á espantau una miaja con estu delas porfías, es qu'es mu desagradabli tou estu.
 Hueraparti del robaeru, yo me descalientu a ca ná i enseñu unas maneras que no quería gastal, porque el tíu esti es un sinvergüença i hata que no vos tomaistis cuenta vusotrus tengu estau solu, cumu'l Quixoti.
 Hueraparti del robaeru, yo me descalientu a ca ná i enseñu unas maneras que no quería gastal, porque el tíu esti es un sinvergüença i hata que no vos tomaistis cuenta vusotrus tengu estau solu, comu'l Quixoti.
 Hueraparti del robaeru, yo me descalientu a ca ná i enseñu unas maneras que no quería gastal, porque el tíu esti es un sinvergüença i ata que no vos tomaistis cuenta vusotrus tengu estau solu, cumu'l Quixoti.
@@ -1427,57 +1442,182 @@ I p'arrematal: el leonés orental no es castillanu, peru'l castillanu sí qu'es 
 I p'arrematal: el leonés orental no es castillanu, peru'l castillanu sí qu'es leonés orental (mesturau col navarru-aragonés que se palrava n'aquellus tiempus ena Rioja).
 I p'arrematal: el leonés orental no es castillanu, peru'l castillanu sí qu'es leonés orental (mescrau col navarru-aragonés que se palrava n'aquellus tiempus ena Rioja).
 En Cantabria, Palencia, Valladolí, parti de León, la metá de Çamora, ponienti i sul d'Ávila, Salamanca, Caçris, Badajós i la sierra d'Aracena se palrava o se palra esta varianti, con mucha más unidá interna qu'Asturias de ponienti a salienti i con deferencias marcás al respetivi'l castillanu, anque tamién con más concidencias.
-Las prussecionis de Semana Santa i la pula de Vox que se vein nestus días son las boqueás últimas dela España Una. Comu aquellas grandis manifestacionis en favol dela unidá d'España que uvun a Puertu Ricu i Cuba... enantis de desseparal-si.
+En Cantabria, Palencia, Valladolí, parti de León, la metá de Çamora, ponienti i sul d'Ávila, Salamanca, Caçris, Badajós i la sierra d'Aracena se habrava o se habrava esta varianti, con mucha más unidá interna qu'Asturias de ponienti a salienti i con deferencias marcás al respetivi'l castillanu, anque tamién con más concidencias.
+En Cantabria, Palencia, Valladolí, parti de León, la metá de Çamora, ponienti i sul d'Ávila, Salamanca, Caçris, Badajós i la sierra d'Aracena se palrava o se palra esta varianti, con mucha más unidá interna qu'Asturias de ponienti a salienti i con deferencias marcás al respetivi'l castillanu, enque tamién con más concidencias.
+En Cantabria, Palencia, Valladolí, parti de León, la metá de Çamora, ponienti i sul d'Ávila, Salamanca, Caçris, Badajós i la sierra d'Aracena se habrava o se habrava esta varianti, con mucha más unidá interna qu'Asturias de ponienti a salienti i con deferencias marcás al respetivi'l castillanu, enque tamién con más concidencias.
+Las prussecionis de Semana Santa i la pula de Vox que se vein nestus días son las boqueás últimas dela España Una.
+Las prussecionis de Semana Santa i la pula de Vox que se vén nestus días son las boqueás últimas dela España Una.
+Comu aquellas grandis manifestacionis en favol dela unidá d'España qu'uvun a Puertu Ricu i Cuba... enantis de desseparal-si.
+Cumu aquellas grandis manifestacionis en favol dela unidá d'España qu'uvun a Puertu Ricu i Cuba... enantis de desseparal-si.
 El nuestru collaçu Angi anduvu ayel de casoriu.
+El muestru collaçu Angi anduvu ayel de casoriu.
 De contau, los convidaus vidun i leyerun cosas n'estremeñu.
-Ya prencipia la genti a arrochal-si a gastal l'estremeñu, mesmu enos convitis del Casoriu!
+Ya escomiença la genti a arrochal-si a gastal l'estremeñu, mesmu enos convitis del Casoriu!
+Ya esmiença la genti a arrochal-si a gastal l'estremeñu, mesmu enos convitis del Casoriu!
+Ya espiença la genti a arrochal-si a gastal l'estremeñu, mesmu enos convitis del Casoriu!
 Chacho, qué furriona güena mos dimus an cá Luis, essu que se vei es el patiu dela su casa, andi andavamus de barbacoa i cervezeu.
+Chacho, qué furriona güena mos dimus an cá Luis, essu que se vei es el patiu dela su casa, ondi andavamus de barbacoa i cervezeu.
+Chacho, qué furriona güena mos dimus an cá Luis, essu que se vé es el patiu dela su casa, andi andavamus de barbacoa i cervezeu.
+Chacho, qué furriona güena mos dimus an cá Luis, essu que se vé es el patiu dela su casa, ondi andavamus de barbacoa i cervezeu.
 Por essu hundémus l'associación, porque naidi se hazía cargu d'estu.
 No son los únicus trebajus, sí los mejoris.
+No sonin los únicus trebajus, sí los mejoris.
 No sé pa qué mos piis unas informacionis que pueis precural tu propiu ena redi o mercandu librus.
-Los pogris i los fachas pal tema coltural-nacional seis igual.
+No sei pa qué mos piis unas informacionis que pueis precural tu propiu ena redi o mercandu librus.
+No sé pa qué mos piis unas informacionis que pueis buscal tu propiu ena redi o mercandu librus.
+No sei pa qué mos piis unas informacionis que pueis buscal tu propiu ena redi o mercandu librus.
+Los pogris i los fachas pala tema coltural-nacional seis igual.
 Ave, la pueis gastal nuna frasi?
+Ave, la pueis usal nuna frasi?
 Dándi eris?
 Dóndi eris?
 Essa palabra no la conociamus.
 Avía qu'espençal con tolos presentaoris del parti, de pogramas que namas dan propaganda, cona pulicidá que mos aguarrea la menti las ventiquatru oras.
+Avía qu'espençal con tolos presentaoris del parti, de pogramas que namas dan propaganda, cola pulicidá que mos aguarrea la menti las ventiquatru oras.
+Avía d'espençal con tolos presentaoris del parti, de pogramas que namas dan propaganda, cona pulicidá que mos aguarrea la menti las ventiquatru oras.
+Avía d'espençal con tolos presentaoris del parti, de pogramas que namas dan propaganda, cola pulicidá que mos aguarrea la menti las ventiquatru oras.
+Avía que prencipial con tolos presentaoris del parti, de pogramas que namas dan propaganda, cona pulicidá que mos aguarrea la menti las ventiquatru oras.
+Avía que prencipial con tolos presentaoris del parti, de pogramas que namas dan propaganda, cola pulicidá que mos aguarrea la menti las ventiquatru oras.
+Avía de prencipial con tolos presentaoris del parti, de pogramas que namas dan propaganda, cona pulicidá que mos aguarrea la menti las ventiquatru oras.
+Avía de prencipial con tolos presentaoris del parti, de pogramas que namas dan propaganda, cola pulicidá que mos aguarrea la menti las ventiquatru oras.
 I más que se vai a descutil, amiga.
+I más que se vá a descutil, amiga.
 Entovia se vidu ni la metá delo qu'ai.
+Entavia se vidu ni la metá delo qu'ai.
 Nel muestru cuerpu decedimus musotras.
+Nel nuestru cuerpu decedimus nusotras.
 Quieris deprendel estremeñu ena quarentena?
 Pos dexa de hazel-ti bocaíllus o d'ansomal-ti al balcón i pincha esti atiju!
 S'ajunta velaquí la carrefilera compreta delos verbus regularis dela primel, segunda i tercera conjugación, disponibli agora pa tolos letoris.
+S'ajunta velaquí la carrefilera compreta delos verbus regularis dela primel, segunda i tercera conjugación, ara disponibli pa tolos letoris.
 Andu tenteandu la horma de dil-mi de viagi.
+Andu a tenteal la horma de dil-mi de viagi.
 Tíu Pedru es mu barbúu.
 Mi comadri estuvu a tenteal pa si le contava tol chinchorreu.
+Mi comairi estuvu a tenteal pa si le contava tol chinchorreu.
+Mi comadri estuvu tenteandu pa si le contava tol chinchorreu.
+Mi comairi estuvu tenteandu pa si le contava tol chinchorreu.
 El castillanu es lengua conocía n'Estremaúra dendi antigu, pos a acabal la Conquista era ya la de más renombrança entri las capas altas delos sigrus XIV i XV.
+El castillanu es lengua conocía n'Estremaúra dendi antigu, pos a acabal la Conquista era ya la de más renombrança entri las capas altas delos siegrus XIV i XV.
 Dispués d'insueltu l'antigu reinu leonés, la idioma de Castilla era ya conocía de nobris, cregus i comerciantis.
 D'aquellus entoncis, ya nel sigru XVI, dimanan las escreturas del párracu i dramaturgu talaveranu Diego Sánchez de Badajós.
-Dentri las muchas obras dél, el cregu tomateru arrayó un haci ondi entrebolava la palra castellana delos pressonagis con un hurreu puebleru estremeñu, queandu assina el testimoñu duna diglossia que ya estava alo primeru dela Edá Moderna.
+D'aquellus entoncis, ya nel siegru XVI, dimanan las escreturas del párracu i dramaturgu talaveranu Diego Sánchez de Badajós.
+D'aquellus entoncis, ya nel sigru XVI, dimanan las escreviúras del párracu i dramaturgu talaveranu Diego Sánchez de Badajós.
+D'aquellus entoncis, ya nel siegru XVI, dimanan las escreviúras del párracu i dramaturgu talaveranu Diego Sánchez de Badajós.
+D'entri las muchas obras dél, el cregu tomateru arrayó un haci ondi entrebolava la palra castillana delos pressonagis con un hurreu puebleru estremeñu, queandu assina el testimoñu duna diglossia que ya estava alo primeru dela Edá Moderna.
+D'entri las muchas obras dél, el cregu tomateru arrayó un haci ondi entrebolava la palra castillana delos pressonagis con un hurreu puebleru estremeñu, queandu assín el testimoñu duna diglossia que ya estava alo primeru dela Edá Moderna.
+D'entri las muchas obras dél, el cregu tomateru arrayó un haci ondi entrebolava la habra castillana delos pressonagis con un hurreu puebleru estremeñu, queandu assina el testimoñu duna diglossia que ya estava alo primeru dela Edá Moderna.
+D'entri las muchas obras dél, el cregu tomateru arrayó un haci ondi entrebolava la habra castellana delos pressonagis con un hurreu puebleru estremeñu, queandu assín el testimoñu duna diglossia que ya estava alo primeru dela Edá Moderna.
 Estremaúra siguió mantuviendu muchus atijus cona coltura i las estitucionis dela Edá Meya hata'l siegru XIX, quandu'l castillanu esmençó a agarral nel puebru por mé dela costrución del ferrucarril i la esparramancia l'Estau liberal, possimenti entri las capas más urbanas i las más leías (que sabían las letras namás en castillanu).
-Las vías del tren —i con ellas el castillaneu— atravessarun más antis las Vegas del Guadiana i alú la Vía dela Prata.
+Estremaúra siguió mantuviendu muchus atijus cola coltura i las estitucionis dela Edá Meya hata'l siegru XIX, quandu'l castillanu esmençó a agarral nel puebru por mé dela costrución del ferrucarril i la esparramancia l'Estau liberal, possimenti entri las capas más urbanas i las más leías (que sabían las letras namás en castillanu).
+Estremaúra siguió mantuviendu muchus atijus cona coltura i las estitucionis dela Edá Meya hata'l sigru XIX, quandu'l castillanu esmençó a agarral nel puebru por mé dela costrución del ferrucarril i la esparramancia l'Estau liberal, possimenti entri las capas más urbanas i las más leías (que sabían las letras namás en castillanu).
+Estremaúra siguió mantuviendu muchus atijus cola coltura i las estitucionis dela Edá Meya hata'l sigru XIX, quandu'l castillanu esmençó a agarral nel puebru por mé dela costrución del ferrucarril i la esparramancia l'Estau liberal, possimenti entri las capas más urbanas i las más leías (que sabían las letras namás en castillanu).
+Las vías del tren —i con ellas el castillaneu— atravessarun más antis las Vegas del Guadiana i aluegu la Vía dela Prata.
+Las vías del tren —i con ellas el castillaneu— atravessarun más antis las Vegas del Guadiana i alogu la Vía dela Prata.
 Las partis más desapartás d'estus caminus resestierun mejol la desacolturación ata la segunda metá'l siegru XX.
+Las partis más desapartás d'estus caminus resestierun mejol la desacolturación ata la segunda metá'l sigru XX.
+Las partis más desapartás d'estus caminus resestierun mejol la desacolturación hata la segunda metá'l siegru XX.
+Las partis más desapartás d'estus caminus resestierun mejol la desacolturación hata la segunda metá'l sigru XX.
 Los barruntus del señol Krüger no erravan de tó, peru no echó en cuenta que de xuru ya essestía —cumu oi— un bilingüismu vergonçúu por mé dela diglossia.
-Tras dela estalación delas comunicacionis moernas —primeru el tren i alogu las carreteras— la lengua del Estau abrió verea dendi'l norti, el salienti i el sul, i entró ena Estremaúra con dos variantis urbanas qu'entovia pingan el muestru español: la castillana i la sevillana.
+Los barruntus del señol Krüger no erravan de tó, peru no echó en cuenta que de xuru ya essestía —comu oi— un bilingüismu vergonçúu por mé dela diglossia.
+Los barruntus del señol Krüger no erravan de tó, peru no echó en cuenta que de xuru ya essestía —cumu oi— un bilingüismu vergonçúu por mé dela diglossia.
+Los barruntus del señol Krüger no erravan de tó, peru no echó en cuenta que de xuru ya essestía —comu oi— un bilingüismu vergonçúu por mé dela diglossia.
+Tras dela estalación delas comunicacionis moernas —primeru'l tren i alogu las carreteras—, la lengua del Estau abrió verea dendi'l norti, el salienti i el sul, i entró ena Estremaúra con dos variantis urbanas qu'entovia pingan el muestru español: la castillana i la sevillana.
+Tras dela estalación delas comunicacionis moernas —primeru'l tren i alogu las carreteras—, la lengua del Estau abrió verea dendi'l norti, el salienti i el sul, i entró ena Estremaúra con dos variantis urbanas qu'entovia pingan el nuestru español: la castillana i la sevillana.
+Tras dela estalación delas comunicacionis moernas —primeru'l tren i alogu las carreteras—, la lengua del Estau abrió verea dendi'l norti, el salienti i el sul, i entró ena Estremaúra con dos variantis urbanas qu'entavia pingan el muestru español: la castillana i la sevillana.
+Tras dela estalación delas comunicacionis moernas —primeru'l tren i alogu las carreteras—, la lengua del Estau abrió verea dendi'l norti, el salienti i el sul, i entró ena Estremaúra con dos variantis urbanas qu'entavia pingan el nuestru español: la castillana i la sevillana.
 La norma de Castilla mos llegó por mé dela enfrujencia de Madril i duna Salamanca esmangajá delo leonés.
 La norma de Sevilla se hizu huerti dela manu dela coltura cortijera: alo longu'l siegru XX s'esparramarun pal norti muchus costumbris del Guadalquivil Baxu que'l puebru esmençó a almiral comu referentis de riqueza i finura.
-S'arrendava l'arti sevillanu enas ferias, los holgorius flamencus, el mundu del toru i del cavallu i s'arrendavan las celebracionis religiosas.
+La norma de Sevilla se hizu huerti dela manu dela coltura cortijera: alo largu'l siegru XX s'esparramarun pal norti muchus costumbris del Guadalquivil Baxu que'l puebru esmençó a almiral comu referentis de riqueza i finura.
+La norma de Sevilla se hizu huerti dela manu dela coltura cortijera: alo longu'l siegru XX s'esparramarun pal norti muchus costumbris del Guadalquivil Baxu que'l puebru esmençó a almiral cumu referentis de riqueza i finura.
+La norma de Sevilla se hizu huerti dela manu dela coltura cortijera: alo largu'l siegru XX s'esparramarun pal norti muchus costumbris del Guadalquivil Baxu que'l puebru esmençó a almiral cumu referentis de riqueza i finura.
+S'arrendava l'arti sevillana enas ferias, los holgorius flamencus, el mundu del toru i del cavallu i s'arrendavan las celebracionis religiosas.
+S'arrendava l'arti sevillana enas ferias, los holgorius flamencus, el mundu'l toru i del cavallu i s'arrendavan las celebracionis religiosas.
 La enfrujencia lengüística andaluza nel español d'Estremaúra es más intesa entri las capas medias del sul dela provincia de Badajós —más relacionás colas puebracionis del Guadalquivil—, i vai-si afroxandu daí pal norti.
-De tolas maneras, nunca se dan el sesseu ni el ceceu por enfrujencia andaluza, pos normalmenti esta namás afeta el tonillu i angunus aspetus somerus dela prenuncia del castellanu.
+La enfrujencia lengüística andaluza nel español d'Estremaúra es más intesa entri las capas medias del sul dela provincia de Badajós —más relacionás conas puebracionis del Guadalquivil—, i vai-si afroxandu daí pal norti.
+La enfrujencia lengüística andaluza nel español d'Estremaúra es más intesa entri las capas medias del sul dela provincia de Badajós —más relacionás colas puebracionis del Guadalquivil—, i se vai afroxandu daí pal norti.
+La enfrujencia lengüística andaluza nel español d'Estremaúra es más intesa entri las capas medias del sul dela provincia de Badajós —más relacionás conas puebracionis del Guadalquivil—, i se vai afroxandu daí pal norti.
+De tolas maneras, nunca se dan el sesseu ni el ceceu por enfrujencia andaluza, pos normalmenti esta afeta namás el tonillu i angunus aspetus somerus dela prenuncia del castillanu.
+De tolas maneras, nunca se dan el sesseu ni el ceceu por enfrujencia andaluza, pos normalmenti esta afeta namás el tonillu i angunus aspeutus somerus dela prenuncia del castillanu.
 Estu devi-si alas deferencias nel processu de soponimientu lengüísticu entri'l norti i el sul duna Estremaúra sin capitalis emportantis, alardeá del emigraeru i emprobecía, que se vé condicioná delas cidais folasteras por associal la coltura propia ala probitú i la nessecidá.
+Estu devi-si alas deferencias nel processu de soponimientu lengüísticu entri'l norti i el sul duna Estremaúra sin capitalis emportantis, alardeá del emigraeru i emprobecía, que se vei condicioná delas cidais folasteras por associal la coltura propia ala probitú i la nessecidá.
+Estu se devi alas deferencias nel processu de soponimientu lengüísticu entri'l norti i el sul duna Estremaúra sin capitalis emportantis, alardeá del emigraeru i emprobecía, que se vé condicioná delas cidais folasteras por associal la coltura propia ala probitú i la nessecidá.
+Estu se devi alas deferencias nel processu de soponimientu lengüísticu entri'l norti i el sul duna Estremaúra sin capitalis emportantis, alardeá del emigraeru i emprobecía, que se vei condicioná delas cidais folasteras por associal la coltura propia ala probitú i la nessecidá.
 Assín i tó, no estuvu'l siegru XX del tó maleju pal estremeñu, pos hue tamién nestus añus quandu s'espubricarun las obras de Chamizo o Gabriel y Galán.
-Enque agora mos quei un pocu largu, las poemas d'estus escrevioris marcarun generacionis enteras, que hata aquellus entocis vían descarecíu de referencias literarias ena lengua propia.
+Enque ara mos quei un pocu largu, las poemas d'estus escrevioris marcarun generacionis enteras, que hata aquellus entocis vían descarecíu de referencias literarias ena lengua propia.
+Enque ara mos quei un pocu largu, las poemas d'estus escrevioris marcarun generacionis enteras, que ata aquellus entocis vían descarecíu de referencias literarias ena lengua propia.
+Enque ara mos quei un pocu largu, las poemas d'estus escrevioris marcarun generacionis enteras, que hata aquellus entocis avían descarecíu de referencias literarias ena lengua propia.
+Enque ara mos quei un pocu largu, las poemas d'estus escrevioris marcarun generacionis enteras, que ata aquellus entocis avían descarecíu de referencias literarias ena lengua propia.
+Anque ara mos quei un pocu largu, las poemas d'estus escrevioris marcarun generacionis enteras, que hata aquellus entocis vían descarecíu de referencias literarias ena lengua propia.
+Anque ara mos quei un pocu largu, las poemas d'estus escrevioris marcarun generacionis enteras, que ata aquellus entocis vían descarecíu de referencias literarias ena lengua propia.
+Anque ara mos quei un pocu largu, las poemas d'estus escrevioris marcarun generacionis enteras, que hata aquellus entocis avían descarecíu de referencias literarias ena lengua propia.
+Anque ara mos quei un pocu largu, las poemas d'estus escrevioris marcarun generacionis enteras, que ata aquellus entocis avían descarecíu de referencias literarias ena lengua propia.
 Abondecin tamién los poemarius i librus d'alcanci local o comarcal, los primerus ententus conocíus d'atorgal una norma al estremeñu i las primeras associacionis líquiamenti lengüísticas.
+Abondan tamién los poemarius i librus d'alcanci local o comarcal, los primerus ententus conocíus d'atorgal una norma al estremeñu i las primeras associacionis líquiamenti lengüísticas.
 Esta brega pusu los assientus pala movición d'ogañu, quandu espiença a sel possibli palral dela luenga estremeña con tolas letras i esta se güelvi a cautival de mó coscienti.
-D'esti viagi vos mostramus un endilgu que vemus entangau a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo largu delos sigrus, pa qu'assina poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
-Se izi más assín, peru me paici que tamién dessisti sin pronombri.
+Esta brega pusu los assientus pala movición d'ogañu, quandu espiença a sel possibli habral dela luenga estremeña con tolas letras i esta se güelvi a cautival de mó coscienti.
+Esta brega pusu los assientus pala movición d'ogañu, quandu espiença a sel possibli palral dela luenga estremeña con tolas letras i esta se güelvi a cautival de mou coscienti.
+Esta brega pusu los assientus pala movición d'ogañu, quandu espiença a sel possibli habral dela luenga estremeña con tolas letras i esta se güelvi a cautival de mou coscienti.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo largu delos sigrus, pa qu'assina poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo largu delos sigrus, pa qu'assina poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo longu delos sigrus, pa qu'assina poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo longu delos sigrus, pa qu'assina poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo largu delos siegrus, pa qu'assina poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo largu delos siegrus, pa qu'assina poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo longu delos siegrus, pa qu'assina poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo longu delos siegrus, pa qu'assina poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo largu delos sigrus, pa qu'assín poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo largu delos sigrus, pa qu'assín poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo longu delos sigrus, pa qu'assín poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo longu delos sigrus, pa qu'assín poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo largu delos siegrus, pa qu'assín poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo largu delos siegrus, pa qu'assín poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo longu delos siegrus, pa qu'assín poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo longu delos siegrus, pa qu'assín poais hazel-vus una idea de cúmu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo largu delos sigrus, pa qu'assina poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo largu delos sigrus, pa qu'assina poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo longu delos sigrus, pa qu'assina poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo longu delos sigrus, pa qu'assina poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo largu delos siegrus, pa qu'assina poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo largu delos siegrus, pa qu'assina poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo longu delos siegrus, pa qu'assina poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo longu delos siegrus, pa qu'assina poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo largu delos sigrus, pa qu'assín poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo largu delos sigrus, pa qu'assín poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo longu delos sigrus, pa qu'assín poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo longu delos sigrus, pa qu'assín poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo largu delos siegrus, pa qu'assín poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo largu delos siegrus, pa qu'assín poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tien padecíu la lengua estremeña alo longu delos siegrus, pa qu'assín poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+D'esti viagi vos mostramus un endilgu que entangémus a tentu del processu de descaecimientu que tieni padecíu la lengua estremeña alo longu delos siegrus, pa qu'assín poais hazel-vus una idea de cómu tienin síu las cosas en verdá.
+S'izi más assín, peru me paici que tamién essisti sin pronombri.
+S'izi más assina, peru me paici que tamién essisti sin pronombri.
+S'izi más assín, peru me paés que tamién essisti sin pronombri.
+S'izi más assina, peru me paés que tamién essisti sin pronombri.
+S'izi más assín, peru me paici que tamién essisti sin pronombri.
+S'izi más assina, peru me paici que tamién essisti sin pronombri.
+S'izi más assín, peru me paés que tamién essisti sin pronombri.
+S'izi más assina, peru me paés que tamién essisti sin pronombri.
 Pos porque es un morrúu, tien que sel lo qu'él diga i no almiti almiendas.
+Pos porque es un morrúu, tien de sel lo qu'él diga i no almiti almiendas.
+Pos porque es un morrúu, á de sel lo qu'él diga i no almiti almiendas.
 Peru essu de dexal de habral reondamenti cola poca genti que hazi qué pol estremeñu no es güenu.
+Peru essu de dexal de habral reondamenti cona poca genti que hazi qué pol estremeñu no es güenu.
+Peru essu de dexal de palral reondamenti cola poca genti que hazi qué pol estremeñu no es güenu.
+Peru essu de dexal de palral reondamenti cona poca genti que hazi qué pol estremeñu no es güenu.
 No atopa la palabra por parti nenguna.
+No encuentra la palabra por parti nenguna.
 Lo que te dixi delos verbus i l'artografía d'angunas palabras.
 Conque tengu de revisal el testu essi.
+Conque tengu que revisal el testu essi.
+Conque ei de revisal el testu essi.
+Conque é de revisal el testu essi.
 Palos testus más hormalis quiciá que sea mejol la quarta.
+Palos testus más hormalis quiciás que sea mejol la quarta.
 Tenemus de hazel lo delos andaluzis, que tienin tolas huncionis del movi traduzías.
+Tenemus que hazel lo delos andaluzis, que tienin tolas huncionis del movi traduzías.
+Vemus de hazel lo delos andaluzis, que tienin tolas huncionis del movi traduzías.
+Avemus de hazel lo delos andaluzis, que tienin tolas huncionis del movi traduzías.
 Tengu esperencia nel assuntu, escreví la metá delas informacionis del tecrau n'estremeñu i so acostumbrau a trebajal con cincu luengas.
 Alas vezis me izin que so la carava.
 Alas vezis me izin que so la carava.
@@ -1493,12 +1633,12 @@ Oi está rasu, mañana quiciás qu'esté cobiertu de nuvis.
 Las mis palabras son comu las estrellas que nunca múan.
 Con qualquiera cosa que diga Seattle, el Mandón Grandi de Washington puei contal, tan ciertamenti comu cuenta cona güelta'l sol o las estacionis.
 El mandón brancu dizi que mos manda salúus d'amistá i güena voluntá.
-Es amabli, en supiendu nusotrus lo pocu que a trocu precisa dela nuestra amistá.
+Es amabli, en supiendu nusotrus lo pocu qu'a trocu precisa dela nuestra amistá.
 El puebru dél son muchus.
 Son comu la yerva que cubri plaeras vastas. 
 El mi puebru son poquinus.
 Se paecin alos arvus desseparaus nel chanu, barríus pola tormenta.
-Uvu una ves en que'l nuestru puebru acupó la tierra comu las olas duna mari abraviá pol vientu cubrin el suelu della con un ajorizau de conchas, peru essi tiempu muchu á que passó cola grandeza delas tribus que son agora namás que un recuerdu llorosu.
+Uvu una ves en que'l nuestru puebru acupó la tierra comu las olas duna mari abraviá pol vientu cubrin el suelu della con un ajorizau de conchas, peru essi tiempu muchu á que passó cola grandeza delas tribus que son agora namás qu'un recuerdu llorosu.
 No vo a recordal-mi ni tapocu alamental el nuestru escaimientu prematuru, ni vo a reprochal a mis ermanus el tenel la cara brancuzia i atontecía, pos musotrus tamién tuvimus algu de culpa.
 La mocedá es repegosa.
 Quandu los nuestrus moçus se ponin en venti uñas por algu de verdá o soñau i desfiguran el su jetu con pintura negra, da que los sus coraçonis se güelvin negrus i que son de continu cruelis, i los nuestrus viejus i viejas no sabin assujetá-lus.
@@ -1600,10 +1740,10 @@ La muchacha s’arrimó a un enxambri i vien abreá de tó.
 Agarró'l mandrión dela crassi i l’abreó a palus ata que vinun los maestrus.
 Ara l’abreças tú, que yo ya estoi cansá.
 Quandu los lobus quierin ajuntal-si escomiençan a abullal.
-Quándu echan el pograma essi en que aburacan el chanu ala mochichanga pa dessacal petroliu?
-Quándu echan el pograma essi en que aburacan el chanu ala mochichanga pa dessacal petroliu?
+Quándu echan el pograma essi en qu'aburacan el chanu ala mochichanga pa dessacal petroliu?
+Quándu echan el pograma essi en qu'aburacan el chanu ala mochichanga pa dessacal petroliu?
 Ome, peru presenta-ti primeru.
-Ai tiempu atopé una enteración que palrava de comu envernecel una lengua amenuía tenía güenus efeutus pala salú mental d'un puebru.
+Ai tiempu atopé una enteración que palrava de comu envernecel una lengua amenuía tenía güenus efeutus pala salú mental dun puebru.
 Mandu-ti-lu pa si quieris calavoral derechamenti nél.
 Tenís una impresa que vendi trigu millu.
 Tenís una impresa que vendi millu.
@@ -1642,8 +1782,8 @@ Yo creu que devi de sel cosa dela horma populal antiga.
 Creu qu'un gran estremeñu se hazi oi más grandi, hazi añus enque está alvellanau.
 Muchas felicidadis, gran amigu i collaçu, i salú pa tú vivil muchus añus más!
 Felís día, collaçu!
-Qué pocu me gusta essu d'aparecel de vítimas, creu que ala final es una manera de que se compadeçan de musotrus.
-En huendu verdá lo que izi, qu'una cosa no quita l'otra.
+Qué pocu me gusta essu d'aparecel de vítimas, creu qu'ala final es una manera de que se compadeçan de musotrus.
+En huendu verdá lo qu'izi, qu'una cosa no quita l'otra.
 Algu está a mual ena Nuversidá d'Estremaúra: pola primel ves, un inhormi s'espubrica enas tres lenguas dela Estremaúra: fala, estremeñu i portugués arrayanu.
 Una semanina más palramus n'estremeñu i d'esti viagi palramus del estremeñu.
 Velaquí la crónica de tolo que hizimus esta fin de semana a Caçris: chalras, protestas, huelgas...
@@ -1677,7 +1817,7 @@ Unas pocas más de lunas, unus pocus más d'iviernus i nengunu delos descendient
 Pui, por qué ei yo d'alamental-mi pol sinu prematuru del mi puebru? 
 Una tribu sigui a otra tribu i una nación sigui a otra, comu las olas dela mari. 
 Velaí, es l'ordin dela naturaleza i el lamentu pa ná vali. 
-El vuestru tiempu d'escaimientu puei que caiga largu, peru de juru que llegará, pos mesmu l'Ombri Brancu, cuyu dios andava i palrava con él comu un amigu a otru, no puei estal dessentu del sinu común. 
+El vuestru tiempu d'escaimientu puei que caiga largu, peru de juru que llegará, pos mesmu l'Ombri Brancu, cuyu dios andava i palrava con él comu'n amigu a otru, no puei estal dessentu del sinu común. 
 Musotrus quiciás que seamus ermanus, al fin i ala postri. 
 Ya lo vedremus.
 Arrehazi-ti pallá, que no coju nel bancu.
@@ -1704,7 +1844,7 @@ Mesmu las pieras, que paecin que no tienin conocimientu i están aburrías al so
 Los guerrerus qu'espenarun, las entrañablis mairis, las muchachas de coraçón alegri i mesmu los muchachinus que vivierun aquí i respingarun aquí por una temporá corta amarán esta soledá sombría i, al'anochecía, s'empelihincarán col'aparición delos espíritus escurus.
 I quandu l'últimu Ombri Roxu aiga desparecíu dela Tierra i el recuerdu dela mi tribu s'aiga güeltu un mitu entri l'Ombri Brancu, estas orillas estarán achiporrotás delos muertus envisiblis dela mi tribu; quandu los ijus delos vuestrus ijus se piensin qu'están solus nel campu, nel comerciu, enas tiendas, pola utopista o ena tranquilidá delos bosquis sin caminus, no estarán solus. 
 Ena tierra no á lugal dedicau ala soledá. 
-Ala nochi, quandu las callis delas vuestras cidais i puebrus estén en silenciu i penseis que están desiertas, averá un gentereu armau delos güespis que regressan i qu'antañu los enllenarun i qu'entovia aman la bunita tierra esta. 
+Ala nochi, quandu las callis delas vuestras cidais i puebrus estén en silenciu i penseis qu'están disiertas, averá un gentereu armau delos güespis que regressan i qu'antañu los enllenarun i qu'entovia aman la bunita tierra esta. 
 L'Ombri Brancu ena vida estará solu. 
 Amus a dexal que sea justu i dé un tratu aparenti al mi puebru, pos los muertus no están sin podencia.
 Cudiau con confial-mus qu'alogu izimus cosas que no son i equivocamus alos nuevus.
