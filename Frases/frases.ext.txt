@@ -10,6 +10,7 @@ FeedTV es possibli por mé de RSS Parser,M3U Parser, i al reponimientu de canali
 Entangá de Juanro49 baxu licencia Apache 2.0
 Tema del'apricación
 Gastal aparatu esternu
+Usal aparatu esternu
 Está gastandu un aparatu esternu pa sonal las canalis
 Está gastandu l'aparatu internu pa sonal las canalis
 Está usandu un aparatu esternu pa sonal las canalis
@@ -31,15 +32,20 @@ Quieri añidil el feed d'inhormacionis rezientis?
 Quiel añedil el feed d'inhormacionis rezientis?
 Quieri añedil el feed d'inhormacionis rezientis?
 Dámbulus dos campus son obrigaus
-Dambos los dos campus son obrigaus
+Dámbulus dos campus son obrigaus
 Dambus a dos campus son obrigaus
+Dámbulus dos campus sonin obrigaus
+Dámbulus dos campus sonin obrigaus
+Dambus a dos campus sonin obrigaus
 Huenti añidía conformi
 Huenti añedía conformi
 Huenti muá conformi
 Nombri dela huenti d'enteracionis
 Entra'l nombri i la seña del Feed RSS
 Atillus presenterus
+Atijus presenterus
 Mual huenti
+Qué quiel hazel?
 Qué quieri hazel?
 Huenti aborrá
 No s'apaparun endilgus
@@ -51,11 +57,15 @@ URL copiá al portapapelis
 Entra'l tema a siguil i el su origi
 Marcal si Google News no está disponibli nel su país
 Idioma assentá
-Vel en Github
+Vél en Github
 Uguañu es corrienti de poné'l provechu económicu i las muacionis tecnológicas porcima de tolas cosas, es lo que llamamus la idiología del pogressu.
 Ogañu es corrienti de poné'l provechu económicu i las muacionis tecnológicas porcima de tolas cosas, es lo que llamamus la idiología del pogressu.
 Uguañu es corrienti de poné'l provechu económicu i las muacionis tecnológicas por cima de tolas cosas, es lo que llamamus la idiología del pogressu.
 Ogañu es corrienti de poné'l provechu económicu i las muacionis tecnológicas por cima de tolas cosas, es lo que llamamus la idiología del pogressu.
+Uguañu es corrienti de ponel el provechu económicu i las muacionis tecnológicas porcima de tolas cosas, es lo que llamamus la idiología del pogressu.
+Ogañu es corrienti de ponel el provechu económicu i las muacionis tecnológicas porcima de tolas cosas, es lo que llamamus la idiología del pogressu.
+Uguañu es corrienti de ponel el provechu económicu i las muacionis tecnológicas por cima de tolas cosas, es lo que llamamus la idiología del pogressu.
+Ogañu es corrienti de ponel el provechu económicu i las muacionis tecnológicas por cima de tolas cosas, es lo que llamamus la idiología del pogressu.
 Esta postura coltural, basi del pensamientu uropeu delos siegrus caberus, tien síu una delas ideas huertis dela epoca en que vivimus.
 Esta postura coltural, basi del pensamientu uropeu delos sigrus caberus, tien síu una delas ideas huertis dela epoca en que vivimus.
 Esta postura coltural, basi del pensamientu uropeu delos siegrus caberus, tieni síu una delas ideas huertis dela epoca en que vivimus.
@@ -66,16 +76,34 @@ Por tiempu bastanti, el conceutu'l pogressu tien guiau la creceera delas cidais 
 Por tiempu bastanti, el concetu'l pogressu tien guiau la creceera delas cidais i metrópolis por tol mundu, la esparramancia delos valoris liberalis, l'apartu dela naturaleza, la sobreprodución endustrial, la perda delas colturas tradicionalis i una economía secostrá delos Estaus i sostribá ena moneda.
 Por tiempu bastanti, el conceutu'l pogressu tieni guiau la creceera delas cidais i metrópolis por tol mundu, la esparramancia delos valoris liberalis, l'apartu dela naturaleza, la sobreprodución endustrial, la perda delas colturas tradicionalis i una economía secostrá delos Estaus i sostribá ena moneda.
 Por tiempu bastanti, el concetu'l pogressu tieni guiau la creceera delas cidais i metrópolis por tol mundu, la esparramancia delos valoris liberalis, l'apartu dela naturaleza, la sobreprodución endustrial, la perda delas colturas tradicionalis i una economía secostrá delos Estaus i sostribá ena moneda.
-Añus i añus d'esti sistema mos tienin dau a muchus más añus de vida, quartus de bañu i papel del culu... peru a trocu dellu tenemus perdía la cenzillés, no sabemus lavoral comu la genti de patrás ni avalel-mus al monti, tenemus apreparaus desequilibrus gravis ena naturaleza, tenemus condenaus millonis ala probitú i la hambri, i la huerça delas almas vivin barajás dunus pocus de desalmaus.
+Añus i añus d'esti sistema mos tienin dau a muchus más añus de vida, quartus de bañu i papel del culu... peru a trocu dellu tenemus perdía la cenzillés, no sabemus lavoral comu la genti de patrás ni avalel-mus al monti, tenemus apreparaus desequilibrus gravis ena naturaleza, tenemus condenau millonis ala probitú i la hambri, i la huerça delas almas vivin barajás dunus pocus de desalmaus.
 L'amol al dineru es tan grandi que hondeó con tolo más.
 La Libertá a guiá'l puebru, d'Eugène Delacroix.
+La Libertá a guial el puebru, d'Eugène Delacroix.
 La Libertá guiandu'l puebru, d'Eugène Delacroix.
 La dama dela Repúbrica, diosa del Estau liberal francés, llama alas gentis ala guerra.
 Dendi l'estremeñeríu mordajustu, liberal o social-demócrata, se palra dela emportancia de tenel güenas comunicacionis i sel escapás de competir con economías más huertis... no semus intolerantis de tó cona postura esta porque paici la más lógica, peru... acasu mos tenemus pensau seriamenti lo que ganamus con ellu?
+Dendi l'estremeñeríu mordajustu, liberal o social-demócrata, se habra dela emportancia de tenel güenas comunicacionis i sel escapás de competir con economías más huertis... no semus intolerantis de tó cona postura esta porque paici la más lógica, peru... acasu mos tenemus pensau seriamenti lo que ganamus con ellu?
+Dendi l'estremeñeríu mordajustu, liberal o social-demócrata, se palra dela emportancia de tenel güenas comunicacionis i sel escapás de competir con economías más huertis... no semus intolerantis de tó cola postura esta porque paici la más lógica, peru... acasu mos tenemus pensau seriamenti lo que ganamus con ellu?
+Dendi l'estremeñeríu mordajustu, liberal o social-demócrata, se habra dela emportancia de tenel güenas comunicacionis i sel escapás de competir con economías más huertis... no semus intolerantis de tó cola postura esta porque paici la más lógica, peru... acasu mos tenemus pensau seriamenti lo que ganamus con ellu?
+Dendi l'estremeñeríu mordajustu, liberal o social-demócrata, se palra dela emportancia de tenel güenas comunicacionis i sel escapás de competir con economías más huertis... no semus intolerantis de tó cona postura esta porque paés la más lógica, peru... acasu mos tenemus pensau seriamenti lo que ganamus con ellu?
+Dendi l'estremeñeríu mordajustu, liberal o social-demócrata, se habra dela emportancia de tenel güenas comunicacionis i sel escapás de competir con economías más huertis... no semus intolerantis de tó cona postura esta porque paés la más lógica, peru... acasu mos tenemus pensau seriamenti lo que ganamus con ellu?
+Dendi l'estremeñeríu mordajustu, liberal o social-demócrata, se palra dela emportancia de tenel güenas comunicacionis i sel escapás de competir con economías más huertis... no semus intolerantis de tó cola postura esta porque paés la más lógica, peru... acasu mos tenemus pensau seriamenti lo que ganamus con ellu?
+Dendi l'estremeñeríu mordajustu, liberal o social-demócrata, se habra dela emportancia de tenel güenas comunicacionis i sel escapás de competir con economías más huertis... no semus intolerantis de tó cola postura esta porque paés la más lógica, peru... acasu mos tenemus pensau seriamenti lo que ganamus con ellu?
 Amus a habral cona verdá: Estremaúra es la güerta d'Uropa i el sinu palas vacancias delas capas meyas delas cidais españolas i —de ca ves más— uropeas.
 Amus a palral cona verdá: Estremaúra es la güerta d'Uropa i el sinu palas vacancias delas capas meyas delas cidais españolas i —de ca ves más— uropeas.
+Amus a habral coLa verdá: Estremaúra es la güerta d'Uropa i el sinu palas vacancias delas capas meyas delas cidais españolas i —de ca ves más— uropeas.
+Amus a palral coLa verdá: Estremaúra es la güerta d'Uropa i el sinu palas vacancias delas capas meyas delas cidais españolas i —de ca ves más— uropeas.
+Amus a habral cona verdá: Estremaúra es la güerta d'Uropa i el sinu palas vacancias delas capas medias delas cidais españolas i —de ca ves más— uropeas.
+Amus a palral cona verdá: Estremaúra es la güerta d'Uropa i el sinu palas vacancias delas capas medias delas cidais españolas i —de ca ves más— uropeas.
+Amus a habral coLa verdá: Estremaúra es la güerta d'Uropa i el sinu palas vacancias delas capas medias delas cidais españolas i —de ca ves más— uropeas.
+Amus a palral coLa verdá: Estremaúra es la güerta d'Uropa i el sinu palas vacancias delas capas medias delas cidais españolas i —de ca ves más— uropeas.
 Nel engranagi'l capitalismu mundial, i mesmu nel muestru Estau, semus ciadanus de segunda o tercel categoría: un territoriu endedicau ala produción de materias primas i energía palas capitalis d'ahuera.
-Estu velaquí no vai a mual por tenel más trén o más aropuertus, namás valdría p'acomoal i agraval la sitación de soyugamientu en que vivimus.
+Nel engranagi'l capitalismu mundial, i mesmu nel nuestru Estau, semus ciadanus de segunda o tercel categoría: un territoriu endedicau ala produción de materias primas i energía palas capitalis d'ahuera.
+Estu velaquí no vai a mual por tenel más trén o más aropuertus, namas valdría p'acomoal i agraval la sitación de soyugamientu en que vivimus.
+Estu velaquí no vá a mual por tenel más trén o más aropuertus, namas valdría p'acomoal i agraval la sitación de soyugamientu en que vivimus.
+Estu velaquí no vai a mual por tenel más trén o más aropuertus, namas valdría p'acomoal i agraval la sitación de soyugamientu en que vevimus.
+Estu velaquí no vá a mual por tenel más trén o más aropuertus, namas valdría p'acomoal i agraval la sitación de soyugamientu en que vevimus.
 Estremaúra produzi energía pal gastaeru de Madril.
 El centru urbanu de Castilla insuelvi la produción del antigu Reinu de León.
 Que la muestra tierra es una colonia ya lo dúan pocus estremeñus.
@@ -84,7 +112,9 @@ No senefica essu que l'abrición delas fronteras no mos hizu tantu bien comu mos
 No sedrá que mos tienin engañaus i que semus los perdeoris dela globalización?
 Pontoci... paqué tantu tren?
 Paqué tantu turismu quandu'l puebru no tien tierras ni Estremaúra tien un tecíu produtivu espigau?
+Paqué tantu turismu quandu'l puebru no tieni tierras ni Estremaúra tien un tecíu produtivu espigau?
 En momentus de precisa comu esti l'arreparamus.
+En momentus de precisa cumu esti l'arreparamus.
 El foturu imediatu paici que tira más pal acotamientu i los fechis de frontera que no pal'abrición delas sociedais o la espigaera dun solu polu giopolíticu.
 El foturu imediatu paés que tira más pal acotamientu i los fechis de frontera que no pal'abrición delas sociedais o la espigaera dun solu polu giopolíticu.
 El hoturu imediatu paici que tira más pal acotamientu i los fechis de frontera que no pal'abrición delas sociedais o la espigaera dun solu polu giopolíticu.
@@ -92,29 +122,69 @@ El hoturu imediatu paés que tira más pal acotamientu i los fechis de frontera 
 Crisi ambiental: ríu Guadiana tupíu calamoti, una pranta tropical qu'adorna las peceras delas casas.
 L'andanciu del corona-viru es la calma enantis dela tormenta.
 Las enteracionis que mos dierun a tentu dela infeción paici que son incompretas, en piyendu recada muchus científicus por no sabel-si entavía ni la huenti ni l'antigüedá dela malura.
-Seya comu hueri, la campaña entrenacional de segureza arreol del viru aprepara una trashormación dela conomía mundial en que la soberanía vai a tenel una emportancia muchu más grandi que no daquí patrás.
+Las enteracionis que mos dierun a tentu dela infeción paici que son incompretas, en piyendu recada muchus científicus por no sabel-si entavía ni la huenti ni l'antigüedá dela malatía.
+Las enteracionis que mos dierun a tentu dela infeción paici que son incompretas, en piyendu recada muchus científicus por no sabel-si entovía ni la huenti ni l'antigüedá dela malotía.
+Las enteracionis que mos dierun a tentu dela infeción paici que son incompretas, en piyendu recada muchus científicus por no sabel-si entovía ni la huenti ni l'antigüedá dela malura.
+Las enteracionis que mos dierun a tentu dela infeción paici que son incompretas, en piyendu recada muchus científicus por no sabel-si entovía ni la huenti ni l'antigüedá dela malatía.
+Las enteracionis que mos dierun a tentu dela infeción paici que son incompretas, en piyendu recada muchus científicus por no sabel-si entovía ni la huenti ni l'antigüedá dela malotía.
 Sea comu hueri, la campaña entrenacional de segureza arreol del viru aprepara una trashormación dela conomía mundial en que la soberanía vai a tenel una emportancia muchu más grandi que no daquí patrás.
+Sea cumu hueri, la campaña entrenacional de segureza arreol del viru aprepara una trashormación dela conomía mundial en que la soberanía vai a tenel una emportancia muchu más grandi que no daquí patrás.
+Sea comu hueri, la campaña entrenacional de segureza alreol del viru aprepara una trashormación dela conomía mundial en que la soberanía vai a tenel una emportancia muchu más grandi que no daquí patrás.
+Sea cumu hueri, la campaña entrenacional de segureza alreol del viru aprepara una trashormación dela conomía mundial en que la soberanía vai a tenel una emportancia muchu más grandi que no daquí patrás.
+Sea comu hueri, la campaña entrenacional de segureza arreol del viru aprepara una trashormación dela conomía mundial en que la soberanía vá a tenel una emportancia muchu más grandi que no daquí patrás.
+Sea cumu hueri, la campaña entrenacional de segureza arreol del viru aprepara una trashormación dela conomía mundial en que la soberanía vá a tenel una emportancia muchu más grandi que no daquí patrás.
+Sea comu hueri, la campaña entrenacional de segureza alreol del viru aprepara una trashormación dela conomía mundial en que la soberanía vá a tenel una emportancia muchu más grandi que no daquí patrás.
+Sea cumu hueri, la campaña entrenacional de segureza alreol del viru aprepara una trashormación dela conomía mundial en que la soberanía vá a tenel una emportancia muchu más grandi que no daquí patrás.
 Las quarentenas s'usan tamién p'arrejuntal poel i pala piara no desmandal-si.
 La globalización ya no da pa más, i la conomía global vá a dal passu a mercaus continentalis más huertis i más baqueus entrenacionalis.
 La globalización ya no da pa más, i la economía global vá a dal passu a mercaus continentalis más huertis i más baqueus entrenacionalis.
+La globalización ya no da pa más, i la conomía global vai a dal passu a mercaus continentalis más huertis i más baqueus entrenacionalis.
+La globalización ya no da pa más, i la economía global vai a dal passu a mercaus continentalis más huertis i más baqueus entrenacionalis.
 Los luchis pola soberanía i las riñas de poel entri goviernus mundialis, estatalis i regionalis sedrán corrientis.
 Devemus de tenel calma, sí, peru tamién devemus de comprendel que las cosas ya no vain a sel comu eran.
+Devemus de tenel calma, sí, peru tamién devemus de comprendel que las cosas ya no ván a sel comu eran.
+Devemus de tenel calma, sí, peru tamién devemus de comprendel que las cosas ya no vain a sel cumu eran.
+Devemus de tenel calma, sí, peru tamién devemus de comprendel que las cosas ya no ván a sel cumu eran.
 Tenemus de lucheal polo muestru.
+Tenemus de lucheal polo nuestru.
+Tenemus que lucheal polo muestru.
+Tenemus que lucheal polo nuestru.
+Avemus de lucheal polo muestru.
+Avemus de lucheal polo nuestru.
 El Broncu es unu d'estus puebrus qu'están assentaus nun sitiu de passu i, comu es de passu, naidi lo echa en cuenta.
 Diendu pa Villanueva o pa Mueda, l'atraviessas ligeru, comu si aquellu hueran quatru casinas.
 La verdá es qu'esti puebru está nun cruzi de caminus (pa Santa Crus, pa Cerezu, pa Palomberu, pa Santivañis, pala Higal, pa Villanueva...), arroeau de dos regatus (El Riscu, Moñina) i la rivera del Broncu, que le da nombri.
 Tó essu no s'aprecia pal que vai pola carretera, peru antañu, quandu no queavan más meyus que dil a peoncia alos sitius, esti puebrinu sí salía enos mapas.
+Tou essu no s'aprecia pal que vai pola carretera, peru antañu, quandu no queavan más meyus que dil a peoncia alos sitius, esti puebrinu sí salía enos mapas.
+Tó essu no s'aprecia pal que vá pola carretera, peru antañu, quandu no queavan más meyus que dil a peoncia alos sitius, esti puebrinu sí salía enos mapas.
+Tou essu no s'aprecia pal que vá pola carretera, peru antañu, quandu no queavan más meyus que dil a peoncia alos sitius, esti puebrinu sí salía enos mapas.
 De hechu, hue monicipiu, ata que dispués passó pa Santa Crus comu una alquería.
+De hechu, hue monicipiu, ata que dispués passó pa Santa Crus cumu una alquería.
+De hechu, hue monicipiu, hata que dispués passó pa Santa Crus comu una alquería.
+De hechu, hue monicipiu, hata que dispués passó pa Santa Crus cumu una alquería.
 Letreru formi se vien de Villanueva.
 Letreru formi se vieni de Villanueva.
 Ogañu es un puebrinu atravessau dela carretera, entre olivus, enzinaris, ondi s'estila el cavalleu i el ovejeu, pa fachenda i pa quesus.
 Angunas casinas nuevas se vén obrandu, quiciá delos ijus i nietus delos bronqueñus que vivían aí.
+Algunas casinas nuevas se vén obrandu, quiciá delos ijus i nietus delos bronqueñus que vivían aí.
+Angunas casinas nuevas se vén obrandu, quiciás delos ijus i nietus delos bronqueñus que vivían aí.
+Algunas casinas nuevas se vén obrandu, quiciás delos ijus i nietus delos bronqueñus que vivían aí.
+Angunas casinas nuevas se vein obrandu, quiciá delos ijus i nietus delos bronqueñus que vivían aí.
+Algunas casinas nuevas se vein obrandu, quiciá delos ijus i nietus delos bronqueñus que vivían aí.
+Angunas casinas nuevas se vein obrandu, quiciás delos ijus i nietus delos bronqueñus que vivían aí.
+Algunas casinas nuevas se vein obrandu, quiciás delos ijus i nietus delos bronqueñus que vivían aí.
 El lugal del Broncu ampié dela rivera omónima palos añus 40-50, ena retrataúra del Vuelu Almericanu.
 El caseríu d'agora está retificau i pocas casas quean cona hechura delas casas del siegru XVIII o XIX, conas toças i las ombreras de granu, los bastioris delas ventanas lo mesmu i las poyatas delas ventanas.
+El caseríu d'agora está retificau i pocas casas quean cona hechura delas casas del sigru XVIII o XIX, conas toças i las ombreras de granu, los bastioris delas ventanas lo mesmu i las poyatas delas ventanas.
+El caseríu d'agora está retificau i pocas casas quean cola hechura delas casas del siegru XVIII o XIX, colas toças i las ombreras de granu, los bastioris delas ventanas lo mesmu i las poyatas delas ventanas.
+El caseríu d'agora está retificau i pocas casas quean cola hechura delas casas del sigru XVIII o XIX, colas toças i las ombreras de granu, los bastioris delas ventanas lo mesmu i las poyatas delas ventanas.
 Las callis siguin el destraci antiguu de ponienti a salienti, abocás al norti, formi el recuéncanu dela rivera.
-Quasi que no se aprecian costrucionis nuevas comu otrus puebrus que s'enancharun... quiciá porque esti puebrinu no cai cerca de capital nenguna i porque la genti hue ahuyendu col ajorraeru delos añus.
-Los nombris delas callis, desquitando "Cervantes" y "Colón", que son los únicus antropónimus, los demás mientan del sitiu, o sea-si, conselvan los nombris antiguus acastillanaus: Real, Meyu, Sol, Fragua, Praçuela...
+Quasi que no s'aprecian costrucionis nuevas comu otrus puebrus que s'enancharun... quiciá porque esti puebrinu no cai cerca de capital nenguna i porque la genti hue ahuyendu col ajorraeru delos añus.
+Quasi que no s'aprecian costrucionis nuevas cumu otrus puebrus que s'enancharun... quiciá porque esti puebrinu no cai cerca de capital nenguna i porque la genti hue ahuyendu col ajorraeru delos añus.
+Los nombris delas callis, desquitando "Cervantes" y "Colón", que son los únicus antropónimus, los demás mientan del sitiu, o sea-si, conselvan los nombris antigus acastillanaus: Real, Meyu, Sol, Fragua, Praçuela...
 Esti es velaquí el reportagi en retratus qu'amus hechu a esti puebru delas tierras dela Graná antiga, qu'ogañu malaspenas cogi los 43 abitantis.
+Esti es velaquí el reportagi en retratus qu'avemus hechu a esti puebru delas tierras dela Graná antiga, qu'ogañu malaspenas cogi los 43 abitantis.
+Esti es velaquí el reportagi en retratus que vemus hechu a esti puebru delas tierras dela Graná antiga, qu'ogañu malaspenas cogi los 43 abitantis.
 Cara enxavelgá ena Praça.
 Gatu nuna paré dela Praça.
 Bancus dela Praça entre plataneras i periquitus.
