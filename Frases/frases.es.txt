@@ -10,6 +10,7 @@ FeedTV es posible gracias a RSS Parser, M3U Parser, al repositorio de canales de
 Creada por Juanro49 bajo licencia Apache 2.0
 Tema de la aplicación
 Utilizar reproductor externo
+Utilizar reproductor externo
 Está usando un reproductor externo para reproducir los canales
 Está usando el reproductor interno para reproducir los canales
 Está usando un reproductor externo para reproducir los canales
@@ -30,6 +31,9 @@ No tiene feeds añadidos
 ¿Desea añadir el feed de noticias recientes?
 ¿Desea añadir el feed de noticias recientes?
 ¿Desea añadir el feed de noticias recientes?
+Ambos campos son obligatorios
+Ambos campos son obligatorios
+Ambos campos son obligatorios
 Ambos campos son obligatorios
 Ambos campos son obligatorios
 Ambos campos son obligatorios
@@ -39,7 +43,9 @@ Fuente modificada correctamente
 Nombre de la fuente de noticias
 Introduce el nombre y la dirección del Feed RSS
 Enlaces disponibles
+Enlaces disponibles
 Modificar fuente
+¿Qué acción desea realizar?
 ¿Qué acción desea realizar?
 Fuente eliminada
 No se han obtenido artículos
@@ -52,6 +58,10 @@ Introduce el tema a seguir y su origen
 Marcar si Google News no está disponible en su país
 Idioma establecido
 Ver en Github
+Hoy en día es habitual poner el beneficio económico y los cambios tecnológico por encima de todo, es lo que llamamos la ideología del pogreso.
+Hoy en día es habitual poner el beneficio económico y los cambios tecnológico por encima de todo, es lo que llamamos la ideología del pogreso.
+Hoy en día es habitual poner el beneficio económico y los cambios tecnológico por encima de todo, es lo que llamamos la ideología del pogreso.
+Hoy en día es habitual poner el beneficio económico y los cambios tecnológico por encima de todo, es lo que llamamos la ideología del pogreso.
 Hoy en día es habitual poner el beneficio económico y los cambios tecnológico por encima de todo, es lo que llamamos la ideología del pogreso.
 Hoy en día es habitual poner el beneficio económico y los cambios tecnológico por encima de todo, es lo que llamamos la ideología del pogreso.
 Hoy en día es habitual poner el beneficio económico y los cambios tecnológico por encima de todo, es lo que llamamos la ideología del pogreso.
@@ -70,11 +80,29 @@ Tras muchos años, este sistema nos ha dado a muchos más años de vida, cuartos
 El amor por el dinero es tan grande que ha arrasado con todo lo demás.
 La Libertad guiando al pueblo, d'Eugène Delacroix.
 La Libertad guiando al pueblo, d'Eugène Delacroix.
+La Libertad guiando al pueblo, d'Eugène Delacroix.
 La dama dela República, diosa del Estado liberal francés, llama a las masas a la guerra.
+Desde el extremeñismo hipócrita, liberal o socialdemócrata, se habla de la importancia de tener buenas comunicaciones y ser capaces de competir con economías más fuertes... no somos del todo intolerantes con esta postura porque parece la más lógica, pero... ¿acaso hemos pensado seriamente lo que ganamos con ello?
+Desde el extremeñismo hipócrita, liberal o socialdemócrata, se habla de la importancia de tener buenas comunicaciones y ser capaces de competir con economías más fuertes... no somos del todo intolerantes con esta postura porque parece la más lógica, pero... ¿acaso hemos pensado seriamente lo que ganamos con ello?
+Desde el extremeñismo hipócrita, liberal o socialdemócrata, se habla de la importancia de tener buenas comunicaciones y ser capaces de competir con economías más fuertes... no somos del todo intolerantes con esta postura porque parece la más lógica, pero... ¿acaso hemos pensado seriamente lo que ganamos con ello?
+Desde el extremeñismo hipócrita, liberal o socialdemócrata, se habla de la importancia de tener buenas comunicaciones y ser capaces de competir con economías más fuertes... no somos del todo intolerantes con esta postura porque parece la más lógica, pero... ¿acaso hemos pensado seriamente lo que ganamos con ello?
+Desde el extremeñismo hipócrita, liberal o socialdemócrata, se habla de la importancia de tener buenas comunicaciones y ser capaces de competir con economías más fuertes... no somos del todo intolerantes con esta postura porque parece la más lógica, pero... ¿acaso hemos pensado seriamente lo que ganamos con ello?
+Desde el extremeñismo hipócrita, liberal o socialdemócrata, se habla de la importancia de tener buenas comunicaciones y ser capaces de competir con economías más fuertes... no somos del todo intolerantes con esta postura porque parece la más lógica, pero... ¿acaso hemos pensado seriamente lo que ganamos con ello?
+Desde el extremeñismo hipócrita, liberal o socialdemócrata, se habla de la importancia de tener buenas comunicaciones y ser capaces de competir con economías más fuertes... no somos del todo intolerantes con esta postura porque parece la más lógica, pero... ¿acaso hemos pensado seriamente lo que ganamos con ello?
 Desde el extremeñismo hipócrita, liberal o socialdemócrata, se habla de la importancia de tener buenas comunicaciones y ser capaces de competir con economías más fuertes... no somos del todo intolerantes con esta postura porque parece la más lógica, pero... ¿acaso hemos pensado seriamente lo que ganamos con ello?
 Seamos sinceros: Extremadura es la huerta de Europa y el destino vacacional de las clases medias de las ciudades españolas y —cada vez más— europeas.
 Seamos sinceros: Extremadura es la huerta de Europa y el destino vacacional de las clases medias de las ciudades españolas y —cada vez más— europeas.
+Seamos sinceros: Extremadura es la huerta de Europa y el destino vacacional de las clases medias de las ciudades españolas y —cada vez más— europeas.
+Seamos sinceros: Extremadura es la huerta de Europa y el destino vacacional de las clases medias de las ciudades españolas y —cada vez más— europeas.
+Seamos sinceros: Extremadura es la huerta de Europa y el destino vacacional de las clases medias de las ciudades españolas y —cada vez más— europeas.
+Seamos sinceros: Extremadura es la huerta de Europa y el destino vacacional de las clases medias de las ciudades españolas y —cada vez más— europeas.
+Seamos sinceros: Extremadura es la huerta de Europa y el destino vacacional de las clases medias de las ciudades españolas y —cada vez más— europeas.
+Seamos sinceros: Extremadura es la huerta de Europa y el destino vacacional de las clases medias de las ciudades españolas y —cada vez más— europeas.
 En el engranaje del capitalismo mundial, e incluso en nuestro Estado, somos ciudadanos de segunda o tercera categoría: un territorio destinado a la producción de materias primas y energía para las capitales de fuera.
+En el engranaje del capitalismo mundial, e incluso en nuestro Estado, somos ciudadanos de segunda o tercera categoría: un territorio destinado a la producción de materias primas y energía para las capitales de fuera.
+Esto no va a cambiar porque tengamos más trenes o más aeropuertos, sólo serviría para acomodar y agravar la situación de subyugación en la que vivimos.
+Esto no va a cambiar porque tengamos más trenes o más aeropuertos, sólo serviría para acomodar y agravar la situación de subyugación en la que vivimos.
+Esto no va a cambiar porque tengamos más trenes o más aeropuertos, sólo serviría para acomodar y agravar la situación de subyugación en la que vivimos.
 Esto no va a cambiar porque tengamos más trenes o más aeropuertos, sólo serviría para acomodar y agravar la situación de subyugación en la que vivimos.
 Extremadura produce energía para el consumo de Madrid.
 El centro urbano de Castilla absorbe la producción del antiguo Reino de León.
@@ -84,6 +112,8 @@ Y es que al pueblo extremeño la globalización, más que ganancias, nos ha tra�
 ¿No será que nos tienen engañados y que somos los perdedores de la globalización?
 Pues entoces... ¿para qué tanto tren?
 ¿Para qué tanto turismo cuando el pueblo no tiene tierras ni Extremadura tiene un tejido productivo desarrollado?
+¿Para qué tanto turismo cuando el pueblo no tiene tierras ni Extremadura tiene un tejido productivo desarrollado?
+En momentos de necesidad como este nos damos cuenta.
 En momentos de necesidad como este nos damos cuenta.
 El futuro immediato parece que se dirige más hacia el proteccionismo y los cierres fronterizos que hacia la apertura de las sociedades o el desarrollo de un único polo geopolítico.
 El futuro immediato parece que se dirige más hacia el proteccionismo y los cierres fronterizos que hacia la apertura de las sociedades o el desarrollo de un único polo geopolítico.
@@ -92,28 +122,68 @@ El futuro immediato parece que se dirige más hacia el proteccionismo y los cier
 Crisis ambiental: río Guadiana repleto de camalote, una planta tropical que adorna las peceras de las casas.
 La epidemia del coronavirus es la calma antes de la tormenta.
 Las noticias que nos han dado sobre la infección parece que son incompletas, pidiendo cautela muchos científicos por no conocerse todavía ni la fuente ni la antigüedad de la enfermedad.
+Las noticias que nos han dado sobre la infección parece que son incompletas, pidiendo cautela muchos científicos por no conocerse todavía ni la fuente ni la antigüedad de la enfermedad.
+Las noticias que nos han dado sobre la infección parece que son incompletas, pidiendo cautela muchos científicos por no conocerse todavía ni la fuente ni la antigüedad de la enfermedad.
+Las noticias que nos han dado sobre la infección parece que son incompletas, pidiendo cautela muchos científicos por no conocerse todavía ni la fuente ni la antigüedad de la enfermedad.
+Las noticias que nos han dado sobre la infección parece que son incompletas, pidiendo cautela muchos científicos por no conocerse todavía ni la fuente ni la antigüedad de la enfermedad.
+Las noticias que nos han dado sobre la infección parece que son incompletas, pidiendo cautela muchos científicos por no conocerse todavía ni la fuente ni la antigüedad de la enfermedad.
+Sea como fuere, la campaña internacional de seguridad alrededor del virus predispone una transformación de la economía mundial en la que la soberanía va a tener una importancia mucho más grande que la que ha tenido hasta ahora.
+Sea como fuere, la campaña internacional de seguridad alrededor del virus predispone una transformación de la economía mundial en la que la soberanía va a tener una importancia mucho más grande que la que ha tenido hasta ahora.
+Sea como fuere, la campaña internacional de seguridad alrededor del virus predispone una transformación de la economía mundial en la que la soberanía va a tener una importancia mucho más grande que la que ha tenido hasta ahora.
+Sea como fuere, la campaña internacional de seguridad alrededor del virus predispone una transformación de la economía mundial en la que la soberanía va a tener una importancia mucho más grande que la que ha tenido hasta ahora.
+Sea como fuere, la campaña internacional de seguridad alrededor del virus predispone una transformación de la economía mundial en la que la soberanía va a tener una importancia mucho más grande que la que ha tenido hasta ahora.
+Sea como fuere, la campaña internacional de seguridad alrededor del virus predispone una transformación de la economía mundial en la que la soberanía va a tener una importancia mucho más grande que la que ha tenido hasta ahora.
 Sea como fuere, la campaña internacional de seguridad alrededor del virus predispone una transformación de la economía mundial en la que la soberanía va a tener una importancia mucho más grande que la que ha tenido hasta ahora.
 Sea como fuere, la campaña internacional de seguridad alrededor del virus predispone una transformación de la economía mundial en la que la soberanía va a tener una importancia mucho más grande que la que ha tenido hasta ahora.
 Las cuarentenas se usan también para concentrar poder y para que el rebaño no se descontrole.
 La globalización ya no da para más y la economía global va a dar paso a mercados continentales más fuertes y más conflictos internacionales.
 La globalización ya no da para más y la economía global va a dar paso a mercados continentales más fuertes y más conflictos internacionales.
+La globalización ya no da para más y la economía global va a dar paso a mercados continentales más fuertes y más conflictos internacionales.
+La globalización ya no da para más y la economía global va a dar paso a mercados continentales más fuertes y más conflictos internacionales.
 Las luchas por la soberanía y las riñas de poder entre gobiernos mundiales, estatales y regionales serán frecuentes.
 Debemos tener calma, sí, pero también debemos comprender que las cosas ya no van a ser como eran.
+Debemos tener calma, sí, pero también debemos comprender que las cosas ya no van a ser como eran.
+Debemos tener calma, sí, pero también debemos comprender que las cosas ya no van a ser como eran.
+Debemos tener calma, sí, pero también debemos comprender que las cosas ya no van a ser como eran.
+Tenemos que luchar por lo nuestro.
+Tenemos que luchar por lo nuestro.
+Tenemos que luchar por lo nuestro.
+Tenemos que luchar por lo nuestro.
+Tenemos que luchar por lo nuestro.
 Tenemos que luchar por lo nuestro.
 El Bronco es uno de estos pueblos que están asentados en un sitio de paso y, como es de paso, nadie lo tiene en cuenta.
 Yendo hacia Villanueva o hacia Moheda, lo atraviesas rápido, como si aquello fueran cuatro casitas.
 La verdad es que este pueblo está en un cruce de caminos (para Santa Cruz, para Cerezo, para Palomero, para Santibáñez, para La Higal, para Villanueva...), rodeado por dos arroyos (El Risco, Moñina) y la ribera del Bronco, que le da nombre.
 Todo eso no lo aprecia quien va por la carretera, pero antiguamente, cuando no quedaban más medios que ir a pie a los sitios, este pueblecito sí salía en los mapas.
+Todo eso no lo aprecia quien va por la carretera, pero antiguamente, cuando no quedaban más medios que ir a pie a los sitios, este pueblecito sí salía en los mapas.
+Todo eso no lo aprecia quien va por la carretera, pero antiguamente, cuando no quedaban más medios que ir a pie a los sitios, este pueblecito sí salía en los mapas.
+Todo eso no lo aprecia quien va por la carretera, pero antiguamente, cuando no quedaban más medios que ir a pie a los sitios, este pueblecito sí salía en los mapas.
+De hecho, fue municipio, hasta que después pasó a Santa Cruz como una alquería.
+De hecho, fue municipio, hasta que después pasó a Santa Cruz como una alquería.
+De hecho, fue municipio, hasta que después pasó a Santa Cruz como una alquería.
 De hecho, fue municipio, hasta que después pasó a Santa Cruz como una alquería.
 Letrero según se viene de Villanueva.
 Letrero según se viene de Villanueva.
 Actualmente es un pueblecito atravesado por la carretera, entre olivos, encinares, donde están de moda los caballos y el pastoreo de ovejas, para fachenda y para quesos.
 Algunas casitas nuevas se ven en obras, quizás de los hijos y nietos de los bronqueños que vivían ahí.
+Algunas casitas nuevas se ven en obras, quizás de los hijos y nietos de los bronqueños que vivían ahí.
+Algunas casitas nuevas se ven en obras, quizás de los hijos y nietos de los bronqueños que vivían ahí.
+Algunas casitas nuevas se ven en obras, quizás de los hijos y nietos de los bronqueños que vivían ahí.
+Algunas casitas nuevas se ven en obras, quizás de los hijos y nietos de los bronqueños que vivían ahí.
+Algunas casitas nuevas se ven en obras, quizás de los hijos y nietos de los bronqueños que vivían ahí.
+Algunas casitas nuevas se ven en obras, quizás de los hijos y nietos de los bronqueños que vivían ahí.
+Algunas casitas nuevas se ven en obras, quizás de los hijos y nietos de los bronqueños que vivían ahí.
 El lugar del Bronco a orillas de la ribera homónima hacia los años 40-50, en la foto del Vuelo Americano.
+El caserío de ahora está rectificado y pocas casas quedan con la hechura de las casas del siglo XVIII o XIX, con los dinteles y las jambas graníticos, los marcos de las ventanas lo mismo y las alpoyatas de las ventanas.
+El caserío de ahora está rectificado y pocas casas quedan con la hechura de las casas del siglo XVIII o XIX, con los dinteles y las jambas graníticos, los marcos de las ventanas lo mismo y las alpoyatas de las ventanas.
+El caserío de ahora está rectificado y pocas casas quedan con la hechura de las casas del siglo XVIII o XIX, con los dinteles y las jambas graníticos, los marcos de las ventanas lo mismo y las alpoyatas de las ventanas.
 El caserío de ahora está rectificado y pocas casas quedan con la hechura de las casas del siglo XVIII o XIX, con los dinteles y las jambas graníticos, los marcos de las ventanas lo mismo y las alpoyatas de las ventanas.
 Las calles siguen el trazo antiguo de oeste a este, abocadas al norte, según el recodo de la ribera.
 Casi no se aprecian construcciones nuevas como en otros pueblos que se ensancharon... tal vez porque este pueblecito no cae cerca de ninguna capital y porque la gente fue emigrando con el paso de los años.
+Casi no se aprecian construcciones nuevas como en otros pueblos que se ensancharon... tal vez porque este pueblecito no cae cerca de ninguna capital y porque la gente fue emigrando con el paso de los años.
 Los nombres de las calles, salvo "Cervantes" y "Colón", que son los únicos antropónimos, los demás hacien referencia al lugar, es decir, conservan los nombres antiguos castellanizados: Real, Medio, Sol, Fragua, Plazuela...
+Este es el reportaje en fotografías que hemos hecho en este pueblo de las tierras de la Granada antigua, que en la actualidad a duras penas alcanza los 43 habitantes.
+Este es el reportaje en fotografías que hemos hecho en este pueblo de las tierras de la Granada antigua, que en la actualidad a duras penas alcanza los 43 habitantes.
 Este es el reportaje en fotografías que hemos hecho en este pueblo de las tierras de la Granada antigua, que en la actualidad a duras penas alcanza los 43 habitantes.
 Cara enjalbegada en la Plaza.
 Gato en una pared de la Plaza.
