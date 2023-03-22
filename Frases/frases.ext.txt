@@ -1,4 +1,5 @@
 Añidil Feed
+Añedil Feed
 Vel TV
 Vel arradiu
 TV libris
@@ -167,6 +168,8 @@ Tenemus que lucheal polo muestru.
 Tenemus que lucheal polo nuestru.
 Avemus de lucheal polo muestru.
 Avemus de lucheal polo nuestru.
+Vemus de lucheal polo muestru.
+Vemus de lucheal polo nuestru.
 El Broncu es unu d'estus puebrus qu'están assentaus nun sitiu de passu i, comu es de passu, naidi lo echa en cuenta.
 Diendu pa Villanueva o pa Mueda, l'atraviessas ligeru, comu si aquellu hueran quatru casinas.
 La verdá es qu'esti puebru está nun cruzi de caminus (pa Santa Crus, pa Cerezu, pa Palomberu, pa Santivañis, pala Higal, pa Villanueva...), arroeau de dos regatus (El Riscu, Moñina) i la rivera del Broncu, que le da nombri.
@@ -3773,3 +3776,75 @@ Mi madri llama-si Ugeña.
 Tengu ventissieti añus.
 Eris mu altu.
 Eris mu largu.
+Vemus tolo qu'aconteci.
+Vemus tolo qu'aconteci.
+Vemus tolo qu'aconteci.
+Alas vezis ponemus las letras mal.
+Pa qué me se precisa?
+Tienis un tractol?
+Los labraoris prantarun una enzina.
+Los labraoris prantarun una anzina.
+Los labraoris la prantarun.
+Los labraoris prantorin una enzina.
+Los labraoris prantorin una anzina.
+Los labraoris la prantorin.
+Una temporá de ventolás i un güen lluviazu abarrancarun la Enzina Nieta.
+Una temporá de ventolás i un güen lluviazu abarrancarun l'Anzina Nieta.
+Una temporá de ventolás i un güen lluviazu abarrancarun la Enzina Nieta.
+Una temporá de ventolás i un güen lluviazu abarrancarun l'Anzina Nieta.
+Se puei izil "anzina" antigual "d'enzina", si t'aquaca.
+Se puei dizil "anzina" antigual "d'enzina", si t'aquaca.
+Se puei izil "anzina" antigual "d'enzina", si t'aquaca.
+Se puei dizil "anzina" antigual "d'enzina", si t'aquaca.
+Paquí vendin una Coca Cola mu aguachinosa.
+Cayó nevarruscu.
+Cayó nevarruscu.
+Tien caíu nevarruscu tola nochi.
+Tieni caíu nevarruscu tola nochi.
+Á si aguzamus la vista.
+Á si aguzamus la vista.
+Una ovispa m'á cravau'l su herreti.
+Una ovispa m'á cravau'l su herrón.
+Una ovispa m'á cravau'l su picu.
+Se colgó colas sábanas dela carci.
+Se colgó conas sábanas dela carci.
+S'ahorcó colas sábanas dela carci.
+S'ahorcó conas sábanas dela carci.
+Me dueli'l pescueçu.
+En Senegal eris una famosa.
+Tengu la perra levantá.
+Tengu la perra revenía.
+Tengu la perra rebullía.
+Ara se costrui con cimentu.
+Aquellu era una lamera bien embarretá.
+Aquellu era un cenagal bien embarretau.
+Aquellu era un cenagueru bien embarretau.
+La vo a guardal yo, con essu subu al'açotea.
+La voi a guardal yo, con essu subu al'açotea.
+Idré a Barcelona, con essu passu por Çaragoça.
+M'echaré plontu, con essu duermu por más oras.
+Calla, no mientis ruina.
+Calla, no anunciis ruina.
+Cumpri no mental ruina pa que no aconteçan desgracias.
+Cumpri no anuncial ruina pa que no aconteçan desgracias.
+Chacho, cómu s'arremece la péndola.
+Eris más feu qu'un cárcavu.
+Nesti plau ain muchus cardus burriquerus.
+Nesti prau ain muchus cardus burriquerus.
+Nesti plau ain muchus picus burriquerus.
+Nesti prau ain muchus picus burriquerus.
+Vais a aguzal la espada.
+Vais a aguzal la espada.
+Pa mi opinión, las cosas ai que hazé-las bien.
+Pa mi opinión, las cosas ai de hazé-las bien.
+Pa mi opinión, las cosas ai que hazel-las bien.
+Pa mi opinión, las cosas ai de hazel-las bien.
+A casu dél venil, vai-ti a caraju sacau.
+A casu dél venil, vai-ti a caraju sacau.
+A casu dél venil, vai-ti a caraju sacau.
+A casu dél venil, vai-ti a caraju sacau.
+No es obrigau el lleval máscara.
+La máscara mos cubri la boca i la narís.
+La máscara mos cubri la boca i la narís.
+Essus autus son desumanus.
+Essus autus sonin desumanus.
