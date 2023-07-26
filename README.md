@@ -34,6 +34,8 @@ Los recursos de traducción son proporcionados por:
 
 Esto es un trabajo comunitario con el único propósito de avanzar culturalmente, en este caso promocionando la lengua extremeña y creando herramientas para facilitar su conocimiento. Por ello, todo el contenido aquí publicado se encontrará bajo licencia [CC0 1.0 de Dominio Público](https://creativecommons.org/publicdomain/zero/1.0/deed.es) para que cualquiera pueda usarlo para crear herramientas o cualquier cosa que sirva para extender y ayudar al conocimiento de la lengua extremeña.
 
+[<img src="https://contrib.rocks/image?repo=juanro49/recursos_es-ext" />](https://github.com/juanro49/recursos_es-ext/graphs/contributors)
+
 ---
 
 # N'Estremeñu
