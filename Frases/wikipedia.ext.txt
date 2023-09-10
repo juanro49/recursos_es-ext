@@ -1,0 +1,160 @@
+Ficha de entidá sonacional
+nombri
+nombri_oficial
+nombri original
+nombri enteru
+país
+unidá
+crassi superiol_1
+superiol_1
+crassi superiol_2
+superiol_2
+bandera
+bandera vivu
+artícalu bandera
+escúu
+artícalu escúu
+mapa
+grandol mapa
+pie_mapa
+imagi
+pie_d'imagi
+capital_nombri
+capital
+sudevisión
+goviernu
+mandonis_títulus
+mandonis_nombris
+superficii
+superficii_puestu
+superficii_post
+superficii_tierra
+superficii_agua
+puebración
+puebración_puestu
+puebración_añu
+puebración_post
+puebración_valoreu
+puebración_valoreu_añu
+puebración_valoreu_notas
+densidá
+densidá_post
+altol
+orariu
+imagid'abaxu
+imagid'abaxu_grandol
+imagid'abaxu_pie
+página web
+ficha ija
+Nombri compretu
+Nacencia
+Muerti
+Acupación
+Añus en ativu
+Aria
+Causa de muerti
+Sepoltura
+Residencia
+Nacionalidá
+Enteración pessonal
+Nombri de nacencia
+Estrumentu
+Alumbraeru
+Hirma
+Collera
+Moti
+Partíu políticu
+Educá en
+Ijus/as
+Lengua mairi
+Nombri en ingrés
+Pelu
+Ojus
+Pesu
+Altor
+Pairi
+Mairi
+Movición
+Cargus acupaus
+Empreaol
+Empreaora
+Religión
+Movición
+Géneru
+Discográfica
+Seudónimu
+Ordin religiosa
+Enteración profissional
+Manijeru dotoral
+Obras asseñalás
+Educancia
+Mandau de
+Enteración creminal
+Cargus creminalis
+Crassi de vós
+Familia
+Sitiu web
+Conflitus
+Categoría milital
+Apartiju milital
+Lei
+Deporti
+Afiliamientus
+Carrera deportiva
+Pesu
+Juegus
+Equipus
+Nombri religiosu
+Ereeru
+Procramación
+Otrus títulus
+Tratamientu
+Antecessol
+Reinau
+Dendi'l
+Mandu d'utoridais
+Mugeris trasgéneru
+Ombris trasgéneru
+Pessonas no binarias
+Pessonas no crassificá pol géneru
+Inu
+Idioma oficial
+País
+Criación
+Entangamientu
+Hundación
+Apartijus
+Husu orariu
+Códigu postal
+Cordinás
+Entidá
+Ciá mas puebrá
+Idiomas coficialis
+Otras idiomas
+Partíus governantis
+Alianza
+Escañus
+Meya
+Distancia
+Climi
+Cussu d'augua
+Densidá de puebración
+Mássima
+Mínima
+Kilometru
+Gentiliciu
+Monea
+Endicaol de Desenroamientu Umanu
+Prossupuestu anual
+Husu orariu
+Orariu de branu
+Santu patrón
+Patronu
+Patrona
+Biembru de
+Horma legal
+Criaol
+Editorial
+Sé central
+Crassi
+puebración

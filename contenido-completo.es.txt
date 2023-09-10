@@ -4333,6 +4333,27 @@ Mujeres y comunales: un vínculo imprescindible para su conservación y defensa.
 Taller de herramientas y propuestas para seguir trabajando en casa.
 13:00-14h. Acto de apoyo a la Coordinadora de Montes vecinales de mano común del Principado de Asturias.
 14h. Comida y ¡hasta pronto!
+Este artículo o sección necesita referencias que aparezcan en una publicación acreditada.
+Puedes avisar al redactor principal pegando lo siguiente en su página de discusión.
+Hola.
+Se ha revisado la página y esta cumple con los criterios de borrado rápido, por lo que se ha marcado con la plantilla {{Destruir}} para que sea borrada de inmediato por un bibliotecario.
+Por favor, revisa la política de borrado y solo si crees que el artículo en cuestión no se ajusta a lo descrito ahí, expón tus argumentos en esta página.
+Si creaste la página con la finalidad de hacer pruebas, por favor, utiliza nuestra zona de pruebas pública.
+Si eres un usuario registrado, también puedes usar tu taller de pruebas personal.
+Gracias por tu comprensión
+Usa esta plantilla para citar según el método Harvard.
+Artículos con identificadores.
+Páginas de usuario con identificadores.
+Páginas que utilizan control de autoridades con parámetros.
+Control de autoridades con (N|más de 30) elementos sin ningún enlace de Commons.
+Se ha marcado esta página para ser borrada y un bibliotecario se encargará de ello en breve.
+La página cumple con los siguientes criterios / el siguiente criterio de borrado rápido.
+No se ha especificado ningún criterio de borrado rápido.
+Consulta de borrado anterior.
+Por favor, no pongas si ya se alcanzó un consenso para mantener esta página en la consulta anterior.
+Plantéalo en la discusión o abre una nueva consulta de borrado.
+Por favor, notifica al autor de esta página pegando en su discusión lo siguiente:
+La última edición en esta página fue hecha por
 Gamusino y Pantaruja
 Gamusino
 Pantaruja
@@ -4921,6 +4942,166 @@ A lo largo de su cauce podemos encontrarnos con estupendos ejemplares de fresno
 Esta vegetación fluvial crea el hábitat ideal para peces y multitud de invertebrados que aquí se refugian.
 El río también es hogar de especies de gran interés como garzas, nutrias, cigüeñas y un variado plantel de anfibios y especies piscícolas.
 Por todo ello nos encontramos por tanto ante una fuente de vida que debemos proteger y conservar, un rincón de gran belleza natural para redescubrir una y otra vez.
+Ficha de entidad subnacional
+nombre
+nombre_oficial
+nombre original
+nombre completo
+país
+unidad
+tipo_superior_1
+superior_1
+tipo_superior_2
+superior_2
+bandera
+bandera_borde
+artículo bandera
+escudo
+artículo escudo
+mapa
+tamaño_mapa
+pie_mapa
+imagen
+pie_de_imagen
+capital_denominación
+capital
+subdivisión
+gobierno
+dirigentes_títulos
+dirigentes_nombres
+superficie
+superficie_puesto
+superficie_post
+superficie_tierra
+superficie_agua
+población
+población_puesto
+población_año
+población_post
+población_estimación
+población_estimación_año
+población_estimación_notas
+densidad
+densidad_post
+altitud
+horario
+imageninferior
+imageninferior_tamaño
+imageninferior_pie
+página web
+ficha hija
+Nombre completo
+Nacimiento
+Fallecimiento
+Ocupación
+Años activo
+Área
+Causa de muerte
+Sepultura
+Residencia
+Nacionalidad
+Información personal
+Nombre de nacimiento
+Instrumento
+Distinciones
+Firma
+Pareja
+Apodo
+Partido político
+Educada en
+Hijos
+Lengua materna
+Nombre en inglés
+Cabello
+Ojos
+Peso
+Altura
+Padre
+Madre
+Movimiento
+Cargos ocupados
+Empleador
+Empleadora
+Religión
+Movimiento
+Género
+Discográfica
+Seudónimo
+Orden religiosa
+Información profesional
+Supervisor doctoral
+Obras notables
+Educación
+Representante de
+Información criminal
+Cargos criminales
+Tipo de voz
+Familia
+Sitio web
+Conflictos
+Rango militar
+Rama militar
+Lealtad
+Deporte
+Afiliaciones
+Carrera deportiva
+Peso
+Juegos
+Equipos
+Nombre religioso
+Heredero
+Proclamación
+Otros títulos
+Tratamiento
+Predecesor
+Reinado
+Desde el
+Control de autoridades
+Mujeres transgénero
+Hombres transgénero
+Personas no binarias
+Personas no categorizadas por género
+Himno
+Idioma oficial
+País
+Creación
+Erección
+Fundación
+Subdivisiones
+Huso horario
+Código postal
+Coordenadas
+Entidad
+Ciudad más poblada
+idiomas co-oficiales
+otros idiomas
+Partidos gobernantes
+Coalición
+Escaños
+Media
+Distancia
+Clima
+Curso de agua
+Densidad de población
+Máxima
+Mínima
+kilómetro
+Gentilicio
+Moneda
+Índice de Desarrollo Humano
+presupuesto_año
+Huso horario
+Horario de verano
+Santo patrón
+Patrono
+Patrona
+Miembro de
+Forma legal
+Creador
+Editorial
+Sede central
+Tipo
+población
 Extremeño
 Italiano
 Noruego

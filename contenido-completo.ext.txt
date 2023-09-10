@@ -4066,14 +4066,14 @@ Detalli del colol i el morgañu qu'estava aposau allí.
 El vessículu no está enteru.
 Por juntu, se puein leyel bastanti bien los testus.
 En Navalconceju se celebra en san Sebastián unu d'estus costumbris paganus que tantu repuntean los pulíticus facistas.
-Clissa cómu s’arrebuja lo paganu cono cristianu.
-Clissa cómu s’arrebuja lo paganu colo cristianu.
-Clissa cúmu s’arrebuja lo paganu cono cristianu.
-Clissa cúmu s’arrebuja lo paganu colo cristianu.
-Maravilla cómu s’arrebuja lo paganu cono cristianu.
-Maravilla cómu s’arrebuja lo paganu colo cristianu.
-Maravilla cúmu s’arrebuja lo paganu cono cristianu.
-Maravilla cúmu s’arrebuja lo paganu colo cristianu.
+Clissa cómu s'arrebuja lo paganu cono cristianu.
+Clissa cómu s'arrebuja lo paganu colo cristianu.
+Clissa cúmu s'arrebuja lo paganu cono cristianu.
+Clissa cúmu s'arrebuja lo paganu colo cristianu.
+Maravilla cómu s'arrebuja lo paganu cono cristianu.
+Maravilla cómu s'arrebuja lo paganu colo cristianu.
+Maravilla cúmu s'arrebuja lo paganu cono cristianu.
+Maravilla cúmu s'arrebuja lo paganu colo cristianu.
 En san Sebastián, dispués delos preparus delos días anterioris, se hazi missa pol santu.
 En san Sebastián, dispués delos preparus delos días anterioris, hazi-si missa pol santu.
 Antañu le tiravan naranjas, verças i mondajas.
@@ -4333,6 +4333,27 @@ Mugeris i comunalis: un atillu emprescindibli pala su conserva i afiamientu.
 Obraol de herramientas i proponimientus pa siguil trebajandu en casa.
 13:00-14o. Actu de sostribu ala Cordinaora de Montis vezinalis de manu común del Prencipau d'Asturias.
 14o. Almuerçu i hata mas vel!
+Aquesti artícalu o seción precisa referencias qu'apareçan nuna pubricación acreitá.
+Pueis avisal al escreviol prencipal en pegandu lo siguienti ena su página de discutiniu.
+Heu.
+La página se tenteó i cumpri los criterius d'aborraeru ligeru, conque s'á marcau la prantilla {{Destruíl}} pa un biblotecariu aborrá-la de momentu.
+Por favol, tentea la política d'aborraeru i, namás si creis que l'artícalu velaí no s'acista alo descritu, poni las tus razonis ena página esta.
+Si criasti la página cona fin de hazel pruebas, ha'l favol, gasta la muestra parti de prevas púbrica.
+De sel usuariu registrau, tamién pueis gastá'l tu obraol de prevas pressonal.
+Gracias pola compresión.
+Gasta la prantilla esta pa cital sigún del métodu Harvard.
+Artícalus con entificaoris.
+Páginas d'usuariu con entificaoris.
+Páginas que gastan mandu de mayoranças con parametrus .
+Mandu de mayoranças con (N| más de 30) elimentus sin dengún atiju de Commons.
+Se tien marcá esta página p'aborrá-la i un biblotecariu se hadrá cargu aína.
+La página cumpri conos criterius siguientis / el criteriu siguienti d'aborramientu ligeru.
+No se tien endicau criteriu dengunu d'aborramientu ligeru.
+Conseju d'aborramientu dantis.
+Ha'l favol, no pongas (?) si ya ai conveniu pa queal esta página nel conseju dantis.
+Saca-lu nel discutiniu o abri un conseju d'aborramientu nuevu.
+Ha'l favol, entera l'escreviol d'esta página en pegandu nel su discutiniu lo siguienti:
+La edición última d'esta página es de
 Gamusinu i Pantaruja
 Gamusinu
 Pantaruja
@@ -4921,6 +4942,166 @@ Alo largu dela su cauzera mos poemus topal con exempraris fabulosus de fresnus,
 Esta vegetación de ribera cria l’ambienti ideal pa pezis i una tupa d’invertebraus que se refugin paquí.
 El ríu tamién es casa d’aspecis d’enterés grandi comu garças, lúntrigas, cigüeñas i un haci variau d’anfibius i aspecis picícolas.
 Polo tantu, Ortigas es una huenti de vida que devemus d’afial i conserval, un rincón de belleza natural grandi pa descubril una i sotra ves.
+Ficha de entidá sonacional
+nombri
+nombri_oficial
+nombri original
+nombri enteru
+país
+unidá
+crassi superiol_1
+superiol_1
+crassi superiol_2
+superiol_2
+bandera
+bandera vivu
+artícalu bandera
+escúu
+artícalu escúu
+mapa
+grandol mapa
+pie_mapa
+imagi
+pie_d'imagi
+capital_nombri
+capital
+sudevisión
+goviernu
+mandonis_títulus
+mandonis_nombris
+superficii
+superficii_puestu
+superficii_post
+superficii_tierra
+superficii_agua
+puebración
+puebración_puestu
+puebración_añu
+puebración_post
+puebración_valoreu
+puebración_valoreu_añu
+puebración_valoreu_notas
+densidá
+densidá_post
+altol
+orariu
+imagid'abaxu
+imagid'abaxu_grandol
+imagid'abaxu_pie
+página web
+ficha ija
+Nombri compretu
+Nacencia
+Muerti
+Acupación
+Añus en ativu
+Aria
+Causa de muerti
+Sepoltura
+Residencia
+Nacionalidá
+Enteración pessonal
+Nombri de nacencia
+Estrumentu
+Alumbraeru
+Hirma
+Collera
+Moti
+Partíu políticu
+Educá en
+Ijus/as
+Lengua mairi
+Nombri en ingrés
+Pelu
+Ojus
+Pesu
+Altor
+Pairi
+Mairi
+Movición
+Cargus acupaus
+Empreaol
+Empreaora
+Religión
+Movición
+Géneru
+Discográfica
+Seudónimu
+Ordin religiosa
+Enteración profissional
+Manijeru dotoral
+Obras asseñalás
+Educancia
+Mandau de
+Enteración creminal
+Cargus creminalis
+Crassi de vós
+Familia
+Sitiu web
+Conflitus
+Categoría milital
+Apartiju milital
+Lei
+Deporti
+Afiliamientus
+Carrera deportiva
+Pesu
+Juegus
+Equipus
+Nombri religiosu
+Ereeru
+Procramación
+Otrus títulus
+Tratamientu
+Antecessol
+Reinau
+Dendi'l
+Mandu d'utoridais
+Mugeris trasgéneru
+Ombris trasgéneru
+Pessonas no binarias
+Pessonas no crassificá pol géneru
+Inu
+Idioma oficial
+País
+Criación
+Entangamientu
+Hundación
+Apartijus
+Husu orariu
+Códigu postal
+Cordinás
+Entidá
+Ciá mas puebrá
+Idiomas coficialis
+Otras idiomas
+Partíus governantis
+Alianza
+Escañus
+Meya
+Distancia
+Climi
+Cussu d'augua
+Densidá de puebración
+Mássima
+Mínima
+Kilometru
+Gentiliciu
+Monea
+Endicaol de Desenroamientu Umanu
+Prossupuestu anual
+Husu orariu
+Orariu de branu
+Santu patrón
+Patronu
+Patrona
+Biembru de
+Horma legal
+Criaol
+Editorial
+Sé central
+Crassi
+puebración
 Estremeñu
 Italianu
 Noruegu
