@@ -1,0 +1,160 @@
+Ficha de entidad subnacional
+nombre
+nombre_oficial
+nombre original
+nombre completo
+país
+unidad
+tipo_superior_1
+superior_1
+tipo_superior_2
+superior_2
+bandera
+bandera_borde
+artículo bandera
+escudo
+artículo escudo
+mapa
+tamaño_mapa
+pie_mapa
+imagen
+pie_de_imagen
+capital_denominación
+capital
+subdivisión
+gobierno
+dirigentes_títulos
+dirigentes_nombres
+superficie
+superficie_puesto
+superficie_post
+superficie_tierra
+superficie_agua
+población
+población_puesto
+población_año
+población_post
+población_estimación
+población_estimación_año
+población_estimación_notas
+densidad
+densidad_post
+altitud
+horario
+imageninferior
+imageninferior_tamaño
+imageninferior_pie
+página web
+ficha hija
+Nombre completo
+Nacimiento
+Fallecimiento
+Ocupación
+Años activo
+Área
+Causa de muerte
+Sepultura
+Residencia
+Nacionalidad
+Información personal
+Nombre de nacimiento
+Instrumento
+Distinciones
+Firma
+Pareja
+Apodo
+Partido político
+Educada en
+Hijos
+Lengua materna
+Nombre en inglés
+Cabello
+Ojos
+Peso
+Altura
+Padre
+Madre
+Movimiento
+Cargos ocupados
+Empleador
+Empleadora
+Religión
+Movimiento
+Género
+Discográfica
+Seudónimo
+Orden religiosa
+Información profesional
+Supervisor doctoral
+Obras notables
+Educación
+Representante de
+Información criminal
+Cargos criminales
+Tipo de voz
+Familia
+Sitio web
+Conflictos
+Rango militar
+Rama militar
+Lealtad
+Deporte
+Afiliaciones
+Carrera deportiva
+Peso
+Juegos
+Equipos
+Nombre religioso
+Heredero
+Proclamación
+Otros títulos
+Tratamiento
+Predecesor
+Reinado
+Desde el
+Control de autoridades
+Mujeres transgénero
+Hombres transgénero
+Personas no binarias
+Personas no categorizadas por género
+Himno
+Idioma oficial
+País
+Creación
+Erección
+Fundación
+Subdivisiones
+Huso horario
+Código postal
+Coordenadas
+Entidad
+Ciudad más poblada
+idiomas co-oficiales
+otros idiomas
+Partidos gobernantes
+Coalición
+Escaños
+Media
+Distancia
+Clima
+Curso de agua
+Densidad de población
+Máxima
+Mínima
+kilómetro
+Gentilicio
+Moneda
+Índice de Desarrollo Humano
+presupuesto_año
+Huso horario
+Horario de verano
+Santo patrón
+Patrono
+Patrona
+Miembro de
+Forma legal
+Creador
+Editorial
+Sede central
+Tipo
+población

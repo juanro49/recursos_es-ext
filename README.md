@@ -3,6 +3,7 @@
 
 Este repositorio almacena pares de frases y palabras en Español y Extremeño línea a línea en diferentes ficheros por idioma para entrenar modelos de traducción que puedan ser usados en traductores como por ejemplo [LibreTranslate](https://libretranslate.com/).
 
+
 ## Contribuir
 Si quieres contribuir a la recopilación de datos, puedes editar los ficheros añadiendo las partes nuevas y crear un Pull Request para añadirlo al repositorio. Si no sabes como crear PR, puedes crear una petición en [este enlace](https://github.com/juanro49/recursos_es-ext/issues) adjuntando los ficheros actualizados para que los actualicemos en el repositorio tras una revisión de que las palabras son correctas.
 
@@ -20,22 +21,24 @@ En caso de no disponer de una gráfica compatible, se puede optar por un sistema
 
 Para el entrenamiento, habrá que unir todos los ficheros de cada idioma en uno (importante que se mantenga el orden de los contenidos linea a línea) o usar los denominados contenido-completo, los cuales tienen el contenido de todos los ficheros ya unidos. Para ello se puede usar alguna de las muchas opciones disponibles, como por ejemplo [FilesMerge](https://www.filesmerge.com/sp/merge-text-files).
 
-### Fuentes de datos usadas
+
+## Agradecimientos
+Este proyecto surgió por la idea de [Wikimedia España](https://ext.wikipedia.org/wiki/Hundaci%C3%B3n_Wikimedia) de reactivar e impulsar la [Güiquipedia](https://ext.wikipedia.org/), edición de la Wikipedia en la lengua extremeña.
+
+Los recursos de traducción son proporcionados por:
 - Contribuciones de voluntarios, especialmente socios de [OscecEstremaura](https://oscecestremaura.wordpress.com/)
 - Cadenas de traducciones de [FeedTV](https://github.com/juanro49/FeedTV) (Traducción realizada por [OscecEstremaura](https://oscecestremaura.wordpress.com/)) --> [https://hosted.weblate.org/projects/feedtv/feedtv/ext/](https://hosted.weblate.org/projects/feedtv/feedtv/ext/)
 - [El cantón estremeñu](https://elcanton.org/)
 - [Dizionariu Estremeñu](https://letterly.github.io/Dizionariu.html)
-
-## Agradecimientos
-Este proyecto surgió por la idea de [Wikimedia España](https://ext.wikipedia.org/wiki/Hundaci%C3%B3n_Wikimedia) de reactivar e impulsar la [Güiquipedia](https://ext.wikipedia.org/), edición de la Wikipedia en la lengua extremeña.
-Los recursos de traducción son proporcionados por:
-- [OSCEC Estremaura](https://oscecestremaura.wordpress.com/)
-- [Dizionariu Estremeñu](https://letterly.github.io/Dizionariu.html)
-- Voluntarios que aportan nuevas palabras y frases (como podrías ser tu 😀).
+- [Extremeñistas](https://extremenistas.org/manifiesto-fundacional/)
+- [Pedro Moreno](https://moreno-linares.com/)
 
 Esto es un trabajo comunitario con el único propósito de avanzar culturalmente, en este caso promocionando la lengua extremeña y creando herramientas para facilitar su conocimiento. Por ello, todo el contenido aquí publicado se encontrará bajo licencia [CC0 1.0 de Dominio Público](https://creativecommons.org/publicdomain/zero/1.0/deed.es) para que cualquiera pueda usarlo para crear herramientas o cualquier cosa que sirva para extender y ayudar al conocimiento de la lengua extremeña.
+
+[<img src="https://contrib.rocks/image?repo=juanro49/recursos_es-ext" />](https://github.com/juanro49/recursos_es-ext/graphs/contributors)
 
 ---
 
 # N'Estremeñu
-pendiente de traducir readme al extremeño
+
+Pendiente de traducir readme al extremeño
