@@ -4367,6 +4367,10 @@ Ha'l favol, no pongas (?) si ya ai conveniu pa queal esta página nel conseju da
 Saca-lu nel discutiniu o abri un conseju d'aborramientu nuevu.
 Ha'l favol, entera l'escreviol d'esta página en pegandu nel su discutiniu lo siguienti:
 La edición última d'esta página es de
+Los poyus son inferiol alos escañus
+No semus escapás de entendé-lu
+Essus son igual que estus
+Ogañu las castañas son mejol que ogañazu
 Gamusinu i Pantaruja
 Gamusinu
 Pantaruja
@@ -5138,6 +5142,18 @@ Pui cómu?
 Tovía no conocís alas nuestras socias Ajecho?
 Mirai las cosinas tan aparentis que tienin!
 En estremeñu, de contau!
+Rifa un cestu de navidá
+Al teneol de las 3 cifras acabaeras del primel premiu dela lotería nacional de navidá 2023
+Cumpri alos 30 días
+Mos vemus amañana pa Salorinu!
+Á si sabís pándi andamus!
+Arrematamus el añu amañana en La Roca la Sierra.
+Hadremus un damientu ala biblioteca monicipal, que ogañazu quearun tolos librus çaleaus por mó dela riá.
+Pintaremus en estremeñu i alogu tomaremus unus ducis.
+Vos asperamus!
+Mos cumpri abondu apresental esti proyetu que amus entangau junta @extremtrabaja i @fcd_uex.
+Mos proponemus esculcal la emportancia del nuestru patrimoniu lengüísticu comu recussu turísticu pa Estremaúra.
+Nos vemos esta tarde en Mérida
 CENDERUS
 Me palran las rosas que están abriendu i los garapullus que están cerraus.
 Me palran los campus que esperezan con plaus verdis, con montis altus.
@@ -5321,6 +5337,18 @@ Italianu
 Noruegu
 Polacu
 Russu
+Jeneru
+Hebreru
+Marçu
+Abril
+Mayu
+Juniu
+Juliu
+Abostu
+Setiembri
+Otubri
+Noviembri
+Deziembri
 Cudiau!
 Ajustamientus
 Añidil
@@ -5338,6 +5366,52 @@ Escuru
 Siguil
 Títulu
 Vidiu
+L'açuca
+L'alambri
+L'azeiti
+La bimbri
+La calol
+La clima
+La colol
+La final
+La idioma
+La meyudía
+La muelli
+La picol
+La puenti
+Poema
+Calambre
+Picol
+Picoris
+Cantal
+Cantaris
+Devel
+Deveris
+Sentil
+Sentiris
+Dessamin
+Polin
+Estijeras
+Estijeras
+Estenazas
+Estenazas
+Estraseras
+Estraseras
+Inferiol
+Inferiol
+Escapás
+Escapás
+Igual
+Igual
+Mejol
+Mejol
+Ogañu
+Ogañazu
+Antiel
+Ayel
+Oi
+Amañana
+Passau
 Precural
 Enfinitivu simpli
 cantal

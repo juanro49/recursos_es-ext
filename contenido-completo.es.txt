@@ -4367,6 +4367,10 @@ Por favor, no pongas si ya se alcanzó un consenso para mantener esta página en
 Plantéalo en la discusión o abre una nueva consulta de borrado.
 Por favor, notifica al autor de esta página pegando en su discusión lo siguiente:
 La última edición en esta página fue hecha por
+Los poyos son inferiores a los escaños
+No somos capaces de entenderlo
+Esos son iguales que estos
+Este año las castañas son mejores que el año pasado
 Gamusino y Pantaruja
 Gamusino
 Pantaruja
@@ -5138,6 +5142,18 @@ Nos vemos esta tarde en Mérida
 ¿Todavía no conocéis a nuestras socias de Ajecho?
 ¡Mirad qué cosas tan chulas tienen!
 En extremeño, ¡Por supuesto!
+Sorteo de una cesta de navidad
+Al poseedor de las 3 cifras finales del primer premio de la lotería nacional de navidad 2023
+Cumple a los 30 días
+¡Nos vemos mañana en Salorino!
+¡A ver si sabéis dónde estamos!
+Cerramos mañana el año en La Roca de la Sierra.
+Haremos una donación a la biblioteca municipal, porque el año pasado quedaron todos los libros destruidos por culpa de la riada.
+Pintaremos en extremeño y luego tomaremos unos dulces.
+¡Os esperamos!
+Nos complace presentar este proyecto que hemos puesto en marcha junto a @extremtrabaja y @fcd_uex.
+Nos proponemos analizar la importancia de nuestro patrimonio lingüístico como recurso turístico para Extremadura.
+Mos vemus esta tardi a Méria
 SENDEROS
 Me hablan las rosas que están abriendo y los capullos que están cerrados.
 Me hablan los campos que desperezan con prados verdes, con montes altos.
@@ -5321,6 +5337,18 @@ Italiano
 Noruego
 Polaco
 Ruso
+Enero
+Febrero
+Marzo
+Abril
+Mayo
+Junio
+Julio
+Agosto
+Septiembre
+Octubre
+Noviembre
+Diciembre
 ¡Atención!
 Ajustes
 Añadir
@@ -5338,6 +5366,52 @@ Oscuro
 Seguir
 Título
 Video
+El azúcar
+El alambre
+El aceite
+El mimbre
+El calor
+El clima
+El color
+El final
+El idioma
+El mediodía
+El muelle
+El picor
+El puente
+Poema
+Calambri
+Picor
+Picores
+Cantar
+Cantares
+Deber
+Deberes
+Sentir
+Sentires
+Examen
+Polen
+Tijera
+Tijeras
+Tenaza
+Tenazas
+Trasera
+Traseras
+Inferior
+Inferiores
+Capaz
+Capaces
+Igual
+Iguales
+Mejor
+Mejores
+Este año
+El año pasado
+Anteayer
+Ayer
+Hoy
+Mañana
+Pasado mañana
 Buscar
 Infinitivo simple
 cantar
