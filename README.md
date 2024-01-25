@@ -34,6 +34,8 @@ Los recursos de traducción son proporcionados por:
 - [Dizionariu Estremeñu](https://letterly.github.io/Dizionariu.html)
 - [Extremeñistas](https://extremenistas.org/manifiesto-fundacional/)
 - [Pedro Moreno](https://moreno-linares.com/)
+- [Federación Extremeña de Folklore](https://www.folkloredeextremadura.com/)
+- [Wikipedia](https://ext.wikipedia.org/)
 
 Esto es un trabajo comunitario con el único propósito de avanzar culturalmente, en este caso promocionando la lengua extremeña y creando herramientas para facilitar su conocimiento. Por ello, todo el contenido aquí publicado se encontrará bajo licencia [CC0 1.0 de Dominio Público](https://creativecommons.org/publicdomain/zero/1.0/deed.es) para que cualquiera pueda usarlo para crear herramientas o cualquier cosa que sirva para extender y ayudar al conocimiento de la lengua extremeña.
 

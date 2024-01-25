@@ -158,3 +158,172 @@ Editorial
 Sede central
 Tipo
 población
+Control de autoridades
+Mujeres transgénero
+Hombres transgénero
+Personas no binarias
+Personas no categorizadas por sexo
+(Localidad) es una localidad de la provincia de (provincia), en la región de (región), en (país).
+Toponimia
+Geografía física
+Ubicación
+(datos sobre su altura sobre extensión, límites)
+Ubicación geográfica
+Orografía
+Geomorfología y topografía
+Hidrografía
+(información sobre sus aguas superficiales o subterráneas)
+Clima
+(basado en la clasificación de Köppen)
+Temperaturas
+Precipitaciones
+Naturaleza
+Fauna y flora
+Geología
+Edafología
+Espeleología
+Mineralogía
+Paleontología
+Petrología
+Sismología
+Vulcanología
+Zonas protegidas
+Historia
+Prehistoria
+Edad Antigua
+Edad Media
+Edad Moderna
+Edad Contemporánea
+Geografía humana
+Organización territorial
+Distritos y barrios ó localidades del municipio
+Demografía
+Estructura
+Distribución
+Evolución
+Migración
+Urbanismo
+Estructura urbana
+(forma del trazado urbano: ciudad lineal, ciudad dispersa, ciudad compacta)
+Arquitectura
+(rasgos predominantes en la arquitectura de la localidad: altura de los edificios, color de las fachadas, estilos arquitectónicos, tipo de viviendas, materiales de construcción predominantes)
+Principales calles y plazas
+(nombres y características de las principales calles que recorren la localidad y las plazas más grandes o más transitadas)
+Parques y jardines
+(situación, dimensiones, usos, titularidad)
+Transporte y comunicaciones
+Transporte interurbano
+Carreteras
+(carreteras que pasan por la localidad)
+Ferrocarril
+(líneas de ferrocarril)
+Autobús
+(líneas de autobús interurbano)
+Transporte aéreo
+(aeropuertos y helipuertos)
+Transporte marítimo
+(puertos)
+Transporte urbano
+Autobús
+(líneas de autobús urbano)
+Vehículo privado
+(principales vías, lugares de estacionamiento, zonas de mayor tráfico)
+Ferrocarril
+(líneas de metro y ferrocarril urbano, estaciones)
+Taxi
+(principales características del servicio de taxis en la localidad)
+Bicicleta
+(carriles bici, servicios de alquiler de bicicletas)
+Economía
+Empleo
+(datos sobre su población activa, tasa de actividad y tasa de desempleo)
+Sectores
+Sector primario
+(minería, recolección, agricultura, pesca, acuicultura, caza y ganadería; pueden añadirse los principales productos obtenidos, la cantidad de los mismos y la superficie empleada para cada subsector)
+Sector secundario
+(construcción e industria)
+Sector terciario
+(servicios, incluyendo comercio, comunicación, educación, salud, seguridad y turismo (pueden añadirse la afluencia de turistas, su procedencia))
+Símbolos
+Bandera
+Escudo
+Himno
+Lema
+Política
+Administraciones públicas
+(administraciones presentes en el municipio, tanto municipales, como regionales o nacionales, así como judicial)
+Gobierno municipal
+Elecciones municipales
+(información sobre la evolución de la política municipal a través de los resultados electorales)
+Alcaldía
+Alcaldes y alcaldesas de España
+Corporación municipal
+(datos sobre la corporación municipal y los departamentos en los que se divide el Ayuntamiento)
+Equipamientos y servicios públicos
+Educación
+(datos sobre sus centros de educación concertada, privada y pública)
+Sanidad
+(datos sobre sus centros sanitarios, farmacias)
+Seguridad
+(datos sobre su delicuencia y unidades policiales)
+Servicios sociales
+(datos sobre servicios asistenciales, residencias)
+Abastecimiento
+(datos sobre alimentación, agua y energía: energías no renovables, energías renovables)
+Residuos y limpieza
+(datos sobre su gestión de residuos y los servicios de limpieza)
+Cultura
+Patrimonio
+(pueden indicarse sus yacimientos arqueológicos, monumentos, esculturas urbanas, etc.)
+Instalaciones culturales
+(información sobre museos, archivos, bibliotecas, artes escénicas, asociaciones culturales)
+Eventos culturales
+(festivales de música, de cine, de teatro, jornadas gastronómicas o culturales)
+Patrimonio inmaterial
+Festividades y tradiciones
+(información sobre fiestas locales, tanto civiles como religiosas)
+Gastronomía
+Medios de comunicación
+(pueden añadirse datos sobre su prensa, radio y televisión)
+Deporte
+Instalaciones deportivas
+Entidades deportivas
+Eventos deportivos
+Localidades hermanadas
+El/la (nombre) es un/una (fiesta/tradición) que se celebra (momento del año) en (localidad), (país).
+Historia
+(historia de la fiesta/tradición)
+Descripción
+(participantes y características del acto/actos que se celebran)
+Costumbres
+(posibles costumbres, por ejemplo gastronómicas, asociadas a la celebración)
+Reconocimientos
+(en caso de que la hubiera, legislación que la reconozca o proteja, como por ejemplo Fiesta de Interés Turístico)
+El/La (nombre) es un (tipo de espacio natural: Lugar de Importancia Comunitaria, parque nacional, parque natural, etc.) situado en (provincia, región), (país).
+El espacio natural tiene una extensión de (área) km2 y fue aprobado el (fecha de aprobación como espacio protegido).
+Localización
+(ubicación, municipios entre los que se reparte su superficie)
+Historia
+(reseña sobre los hechos históricos más relevantes del espacio protegido)
+Geografía
+(información sobre aspectos geológicos, clima, orografía, hidrografía)
+Ecología
+Flora
+(especies más frecuentes o características en el espacio natural)
+Fauna
+(especies más frecuentes o características en el espacio natural)
+Cultura
+(actividades tradicionales que se realizan o realizaban en el espacio natural, patrimonio histórico-artístico)
+Problemática medioambiental
+(en caso de que los hubiera, principales problemas a los que se enfrenta el espacio)
+(nombre) es un/una (plato/bebida/etc.) típico de la gastronomía de (país).
+Etimología
+(origen del nombre del producto)
+Historia
+(historia de su producción y consumo)
+Descripción
+(características, ingredientes y producción/elaboración básica)
+Costumbres
+(posibles costumbres asociadas a su consumo)
+Protección
+(en caso de que la hubiera, legislación que lo proteja, por ejemplo Denominación de Origen o Indicación Geográfica Protegida)
