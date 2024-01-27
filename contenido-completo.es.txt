@@ -4507,6 +4507,13 @@ Escuela de lengua extremeña.
 Todos los Miércoles de 19h a 20h en C/ Tiendas 3, 2ª Planta.
 También disponible online para quien no pueda asistir: https://www.youtube.com/@OSCEC/streams
 Canal de WhatsApp de OSCEC: https://www.whatsapp.com/channel/0029Va8NhOpHbFV9HEPJxI0t
+No sabemos quiénes pudieron haces esa trastada
+¿Cuáles son los botines que le regalaste?
+¿De quién eres hijo?
+¿De quién es ese lápiz?
+¿De dónde vienes?
+Este año somos pocos quintos
+Este año estamos pocos quintos
 Gamusino y Pantaruja
 Gamusino
 Pantaruja
@@ -5811,6 +5818,21 @@ Ayer
 Hoy
 Mañana
 Pasado mañana
+Quién
+Quiénes
+De quién
+Qué
+Cuál
+Cuáles
+Cuánto
+Cuánta
+Cuántos
+Cuántas
+Dónde
+De dónde
+Cómo
+Cuándo
+Por qué
 Buscar
 Infinitivo simple
 cantar
