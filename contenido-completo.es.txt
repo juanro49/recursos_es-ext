@@ -4532,6 +4532,89 @@ Un vino cualquiera.
 Un pueblo cualquiera.
 ¡Hombre!, ¡Cuánto tiempo sin verte!
 Oye, ¿Dónde estuviste anoche que no te vi aparecer?
+Mi sombrero
+Mi mujer
+Mis amigos
+Mis olivos
+Una bicicleta
+Ninguna bicicleta
+La muchacha no come gazpacho
+¿Cuál es tu nombre?
+¿Cómo te llamas?
+¿De quién eres?
+¿El pan de quién te comes?
+¿De dónde eres?
+¿De dónde vienes?
+¿Por dónde vives?
+¿Dónde estás plantado?
+¿Dónde te metes?
+¿Qué hora es?
+¿Qué tiempo hace?
+¿Qué llevas ahí?
+¿Por dónde está Esparragosa de Lares?
+Quizá conoces a mis amigos.
+¡Buenos días!
+¡Adiós!
+¡Buenas tardes!
+¡Hasta luego!
+¡Buenas noches!
+¡Hasta mañana!
+¡Hola!
+¡Hola!
+¡Hola!
+¡Hasta pronto!
+¡Hola!
+¡Hola!
+¡Hola!
+¡Hasta la próxima!
+En la sección de Cultura y Sociedad de este Módulo 3 vamos a conocer gente famosa de Extremadura.
+Si eres extremeño/a seguro que los conoces ya pero, sobre todo, esto nos va a servir para irnos familiarizando con el extremeño escrito.
+No os preocupéis, no tenéis por qué conocer el significado de todas las palabras.
+Sólo queremos que os vayáis acostumbrando a ver el extremeño por escrito.
+¡Vamos allá!
+Badajoz
+Periodista y presentadora de renombre en muchos programas de radio y televisión.
+Presentadora en la Cadena SER del 2012 al 2021.
+Ahora es la directora del periódico El País.
+Alburquerque
+Presentadora de redio y televisión.
+En los últimos años ha estado en Onda Cero y en Canal Extremadura.
+Ahora tiene un popular canal en Youtube.
+Trujillo
+Humorista, artista y presentador.
+Es uno de los creadores e impulsores del stand up en España y también es corriente verlo como intérprete y autor.
+Ha participado en canales de televisión como artista, showman y también como guionista.
+Fuente de Cantos
+Campó en la pintura religiosa, en la que su arte revela una gran fuerza visual y un profundo misticismo.
+Fué un artista representativo de la Contrareforma.
+Fué amigo de Velázquez
+La Torre de Miguel Sesmero
+Figura del expresionismo representativo, uno de los pintores españoles mas importantes de la segunda mitad del diglo XX.
+Logrosán
+Fue abogado, teólogo, astrónomo y escritor.
+En el 1893 avistó un cometa que desde entonces lleva su nombre.
+Fue invitado a muchas publicaciones: periódicos como El Globo, El Liberal, La Libertad o La Voz de Extremadura; revistas como La Esfera, Nuevo Mundo, Boletín de la Real Academia de la Historia...
+En su lecho de muerte dijo a sus allegados: "Ningún hombre es indispensable. No me lloreis. Solo de una manera vais a honrar mi memoria: ¡Continuad mi obra! ¡Superadla!".
+Fue la primera mujer Catedrática de Medicina de España (con 37 alos), la primera mujer presidenta de un Colegio de Médicos en España y la primera mijer en ocupar sitio en la Organización Médica Colegial de España (OMC), razones por las cuales ganó, de entre otros, el Premiu a la Excelencia de la Federación de Mijeres Directivas, Profesionales y Empresarias (FEDEPE).
+Villanueva de la Serena
+Jugador de baloncesto ahora ya retirado.
+Hizo parte del Equipo español que ganó el Campeonato Mundial de Baloncesto del 2006 en Japón.
+Es el primer extremeño en jugar en la NBA.
+Cilleros
+Futbolista y entrenador.
+En su carrera como futbolista fue internacional con España y estuvo en equipos como Real Madrid o Liverpool.
+Almendralejo
+Escritor de la época del Romanticismo, el poeta mas señalado del primer Romanticismo español.
+Obras populares como El Pelayo, Poesías, El estudiante de Salamanca, Canción del Pirata,
+Canciones...
+Zafra
+Narradora y poeta.
+Ejemplos de sus obras tenemos Algún amor que no mate, Blanca vuela mañana o la su obra prencipal, La voz dormida, de la que mismamente hicieron una película. (Premio Libro del Año 2003, otorgado del Gremiu de Libreros de Madrid).
+Valencia de Alcántara
+Cantante de música pop-dance.
+Tras darse a conocer en el 2005 en el programa Operación Triunfo, grabó su primer disco, Corazón de fuego.
+En el 2009 participó en el Festival de Eurovisión, con el tema La noche es para mí.
+Cuenta con dos discos de platino y un disco de oro.
 Gamusino y Pantaruja
 Gamusino
 Pantaruja
@@ -6147,6 +6230,73 @@ Aguacero
 Apaciguar
 Arzolla
 Zabuquear
+Carbón
+Esconder
+Obstruir
+Clavel
+Refugio
+Cerebro
+Ajustar
+Cazar
+Sacudir
+Joven
+Cáceres
+Gasto
+Oler
+Pliego
+Grave
+Gluglutear
+Guiso
+Bregar
+Desagüe
+Aguadija
+Agüero
+Yerno
+Gesto
+Equipaje
+Blanco
+Drogar
+Gloria
+Planta
+Trabajo
+Clavo
+Harto
+Revolver
+Mirla
+Rezagarse
+Israelí
+Amodorrarse
+Alacrán
+Hermoso
+Paraíso
+Mas acá
+Sobre
+Infernáculo
+Estudio
+Masa
+Maduro
+Examen
+Arroz
+Extremadura
+Fogata
+Lar
+Voluntad
+Amor
+Hacha
+Chistar
+Proveer de cencerro
+Estaca
+Guisar
+Montón
+Llave
+Llenar
+Calle
+Lloriquear
+Dejarse
+Error
+Perro
+Pasión
+Así
 El
 La
 Lo
@@ -6646,6 +6796,62 @@ no comamos
 no comáis
 no coman
 Infinitivo simple
+estar
+Gerundio simple
+estuviendo
+Participio
+estado
+Presente simple
+estoy
+estoy
+estás
+está
+estamos
+estáis
+están
+Pretérito perfecto simple
+estuve
+estuviste
+estuvo
+estuvimos
+estuvisteis
+estuvieron
+Pretérito imperfecto
+estaba
+estabas
+estaba
+estábamos
+estábais
+estaban
+Futuro simple
+estaré
+estarás
+estará
+estaremos
+estareis
+estarán
+Condicional simple
+estaría
+estarías
+estaría
+estaríamos
+estaríais
+estarían
+Presente simple de subjuntivo
+esté
+estés
+esté
+estemos
+esteis
+estén
+Pretérito imperfecto de subjuntivo
+estuviera
+estuvieras
+estuviera
+estuviéramos
+estuviérais
+estuvieran
+Infinitivo simple
 hablar
 Infinitivo compuesto
 haber hablado
@@ -6863,3 +7069,59 @@ no hable
 no hablemos
 no habléis
 no hablen
+Infinitivo simple
+ser
+Gerundio simple
+siendo
+Participio
+sido
+Presente simple
+soy
+soy
+eres
+es
+somos
+sois
+son
+Pretérito perfecto simple
+fuí
+fuiste
+fué
+fuimos
+fuisteis
+fueron
+Pretérito imperfecto
+era
+eras
+era
+eramos
+erais
+eran
+Futuro simple
+seré
+serás
+será
+seremos
+sereis
+serán
+Condicional simple
+sería
+serías
+sería
+seríamos
+seríais
+serían
+Presente simple de subjuntivo
+sea
+seas
+sea
+seamos
+seais
+sean
+Pretérito imperfecto de subjuntivo
+fuera
+fueras
+fuera
+fuéramos
+fuérais
+fueran

@@ -1,0 +1,56 @@
+Infinitivo simple
+estar
+Gerundio simple
+estuviendo
+Participio
+estado
+Presente simple
+estoy
+estoy
+estás
+está
+estamos
+estáis
+están
+Pretérito perfecto simple
+estuve
+estuviste
+estuvo
+estuvimos
+estuvisteis
+estuvieron
+Pretérito imperfecto
+estaba
+estabas
+estaba
+estábamos
+estábais
+estaban
+Futuro simple
+estaré
+estarás
+estará
+estaremos
+estareis
+estarán
+Condicional simple
+estaría
+estarías
+estaría
+estaríamos
+estaríais
+estarían
+Presente simple de subjuntivo
+esté
+estés
+esté
+estemos
+esteis
+estén
+Pretérito imperfecto de subjuntivo
+estuviera
+estuvieras
+estuviera
+estuviéramos
+estuviérais
+estuvieran
