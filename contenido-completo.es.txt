@@ -4514,6 +4514,24 @@ No sabemos quiénes pudieron haces esa trastada
 ¿De dónde vienes?
 Este año somos pocos quintos
 Este año estamos pocos quintos
+¡Aprende el extremeño!
+La artista empezó a hablar.
+A mi hermano le dijeron que se fuera.
+De las cuatro estaciones, la que mas disfruto es el otoño.
+Con lo poco que nos pagan no nos interesa.
+Al principio de la primavera.
+Hemos quedado sobre las 7.
+Vamos por el camino que así atajamos.
+Hablamos extremeño.
+Está en Cáceres.
+Vive en Cáceres.
+Está en Cáceres y alrededores.
+Estuvimos andando por la sierra.
+Los muchachos están jugando por ahí.
+Un vino cualquiera.
+Un pueblo cualquiera.
+¡Hombre!, ¡Cuánto tiempo sin verte!
+Oye, ¿Dónde estuviste anoche que no te vi aparecer?
 Gamusino y Pantaruja
 Gamusino
 Pantaruja
@@ -5301,6 +5319,8 @@ Sólo recordaros que esta semana la escuela será hoy lunes porque el miércoles
 1- Vamos a transmitir por nuestro canal de Facebook
 2- Si no podéis no os preocupéis que todavía nos estamos conociendo y no tenemos prisa
 3- El día 26 volvemos a los miércoles
+Por si todavía no lo sabéis todos los meses salimos en la Revista Grada.
+Aquí podéis ver todos los artículos que hemos ido publicando.
 SENDEROS
 Me hablan las rosas que están abriendo y los capullos que están cerrados.
 Me hablan los campos que desperezan con prados verdes, con montes altos.
@@ -5738,6 +5758,207 @@ Costumbres
 (posibles costumbres asociadas a su consumo)
 Protección
 (en caso de que la hubiera, legislación que lo proteja, por ejemplo Denominación de Origen o Indicación Geográfica Protegida)
+Cero
+Uno
+Dos
+Tres
+Cuatro
+Cinco
+Seis
+Siete
+Ocho
+Nueve
+Diez
+Once
+Doce
+Trece
+Catorce
+Quince
+Dieciséis
+Diecisiete
+Dieciocho
+Diecinueve
+Veinte
+Veintiuno
+Veintidós
+Veintitrés
+Veinticuatro
+Veinticinco
+Veintiséis
+Veintisiete
+Veintiocho
+Veintinueve
+Treinta
+Treinta y uno
+Treinta y dos
+Treinta y tres
+Treinta y cuatro
+Treinta y cinco
+Treinta y seis
+Treinta y siete
+Treinta y ocho
+Treinta y nueve
+Cuarenta
+Cuarenta y uno
+Cuarenta y dos
+Cuarenta y tres
+Cuarenta y cuatro
+Cuarenta y cinco
+Cuarenta y seis
+Cuarenta y siete
+Cuarenta y ocho
+Cuarenta y nueve
+Cincuenta
+Cincuenta y uno
+Cincuenta y dos
+Cincuenta y tres
+Cincuenta y cuatro
+Cincuenta y cinco
+Cincuenta y seis
+Cincuenta y siete
+Cincuenta y ocho
+Cincuenta y nueve
+Sesenta
+Sesenta y uno
+Sesenta y dos
+Sesenta y tres
+Sesenta y cuatro
+Sesenta y cinco
+Sesenta y seis
+Sesenta y siete
+Sesenta y ocho
+Sesenta y nueve
+Setenta
+Setenta y uno
+Setenta y dos
+Setenta y tres
+Setenta y cuatro
+Setenta y cinco
+Setenta y seis
+Setenta y siete
+Setenta y ocho
+Setenta y nueve
+Ochenta
+Ochenta y uno
+Ochenta y dos
+Ochenta y tres
+Ochenta y cuatro
+Ochenta y cinco
+Ochenta y seis
+Ochenta y siete
+Ochenta y ocho
+Ochenta y nueve
+Noventa
+Noventa y uno
+Noventa y dos
+Noventa y tres
+Noventa y cuatro
+Noventa y cinco
+Noventa y seis
+Noventa y siete
+Noventa y ocho
+Noventa y nueve
+Cien
+Primero
+Segundo
+Tercero
+Cuarto
+Quinto
+Sexto
+Séptimo
+Octavo
+Noveno
+Décimo
+Undécimo
+Duodécimo
+Decimotercero
+Decimocuarto
+Decimoquinto
+Decimosexto
+Decimoséptimo
+Decimoctavo
+Decimonoveno
+Vigésimo
+Vigesimoprimero
+Vigesimosegundo
+Vigesimotercero
+Vigesimocuarto
+Vigesimoquinto
+Vigesimosexto
+Vigesimoséptimo
+Vigesimoctavo
+Vigesimonoveno
+Trigésimo
+Trigesimoprimero
+Trigesimosegundo
+Trigesimotercero
+Trigesimocuarto
+Trigesimoquinto
+Trigesimosexto
+Trigesimoséptimo
+Trigesimoctavo
+Trigesimonoveno
+Cuadragésimo
+Cuadragésimoprimero
+Cuadragésimosegundo
+Cuadragésimotercero
+Cuadragésimocuarto
+Cuadragésimoquinto
+Cuadragésimosexto
+Cuadragésimoséptimo
+Cuadragésimoctavo
+Cuadragésimonoveno
+Quincuagésimo
+Quincuagésimoprimero
+Quincuagésimosegundo
+Quincuagésimotercero
+Quincuagésimocuarto
+Quincuagésimoquinto
+Quincuagésimosexto
+Quincuagésimoséptimo
+Quincuagésimoctavo
+Quincuagésimonoveno
+Sexagésimo
+Sexagésimoprimero
+Sexagésimosegundo
+Sexagésimotercero
+Sexagésimocuarto
+Sexagésimoquinto
+Sexagésimosexto
+Sexagésimoséptimo
+Sexagésimoctavo
+Sexagésimonoveno
+Septuagésimo
+Septuagésimoprimero
+Septuagésimosegundo
+Septuagésimotercero
+Septuagésimocuarto
+Septuagésimoquinto
+Septuagésimosexto
+Septuagésimoséptimo
+Septuagésimoctavo
+Septuagésimonoveno
+Octogésimo
+Octogésimoprimero
+Octogésimosegundo
+Octogésimotercero
+Octogésimocuarto
+Octogésimoquinto
+Octogésimosexto
+Octogésimoséptimo
+Octogésimoctavo
+Octogésimonoveno
+Nonagésimo
+Nonagésimoprimero
+Nonagésimosegundo
+Nonagésimotercero
+Nonagésimocuarto
+Nonagésimoquinto
+Nonagésimosexto
+Nonagésimoséptimo
+Nonagésimoctavo
+Nonagésimonoveno
+Centésimo
 Extremeño
 Italiano
 Noruego
@@ -5814,10 +6035,167 @@ Mejores
 Este año
 El año pasado
 Anteayer
+Antes de ayer
 Ayer
 Hoy
 Mañana
 Pasado mañana
+Aterido
+Brecha
+Liante
+Administrar
+Aprovechar
+Estropeado
+Averiado
+Roto
+Resbaladizo
+Cremallera del pantalón
+Apoyarse
+Alfabeto
+Abecedario
+Juego
+Fuego
+Ahorrar
+Bajar
+Badajo
+Bajo
+Taco
+Salir
+Mano
+Prueba
+Enfilar
+Comba
+Cabeza
+Cabina
+Hoyo
+Mango
+Blanco
+Nubarrón
+Dadivoso
+Ordeñar
+Perdiz
+Ardor
+Reducir
+Edredón
+Agradar
+Estudio
+Leer
+Respuesta
+¡Fuera!
+Desbaratar
+Feliz
+Defender
+Sofocar
+Chamusquina
+Flor
+Francachela
+Tobogán
+Complicado
+Invierno
+Soslayo
+Aplazar
+Jabalí
+Sujetar
+Pajizo
+Rejonear
+Junta
+Villasbuenero
+Amanecer
+Menguar
+Comprimir
+Ablandar
+Bozal
+Columpio
+Cencerro
+Compañía
+Meter prisa
+Nido
+Pitarroso
+Anudar
+Obligar
+Postinero
+Pelotón
+Comparación
+Depilar
+Aficionar
+Taponar
+Escrupuloso
+Explicar
+Prado
+Experimental
+Tenazas
+Astilla
+Fritada
+Paliza
+Atascamiento
+Vanagloriarse
+Atrevimiento
+Gingivitis
+Arboleda
+Acebo
+Jaramago
+Medrar
+Jilguero
+Pescadilla
+Ajuar
+Desmayar
+Oír
+Mayorazgo
+Yugo
+Cigüeñal
+Aguacero
+Apaciguar
+Arzolla
+Zabuquear
+El
+La
+Lo
+Los
+Las
+Al
+A la
+A lo
+A los
+A las
+Del
+De la
+De lo
+De los
+De las
+Con el
+Con la
+Con la
+Con lo
+Con lo
+Con los
+Con los
+Con las
+Con las
+En el
+En el
+En la
+En lo
+En los
+En las
+Para
+Para el
+Para la
+Para lo
+Para los
+Para las
+Por el
+Por la
+Por lo
+Por los
+Por las
+Un
+Una
+Unos
+Unas
+De un
+De una
+De unos
+De unas
 Quién
 Quiénes
 De quién

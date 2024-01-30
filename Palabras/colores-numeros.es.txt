@@ -1,0 +1,201 @@
+Cero
+Uno
+Dos
+Tres
+Cuatro
+Cinco
+Seis
+Siete
+Ocho
+Nueve
+Diez
+Once
+Doce
+Trece
+Catorce
+Quince
+Dieciséis
+Diecisiete
+Dieciocho
+Diecinueve
+Veinte
+Veintiuno
+Veintidós
+Veintitrés
+Veinticuatro
+Veinticinco
+Veintiséis
+Veintisiete
+Veintiocho
+Veintinueve
+Treinta
+Treinta y uno
+Treinta y dos
+Treinta y tres
+Treinta y cuatro
+Treinta y cinco
+Treinta y seis
+Treinta y siete
+Treinta y ocho
+Treinta y nueve
+Cuarenta
+Cuarenta y uno
+Cuarenta y dos
+Cuarenta y tres
+Cuarenta y cuatro
+Cuarenta y cinco
+Cuarenta y seis
+Cuarenta y siete
+Cuarenta y ocho
+Cuarenta y nueve
+Cincuenta
+Cincuenta y uno
+Cincuenta y dos
+Cincuenta y tres
+Cincuenta y cuatro
+Cincuenta y cinco
+Cincuenta y seis
+Cincuenta y siete
+Cincuenta y ocho
+Cincuenta y nueve
+Sesenta
+Sesenta y uno
+Sesenta y dos
+Sesenta y tres
+Sesenta y cuatro
+Sesenta y cinco
+Sesenta y seis
+Sesenta y siete
+Sesenta y ocho
+Sesenta y nueve
+Setenta
+Setenta y uno
+Setenta y dos
+Setenta y tres
+Setenta y cuatro
+Setenta y cinco
+Setenta y seis
+Setenta y siete
+Setenta y ocho
+Setenta y nueve
+Ochenta
+Ochenta y uno
+Ochenta y dos
+Ochenta y tres
+Ochenta y cuatro
+Ochenta y cinco
+Ochenta y seis
+Ochenta y siete
+Ochenta y ocho
+Ochenta y nueve
+Noventa
+Noventa y uno
+Noventa y dos
+Noventa y tres
+Noventa y cuatro
+Noventa y cinco
+Noventa y seis
+Noventa y siete
+Noventa y ocho
+Noventa y nueve
+Cien
+Primero
+Segundo
+Tercero
+Cuarto
+Quinto
+Sexto
+Séptimo
+Octavo
+Noveno
+Décimo
+Undécimo
+Duodécimo
+Decimotercero
+Decimocuarto
+Decimoquinto
+Decimosexto
+Decimoséptimo
+Decimoctavo
+Decimonoveno
+Vigésimo
+Vigesimoprimero
+Vigesimosegundo
+Vigesimotercero
+Vigesimocuarto
+Vigesimoquinto
+Vigesimosexto
+Vigesimoséptimo
+Vigesimoctavo
+Vigesimonoveno
+Trigésimo
+Trigesimoprimero
+Trigesimosegundo
+Trigesimotercero
+Trigesimocuarto
+Trigesimoquinto
+Trigesimosexto
+Trigesimoséptimo
+Trigesimoctavo
+Trigesimonoveno
+Cuadragésimo
+Cuadragésimoprimero
+Cuadragésimosegundo
+Cuadragésimotercero
+Cuadragésimocuarto
+Cuadragésimoquinto
+Cuadragésimosexto
+Cuadragésimoséptimo
+Cuadragésimoctavo
+Cuadragésimonoveno
+Quincuagésimo
+Quincuagésimoprimero
+Quincuagésimosegundo
+Quincuagésimotercero
+Quincuagésimocuarto
+Quincuagésimoquinto
+Quincuagésimosexto
+Quincuagésimoséptimo
+Quincuagésimoctavo
+Quincuagésimonoveno
+Sexagésimo
+Sexagésimoprimero
+Sexagésimosegundo
+Sexagésimotercero
+Sexagésimocuarto
+Sexagésimoquinto
+Sexagésimosexto
+Sexagésimoséptimo
+Sexagésimoctavo
+Sexagésimonoveno
+Septuagésimo
+Septuagésimoprimero
+Septuagésimosegundo
+Septuagésimotercero
+Septuagésimocuarto
+Septuagésimoquinto
+Septuagésimosexto
+Septuagésimoséptimo
+Septuagésimoctavo
+Septuagésimonoveno
+Octogésimo
+Octogésimoprimero
+Octogésimosegundo
+Octogésimotercero
+Octogésimocuarto
+Octogésimoquinto
+Octogésimosexto
+Octogésimoséptimo
+Octogésimoctavo
+Octogésimonoveno
+Nonagésimo
+Nonagésimoprimero
+Nonagésimosegundo
+Nonagésimotercero
+Nonagésimocuarto
+Nonagésimoquinto
+Nonagésimosexto
+Nonagésimoséptimo
+Nonagésimoctavo
+Nonagésimonoveno
+Centésimo
