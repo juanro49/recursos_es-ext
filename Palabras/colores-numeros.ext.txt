@@ -99,6 +99,31 @@ Noventa-i-sieti
 Noventa-i-ochu
 Noventa-i-nuevi
 Cientu
+Dozientus
+Dozientus cinqüenta
+Trezientus
+Quatrucientus
+Quiñentus
+Seicientus
+Setecientus
+Ochocientus
+Nuevecientus
+Mil
+Dos mil
+Dos mil quiñentus
+Tres mil
+Quatru mil
+Cincu mil
+Seis mil
+Sieti mil
+Ochu mil
+Nuevi mil
+Dies mil
+Dozi mil
+Cinqüenta mil
+Cien mil
+Un millón
+Dos millonis
 Primeru
 Segundu
 Terceru
@@ -199,3 +224,42 @@ Noventa-i-sieti
 Noventa-i-ochu
 Noventa-i-nuevi
 Centenariu
+Un millón dozientus trenta-i-quatru mil quiñentus sessenta-i-sieti
+Nuevecientus ochenta-i-sieti mil seicientus cinqüenta-i-quatru
+Dupli
+Tipli
+Quádrupli
+Enteru
+Meyu
+Metá
+Terciu
+Quartu
+Quintu
+Ventiavu
+Trentavu
+Centavu
+Pari
+Dezena
+Dozena
+Quinzena
+Ventena
+Trentena
+Cientu
+Colol
+Coloris
+Verdinu
+restrallón
+candongu
+verrichonchu
+Verdi
+Brancu
+Negru
+Colorau
+Amarillu
+Amarrón
+Azul Craru
+Azul Escuru
+Gris
+Naranja
+Colol-De-Rosa
+Morau

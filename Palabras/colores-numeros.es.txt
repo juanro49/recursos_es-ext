@@ -99,6 +99,31 @@ Noventa y siete
 Noventa y ocho
 Noventa y nueve
 Cien
+Doscientos
+Doscientos cincuenta
+Trescientos
+Cuatrocientos
+Quinientos
+Seiscientos
+Setecientos
+Ochocientos
+Novecientos
+Mil
+Dos mil
+Dos mil quinientos
+Tres mil
+Cuatro mil
+Cinco mil
+Seis mil
+Siete mil
+Ocho mil
+Nueve mil
+Diez mil
+Doce mil
+Cincuenta mil
+Cien mil
+Un millón
+Dos millones
 Primero
 Segundo
 Tercero
@@ -199,3 +224,42 @@ Nonagésimoséptimo
 Nonagésimoctavo
 Nonagésimonoveno
 Centésimo
+Un millón doscientos treinta y cuatro mil quinientos sesenta y siete
+Novecientos ochenta y siete mil seiscientos cincuenta y cuatro
+Doble
+Triple
+Cuádruple
+Entero
+Medio
+Mitad
+Terciuo
+Quarto
+Quinto
+Venteavo
+Trentavo
+Centavo
+Par
+Decena
+Docena
+Quincena
+Veintena
+Treintena
+Centena
+Color
+Colores
+Tirando a verde
+chillón
+confuso
+llamativo
+Verde
+Blanco
+Negro
+Rojo
+Amarillo
+Marrón
+Azul Claro
+Azul Oscuro
+Gris
+Naranja
+Rosa
+Morado

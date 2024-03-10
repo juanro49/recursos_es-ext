@@ -10,3 +10,14 @@ Setiembri
 Otubri
 Noviembri
 Deziembri
+Lunis
+Martis
+Miércolis
+Juevis
+Viernis
+Sábau
+Domingu
+Primavera
+Veranu
+Toñá
+Iviernu

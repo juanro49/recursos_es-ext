@@ -10,3 +10,14 @@ Septiembre
 Octubre
 Noviembre
 Diciembre
+Lunes
+Martes
+Miércoles
+Jueves
+Viernes
+Sábado
+Domingo
+Primavera
+Verano
+Otoño
+Invierno
