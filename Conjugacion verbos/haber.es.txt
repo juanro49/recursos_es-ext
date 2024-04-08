@@ -1,0 +1,58 @@
+Infinitivo simple
+haber
+Gerundio simple
+habiendo
+Participio
+habido
+Presente simple
+he
+he
+has
+ha
+ha
+hemos
+habéis
+han
+han
+Pretérito perfecto simple
+hube
+hubiste
+hubo
+hubimos
+hubísteis
+hubieron
+Pretérito imperfecto
+había
+habías
+había
+habíamos
+habíais
+habían
+Futuro simple
+habré
+habrás
+habrá
+hebremos
+habréis
+habrán
+Condicional simple
+habría
+habrías
+habría
+habríamos
+habríais
+habrían
+Presente simple de subjuntivo
+haya
+hayas
+haya
+hayamos
+hayáis
+hayan
+Pretérito imperfecto de subjuntivo
+hubiera
+hubieras
+hubiera
+hubiéramos
+hubiétais
+hubieran

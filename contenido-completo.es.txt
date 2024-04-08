@@ -6991,6 +6991,64 @@ estuviéramos
 estuviérais
 estuvieran
 Infinitivo simple
+haber
+Gerundio simple
+habiendo
+Participio
+habido
+Presente simple
+he
+he
+has
+ha
+ha
+hemos
+habéis
+han
+han
+Pretérito perfecto simple
+hube
+hubiste
+hubo
+hubimos
+hubísteis
+hubieron
+Pretérito imperfecto
+había
+habías
+había
+habíamos
+habíais
+habían
+Futuro simple
+habré
+habrás
+habrá
+hebremos
+habréis
+habrán
+Condicional simple
+habría
+habrías
+habría
+habríamos
+habríais
+habrían
+Presente simple de subjuntivo
+haya
+hayas
+haya
+hayamos
+hayáis
+hayan
+Pretérito imperfecto de subjuntivo
+hubiera
+hubieras
+hubiera
+hubiéramos
+hubiétais
+hubieran
+Infinitivo simple
 hablar
 Infinitivo compuesto
 haber hablado
@@ -7209,6 +7267,62 @@ no hablemos
 no habléis
 no hablen
 Infinitivo simple
+ir
+Gerundio simple
+yendo
+Participio
+ido
+Presente simple
+voy
+voy
+vas
+va
+vamos
+váis
+ván
+Pretérito perfecto simple
+fuí
+fuiste
+fué
+fuimos
+fuísteis
+fueron
+Pretérito imperfecto
+iba
+ibas
+iba
+íbamos
+ibais
+iban
+Futuro simple
+iré
+irás
+irá
+iremos
+iréis
+irán
+Condicional simple
+iría
+irías
+iría
+iríamos
+iríais
+irían
+Presente simple de subjuntivo
+vaya
+vayas
+vaya
+vayamos
+vayáis
+vayan
+Pretérito imperfecto de subjuntivo
+fuera
+fueras
+fuera
+fuéramos
+fuétais
+fueran
+Infinitivo simple
 ser
 Gerundio simple
 siendo
@@ -7264,3 +7378,58 @@ fuera
 fuéramos
 fuérais
 fueran
+Infinitivo simple
+venir
+Gerundio simple
+viniendo
+Participio
+venido
+Presente simple
+vengo
+vienes
+viene
+venimos
+venís
+vienen
+Pretérito perfecto simple
+vine
+viniste
+vino
+vinimos
+vinísteis
+vinieron
+Pretérito imperfecto
+venía
+venías
+venía
+veníamos
+veníais
+venían
+Futuro simple
+vendré
+vendrás
+vendrá
+vendremos
+vendreis
+vendrán
+Condicional simple
+vendría
+vendrías
+vendría
+vendríamos
+vendríais
+vendrían
+Presente simple de subjuntivo
+venga
+vengas
+venga
+vengamos
+vengáis
+vengan
+Pretérito imperfecto de subjuntivo
+viniera
+vinieras
+viniera
+viniéramos
+vinierais
+vinieran

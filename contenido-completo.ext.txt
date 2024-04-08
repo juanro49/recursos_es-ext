@@ -6991,6 +6991,64 @@ estuviéramus
 estuviérais
 estuvieran
 Enfinitivu simpli
+avel
+Gerundiu simpli
+uviendu
+Participiu
+avíu
+Presenti simpli
+ei
+é
+ás
+á
+ái
+avemus
+aveis
+án
+ain
+Passau simpli
+uvu
+uvisti
+uvu
+uvimus
+uvistis
+uvun
+Passau emperfetu
+avía
+avías
+avía
+aviamus
+aviais
+avían
+Hoturu simpli
+averá
+averás
+averás
+averemus
+avereis
+averán
+Podencial simpli
+avería
+averías
+avería
+averiamus
+averiais
+averían
+Presenti simpli de sojuntivu
+aiga
+aigas
+aiga
+aigamus
+aigais
+aigan
+Passau imperfetu de sojuntivu
+uviera
+uvieras
+uviera
+uviéramus
+uvierais
+uvieran
+Enfinitivu simpli
 habral
 Enfinitivu compuestu
 avel habrau
@@ -7209,6 +7267,62 @@ no habremus
 no habreis
 no habrin
 Enfinitivu simpli
+dil
+Gerundiu simpli
+diendu
+Participiu
+díu
+Presenti simpli
+vo
+voi
+vás
+vá
+dimus
+vais
+ván
+Passau simpli
+hui
+huisti
+hue
+huimus
+huistis
+huerun
+Passau emperfetu
+diva
+divas
+diva
+divamus
+divais
+divan
+Hoturu simpli
+diré
+dirás
+dirás
+diremus
+direis
+dirán
+Podencial simpli
+diría
+dirías
+diría
+diriamus
+diriais
+dirían
+Presenti simpli de sojuntivu
+vaiga
+vaigas
+vaiga
+vaigamus
+vaigais
+vaigan
+Passau imperfetu de sojuntivu
+huera
+hueras
+huera
+huéramus
+huerais
+hueran
+Enfinitivu simpli
 sel
 Gerundiu simpli
 siendu
@@ -7264,3 +7378,58 @@ huera
 huéramus
 huérais
 hueran
+Enfinitivu simpli
+venir
+Gerundiu simpli
+viniendu
+Participiu
+veníu
+Presenti simpli
+vengu
+vienis
+vien
+venimus
+venís
+vienin
+Passau simpli
+vini
+vinisti
+vinu
+vinimus
+vinistis
+vinun
+Passau emperfetu
+venía
+venías
+venía
+veniamus
+veníais
+venían
+Hoturu simpli
+vendré
+vendrás
+vendrá
+vendremus
+vendreis
+vendrán
+Podencial simpli
+vendría
+vendrías
+vendría
+vendriamus
+vendriais
+vendrían
+Presenti simpli de sojuntivu
+venga
+vengas
+venga
+vengamus
+vengais
+vengan
+Passau imperfetu de sojuntivu
+viniera
+vinieras
+viniera
+vinieramus
+vinierais
+vinieran
